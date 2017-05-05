@@ -1,4 +1,4 @@
-USE finalProj;
+USE 226operation;
 CREATE TABLE factory(
     factoryId   INT             NOT NULL,
     factoryName VARCHAR(200)    NOT NULL,
@@ -8,9 +8,10 @@ CREATE TABLE factory(
     street      VARCHAR(50)     NOT NULL,
     PRIMARY KEY (factoryId)
 ); 
- 
-insert into factory (factoryId, factoryName, country, state, city, street) values (1, 'Aptalis Pharma US, Inc.', 'United States', 'California', 'Pasadena', '22493 Golf Course Center');
-insert into factory (factoryId, factoryName, country, state, city, street) values (2, 'Physicians Total Care, Inc.', 'United States', 'Minnesota', 'Saint Paul', '69 Clemons Pass');
-insert into factory (factoryId, factoryName, country, state, city, street) values (3, 'NCS HealthCare of KY, Inc dba Vangard Labs', 'United States', 'California', 'Los Angeles', '26904 Portage Avenue');
-insert into factory (factoryId, factoryName, country, state, city, street) values (4, 'Physicians Total Care, Inc.', 'United States', 'Arizona', 'Phoenix', '1747 Memorial Way');
-insert into factory (factoryId, factoryName, country, state, city, street) values (5, 'Bryant Ranch Prepack', 'United States', 'Florida', 'Naples', '3 Straubel Plaza');
+
+insert into factory (factoryId, factoryName, country, state, city, street) values (1, 'Physicians Total Care, Inc.', 'United States', 'Alabama', 'Montgomery', 'Debs');
+insert into factory (factoryId, factoryName, country, state, city, street) values (2, 'Mylan Pharmaceuticals Inc.', 'United States', 'Texas', 'Pasadena', 'Meadow Vale');
+insert into factory (factoryId, factoryName, country, state, city, street) values (3, 'Jets, Sets, & Elephants Beauty Corp.', 'United States', 'New York', 'New York City', 'Texas');
+insert into factory (factoryId, factoryName, country, state, city, street) values (4, 'Hannaford Brothers Company', 'United States', 'Florida', 'Hialeah', 'High Crossing');
+insert into factory (factoryId, factoryName, country, state, city, street) values (5, 'Ventura Corporation Ltd.', 'United States', 'Kentucky', 'Lexington', 'Northport');
+insert into factory (factoryId, factoryName, country, state, city, street) values (6, 'Nelco Laboratories, Inc.', 'United States', 'California', 'Bakersfield', 'Merry');
