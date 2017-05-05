@@ -22,5 +22,5 @@ function getData($collectionName, $filter, $option){
     return $rows;
 }
 
-$ary = getData("db272.TopProduct", ['storeID' => 1, 'productID' => 1], ['projection' => ['comment' => 1, '_id' => 0]]);
+$ary = getData("226operation.saleTransaction", ['storeID' => 1, 'productID' => 1], ['projection' => ['comment' => 1, '_id' => 0]]);
 var_dump($ary);
