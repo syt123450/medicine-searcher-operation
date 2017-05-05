@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script src="js/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+
+<div class="container">
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a class="navbar-brand">Medicine</a>
+            </div>
+            <div>
+                <ul class="nav navbar-nav">
+                    <li class="active"><a>Buy</a></li>
+                    <li><a href="html/management.html">Management</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div href="#" class="list-group-item">
+        <div class="row">
+            <div class="col-sm-3"><h4>Search Medicine :</h4></div>
+            <div class="col-sm-2">
+                <input type="text" class="form-control" placeholder="User Name">
+            </div>
+            <div class="col-sm-2">
+                <input id="newInput" type="text" class="form-control" placeholder="Medicine Name">
+            </div>
+            <div class="col-sm-4">
+                <button id="newRegister" class="btn btn-default" type="button">Search</button>
+            </div>
+        </div>
+    </div>
+
+    <table class="table table-hover">
+        <caption>Medicine List</caption>
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Number</th>
+            <th>Buy Button</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Tanmay</td>
+            <td>
+
+                <div class="input-group" class="col-lg-6">
+                    <span style="width:30px;border-right: 0;" class="input-group-btn">
+						<button class="btn btn-default" type="button">
+							-
+						</button>
+					</span>
+                    <input style="width:50px;text-align: center" type="text" class="form-control" value="1">
+                    <span style="width:30px;" class="input-group-btn">
+						<button class="btn btn-default" type="button">
+							+
+						</button>
+					</span>
+                </div>
+
+            </td>
+            <td>
+                <button type="button" class="btn btn-primary btn-sm">Button</button>
+            </td>
+        </tr>
+        <tr>
+            <td>Sachin</td>
+            <td>
+
+                <div class="input-group" class="col-lg-6">
+                    <span style="width:30px;" class="input-group-btn">
+						<button class="btn btn-default" type="button">
+							-
+						</button>
+					</span>
+                    <input style="width:50px;text-align: center" type="text" class="form-control" value="1">
+                    <span style="width:30px;" class="input-group-btn">
+						<button class="btn btn-default" type="button">
+							+
+						</button>
+					</span>
+                </div>
+
+            </td>
+            <td>
+                <button type="button" class="btn btn-primary btn-sm">Button</button>
+            </td>
+        </tr>
+        <tr>
+            <td>Uma</td>
+            <td>
+
+                <div class="input-group" class="col-lg-6">
+                    <span style="width:30px;" class="input-group-btn">
+						<button class="btn btn-default" type="button">
+							-
+						</button>
+					</span>
+                    <input style="width:50px;text-align: center" type="text" class="form-control" value="1">
+                    <span style="width:30px;" class="input-group-btn">
+						<button class="btn btn-default" type="button">
+							+
+						</button>
+					</span>
+                </div>
+
+            </td>
+            <td>
+                <button type="button" class="btn btn-primary btn-sm">Button</button>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+
+</div>
+
+<footer>
+    Copyright © 2017 CMPE272 Team Ultimate All Rights Reserved.
+</footer>
+
+</body>
+</html>
