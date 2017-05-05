@@ -1,5 +1,4 @@
-USE finalProj;
-
+USE 226operation;
 CREATE TABLE store (
     storeId     INT             NOT NULL,
     storeName   VARCHAR(100)    NOT NULL,

@@ -1,4 +1,4 @@
-USE finalProj;
+USE 226operation;
 CREATE TABLE customer (
     customerId      INT         NOT NULL,
     gender          VARCHAR(10) NOT NULL,

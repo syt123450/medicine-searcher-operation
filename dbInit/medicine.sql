@@ -1,4 +1,4 @@
-USE finalProj;
+USE 226operation;
 CREATE TABLE medicine(
     medicineId      INT             NOT NULL,
     medicineName    VARCHAR(400)    NOT NULL,
