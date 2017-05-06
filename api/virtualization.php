@@ -34,7 +34,7 @@ function virturalData(){
         $saleSum = 0;
         if (count($results) >0){
             foreach($results as $result){
-                $result = json_decode(json_encode($results[0]), true);
+                $result = json_decode(json_encode($result), true);
                 $saleSum += $result["totalPrice"];
             }
         }
@@ -50,7 +50,7 @@ function virturalData(){
     $ret = array();
     foreach ($factorySums as $fs){
         if ($fs !=0){
-            $ret[] = $fs/$totalSum * 100;
+            $ret[] = round( $fs/$totalSum * 100, 1);
         }
         else {
             $ret[] =0;

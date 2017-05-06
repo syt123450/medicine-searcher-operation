@@ -99,5 +99,5 @@ db.saleTransaction.insertMany (
 {"transactionId":97,"quantity":5,"time":1521310118,"medicineId":854,"storeId":19,"customerId":1185,"factoryId":6,"totalPrice":8654.7188012421},
 {"transactionId":98,"quantity":6,"time":1505705855,"medicineId":883,"storeId":15,"customerId":1151,"factoryId":1,"totalPrice":2609.1512113286},
 {"transactionId":99,"quantity":6,"time":1521138189,"medicineId":320,"storeId":8,"customerId":1743,"factoryId":3,"totalPrice":8613.3335570796},
-{"transactionId":100,"quantity":5,"time":1517271782,"medicineId":377,"storeId":49,"customerId":1863,"factoryId":1,"totalPrice":2566.5199968488]
+{"transactionId":100,"quantity":5,"time":1517271782,"medicineId":377,"storeId":49,"customerId":1863,"factoryId":1,"totalPrice":2566.5199968488}]
 );
