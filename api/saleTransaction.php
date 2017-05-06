@@ -5,6 +5,8 @@
  * Date: 2017/5/5 16:37
  */
 
+require_once('../PhpLib/mongoConn.php');
+
 function findSaleTransaction(){
     // Limit date to current date only
     $date = new DateTime();
@@ -14,5 +16,7 @@ function findSaleTransaction(){
 
     $results = json_decode(json_encode($results), true);
 
-    echo $results;
+    echo json_encode($results);
 }
+
+findSaleTransaction();
