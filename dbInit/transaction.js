@@ -1,905 +1,103 @@
 // use 226operation;
 db.saleTransaction.insertMany (
-    [
-        {
-            "transactionId": 1,
-            "quantity": 3,
-            "time": 1491970745,
-            "medicineId": 913,
-            "storeId": 32,
-            "customerId": 479,
-            "totalPrice": 18
-        },
-        {
-            "transactionId": 2,
-            "quantity": 9,
-            "time": 1486254499,
-            "medicineId": 261,
-            "storeId": 14,
-            "customerId": 701,
-            "totalPrice": 106
-        },
-        {
-            "transactionId": 3,
-            "quantity": 10,
-            "time": 1486734854,
-            "medicineId": 223,
-            "storeId": 45,
-            "customerId": 1256,
-            "totalPrice": 70
-        },
-        {
-            "transactionId": 4,
-            "quantity": 10,
-            "time": 1464625510,
-            "medicineId": 466,
-            "storeId": 36,
-            "customerId": 585,
-            "totalPrice": 88
-        },
-        {
-            "transactionId": 5,
-            "quantity": 5,
-            "time": 1478345300,
-            "medicineId": 511,
-            "storeId": 22,
-            "customerId": 1554,
-            "totalPrice": 20
-        },
-        {
-            "transactionId": 6,
-            "quantity": 2,
-            "time": 1482937673,
-            "medicineId": 513,
-            "storeId": 22,
-            "customerId": 1380,
-            "totalPrice": 164
-        },
-        {
-            "transactionId": 7,
-            "quantity": 7,
-            "time": 1492668314,
-            "medicineId": 863,
-            "storeId": 24,
-            "customerId": 1233,
-            "totalPrice": 149
-        },
-        {
-            "transactionId": 8,
-            "quantity": 7,
-            "time": 1492672515,
-            "medicineId": 774,
-            "storeId": 48,
-            "customerId": 1134,
-            "totalPrice": 65
-        },
-        {
-            "transactionId": 9,
-            "quantity": 9,
-            "time": 1480881447,
-            "medicineId": 49,
-            "storeId": 36,
-            "customerId": 1781,
-            "totalPrice": 82
-        },
-        {
-            "transactionId": 10,
-            "quantity": 7,
-            "time": 1484078272,
-            "medicineId": 423,
-            "storeId": 48,
-            "customerId": 843,
-            "totalPrice": 193
-        },
-        {
-            "transactionId": 11,
-            "quantity": 7,
-            "time": 1478133038,
-            "medicineId": 358,
-            "storeId": 9,
-            "customerId": 346,
-            "totalPrice": 74
-        },
-        {
-            "transactionId": 12,
-            "quantity": 1,
-            "time": 1464610687,
-            "medicineId": 779,
-            "storeId": 13,
-            "customerId": 118,
-            "totalPrice": 39
-        },
-        {
-            "transactionId": 13,
-            "quantity": 9,
-            "time": 1493501353,
-            "medicineId": 787,
-            "storeId": 47,
-            "customerId": 1088,
-            "totalPrice": 12
-        },
-        {
-            "transactionId": 14,
-            "quantity": 4,
-            "time": 1489965599,
-            "medicineId": 733,
-            "storeId": 41,
-            "customerId": 1507,
-            "totalPrice": 57
-        },
-        {
-            "transactionId": 15,
-            "quantity": 5,
-            "time": 1473446286,
-            "medicineId": 948,
-            "storeId": 38,
-            "customerId": 8,
-            "totalPrice": 192
-        },
-        {
-            "transactionId": 16,
-            "quantity": 8,
-            "time": 1466373386,
-            "medicineId": 415,
-            "storeId": 27,
-            "customerId": 1087,
-            "totalPrice": 41
-        },
-        {
-            "transactionId": 17,
-            "quantity": 2,
-            "time": 1479501637,
-            "medicineId": 925,
-            "storeId": 33,
-            "customerId": 197,
-            "totalPrice": 71
-        },
-        {
-            "transactionId": 18,
-            "quantity": 9,
-            "time": 1477986465,
-            "medicineId": 24,
-            "storeId": 17,
-            "customerId": 833,
-            "totalPrice": 53
-        },
-        {
-            "transactionId": 19,
-            "quantity": 5,
-            "time": 1472990606,
-            "medicineId": 401,
-            "storeId": 17,
-            "customerId": 1335,
-            "totalPrice": 131
-        },
-        {
-            "transactionId": 20,
-            "quantity": 6,
-            "time": 1480416916,
-            "medicineId": 667,
-            "storeId": 45,
-            "customerId": 87,
-            "totalPrice": 108
-        },
-        {
-            "transactionId": 21,
-            "quantity": 9,
-            "time": 1465342566,
-            "medicineId": 80,
-            "storeId": 11,
-            "customerId": 909,
-            "totalPrice": 123
-        },
-        {
-            "transactionId": 22,
-            "quantity": 2,
-            "time": 1466727057,
-            "medicineId": 778,
-            "storeId": 11,
-            "customerId": 1797,
-            "totalPrice": 181
-        },
-        {
-            "transactionId": 23,
-            "quantity": 5,
-            "time": 1462758418,
-            "medicineId": 282,
-            "storeId": 26,
-            "customerId": 634,
-            "totalPrice": 7
-        },
-        {
-            "transactionId": 24,
-            "quantity": 9,
-            "time": 1492638301,
-            "medicineId": 498,
-            "storeId": 49,
-            "customerId": 1390,
-            "totalPrice": 129
-        },
-        {
-            "transactionId": 25,
-            "quantity": 8,
-            "time": 1471906602,
-            "medicineId": 368,
-            "storeId": 16,
-            "customerId": 832,
-            "totalPrice": 45
-        },
-        {
-            "transactionId": 26,
-            "quantity": 9,
-            "time": 1490631132,
-            "medicineId": 772,
-            "storeId": 43,
-            "customerId": 1494,
-            "totalPrice": 11
-        },
-        {
-            "transactionId": 27,
-            "quantity": 3,
-            "time": 1478868506,
-            "medicineId": 501,
-            "storeId": 27,
-            "customerId": 660,
-            "totalPrice": 72
-        },
-        {
-            "transactionId": 28,
-            "quantity": 10,
-            "time": 1464260064,
-            "medicineId": 333,
-            "storeId": 12,
-            "customerId": 579,
-            "totalPrice": 3
-        },
-        {
-            "transactionId": 29,
-            "quantity": 1,
-            "time": 1464766318,
-            "medicineId": 800,
-            "storeId": 40,
-            "customerId": 489,
-            "totalPrice": 143
-        },
-        {
-            "transactionId": 30,
-            "quantity": 1,
-            "time": 1470619483,
-            "medicineId": 745,
-            "storeId": 26,
-            "customerId": 789,
-            "totalPrice": 33
-        },
-        {
-            "transactionId": 31,
-            "quantity": 4,
-            "time": 1465168650,
-            "medicineId": 674,
-            "storeId": 11,
-            "customerId": 666,
-            "totalPrice": 196
-        },
-        {
-            "transactionId": 32,
-            "quantity": 1,
-            "time": 1466705169,
-            "medicineId": 239,
-            "storeId": 1,
-            "customerId": 80,
-            "totalPrice": 12
-        },
-        {
-            "transactionId": 33,
-            "quantity": 8,
-            "time": 1484283213,
-            "medicineId": 932,
-            "storeId": 29,
-            "customerId": 61,
-            "totalPrice": 129
-        },
-        {
-            "transactionId": 34,
-            "quantity": 6,
-            "time": 1481725208,
-            "medicineId": 922,
-            "storeId": 5,
-            "customerId": 457,
-            "totalPrice": 165
-        },
-        {
-            "transactionId": 35,
-            "quantity": 10,
-            "time": 1473729332,
-            "medicineId": 319,
-            "storeId": 31,
-            "customerId": 487,
-            "totalPrice": 63
-        },
-        {
-            "transactionId": 36,
-            "quantity": 1,
-            "time": 1476428348,
-            "medicineId": 171,
-            "storeId": 17,
-            "customerId": 272,
-            "totalPrice": 156
-        },
-        {
-            "transactionId": 37,
-            "quantity": 9,
-            "time": 1474905826,
-            "medicineId": 339,
-            "storeId": 38,
-            "customerId": 605,
-            "totalPrice": 21
-        },
-        {
-            "transactionId": 38,
-            "quantity": 6,
-            "time": 1469965691,
-            "medicineId": 953,
-            "storeId": 30,
-            "customerId": 1270,
-            "totalPrice": 29
-        },
-        {
-            "transactionId": 39,
-            "quantity": 2,
-            "time": 1483342753,
-            "medicineId": 329,
-            "storeId": 30,
-            "customerId": 1131,
-            "totalPrice": 36
-        },
-        {
-            "transactionId": 40,
-            "quantity": 3,
-            "time": 1476598154,
-            "medicineId": 628,
-            "storeId": 9,
-            "customerId": 1440,
-            "totalPrice": 185
-        },
-        {
-            "transactionId": 41,
-            "quantity": 10,
-            "time": 1486752371,
-            "medicineId": 927,
-            "storeId": 30,
-            "customerId": 431,
-            "totalPrice": 57
-        },
-        {
-            "transactionId": 42,
-            "quantity": 5,
-            "time": 1471980705,
-            "medicineId": 887,
-            "storeId": 21,
-            "customerId": 1763,
-            "totalPrice": 89
-        },
-        {
-            "transactionId": 43,
-            "quantity": 8,
-            "time": 1486886385,
-            "medicineId": 460,
-            "storeId": 41,
-            "customerId": 1109,
-            "totalPrice": 68
-        },
-        {
-            "transactionId": 44,
-            "quantity": 5,
-            "time": 1490121510,
-            "medicineId": 855,
-            "storeId": 26,
-            "customerId": 1646,
-            "totalPrice": 103
-        },
-        {
-            "transactionId": 45,
-            "quantity": 4,
-            "time": 1493739481,
-            "medicineId": 665,
-            "storeId": 43,
-            "customerId": 36,
-            "totalPrice": 45
-        },
-        {
-            "transactionId": 46,
-            "quantity": 1,
-            "time": 1486180192,
-            "medicineId": 123,
-            "storeId": 37,
-            "customerId": 1692,
-            "totalPrice": 135
-        },
-        {
-            "transactionId": 47,
-            "quantity": 9,
-            "time": 1462904876,
-            "medicineId": 973,
-            "storeId": 36,
-            "customerId": 1855,
-            "totalPrice": 27
-        },
-        {
-            "transactionId": 48,
-            "quantity": 3,
-            "time": 1473602172,
-            "medicineId": 839,
-            "storeId": 35,
-            "customerId": 223,
-            "totalPrice": 157
-        },
-        {
-            "transactionId": 49,
-            "quantity": 6,
-            "time": 1477158386,
-            "medicineId": 781,
-            "storeId": 47,
-            "customerId": 575,
-            "totalPrice": 42
-        },
-        {
-            "transactionId": 50,
-            "quantity": 3,
-            "time": 1478821666,
-            "medicineId": 470,
-            "storeId": 43,
-            "customerId": 870,
-            "totalPrice": 14
-        },
-        {
-            "transactionId": 51,
-            "quantity": 2,
-            "time": 1466060262,
-            "medicineId": 530,
-            "storeId": 9,
-            "customerId": 821,
-            "totalPrice": 182
-        },
-        {
-            "transactionId": 52,
-            "quantity": 5,
-            "time": 1476312933,
-            "medicineId": 702,
-            "storeId": 50,
-            "customerId": 130,
-            "totalPrice": 29
-        },
-        {
-            "transactionId": 53,
-            "quantity": 6,
-            "time": 1491315772,
-            "medicineId": 964,
-            "storeId": 46,
-            "customerId": 45,
-            "totalPrice": 6
-        },
-        {
-            "transactionId": 54,
-            "quantity": 6,
-            "time": 1484956091,
-            "medicineId": 297,
-            "storeId": 23,
-            "customerId": 802,
-            "totalPrice": 60
-        },
-        {
-            "transactionId": 55,
-            "quantity": 7,
-            "time": 1486005229,
-            "medicineId": 966,
-            "storeId": 11,
-            "customerId": 399,
-            "totalPrice": 29
-        },
-        {
-            "transactionId": 56,
-            "quantity": 2,
-            "time": 1479615610,
-            "medicineId": 74,
-            "storeId": 5,
-            "customerId": 866,
-            "totalPrice": 3
-        },
-        {
-            "transactionId": 57,
-            "quantity": 6,
-            "time": 1468710670,
-            "medicineId": 724,
-            "storeId": 40,
-            "customerId": 252,
-            "totalPrice": 173
-        },
-        {
-            "transactionId": 58,
-            "quantity": 9,
-            "time": 1469665457,
-            "medicineId": 531,
-            "storeId": 10,
-            "customerId": 1472,
-            "totalPrice": 83
-        },
-        {
-            "transactionId": 59,
-            "quantity": 8,
-            "time": 1482705602,
-            "medicineId": 309,
-            "storeId": 22,
-            "customerId": 1456,
-            "totalPrice": 70
-        },
-        {
-            "transactionId": 60,
-            "quantity": 9,
-            "time": 1478311080,
-            "medicineId": 728,
-            "storeId": 4,
-            "customerId": 872,
-            "totalPrice": 119
-        },
-        {
-            "transactionId": 61,
-            "quantity": 5,
-            "time": 1480078034,
-            "medicineId": 165,
-            "storeId": 9,
-            "customerId": 364,
-            "totalPrice": 141
-        },
-        {
-            "transactionId": 62,
-            "quantity": 1,
-            "time": 1482001415,
-            "medicineId": 287,
-            "storeId": 1,
-            "customerId": 1024,
-            "totalPrice": 71
-        },
-        {
-            "transactionId": 63,
-            "quantity": 9,
-            "time": 1493458504,
-            "medicineId": 225,
-            "storeId": 20,
-            "customerId": 1901,
-            "totalPrice": 200
-        },
-        {
-            "transactionId": 64,
-            "quantity": 4,
-            "time": 1472378800,
-            "medicineId": 204,
-            "storeId": 38,
-            "customerId": 1973,
-            "totalPrice": 137
-        },
-        {
-            "transactionId": 65,
-            "quantity": 10,
-            "time": 1471111155,
-            "medicineId": 613,
-            "storeId": 6,
-            "customerId": 815,
-            "totalPrice": 59
-        },
-        {
-            "transactionId": 66,
-            "quantity": 10,
-            "time": 1487810446,
-            "medicineId": 347,
-            "storeId": 47,
-            "customerId": 1464,
-            "totalPrice": 172
-        },
-        {
-            "transactionId": 67,
-            "quantity": 5,
-            "time": 1486635739,
-            "medicineId": 859,
-            "storeId": 42,
-            "customerId": 303,
-            "totalPrice": 178
-        },
-        {
-            "transactionId": 68,
-            "quantity": 5,
-            "time": 1481444825,
-            "medicineId": 909,
-            "storeId": 18,
-            "customerId": 278,
-            "totalPrice": 172
-        },
-        {
-            "transactionId": 69,
-            "quantity": 5,
-            "time": 1476000105,
-            "medicineId": 425,
-            "storeId": 48,
-            "customerId": 1573,
-            "totalPrice": 133
-        },
-        {
-            "transactionId": 70,
-            "quantity": 10,
-            "time": 1490795006,
-            "medicineId": 604,
-            "storeId": 4,
-            "customerId": 1732,
-            "totalPrice": 83
-        },
-        {
-            "transactionId": 71,
-            "quantity": 7,
-            "time": 1471386330,
-            "medicineId": 118,
-            "storeId": 37,
-            "customerId": 539,
-            "totalPrice": 188
-        },
-        {
-            "transactionId": 72,
-            "quantity": 9,
-            "time": 1469602122,
-            "medicineId": 53,
-            "storeId": 38,
-            "customerId": 1737,
-            "totalPrice": 131
-        },
-        {
-            "transactionId": 73,
-            "quantity": 4,
-            "time": 1476147172,
-            "medicineId": 249,
-            "storeId": 44,
-            "customerId": 1354,
-            "totalPrice": 182
-        },
-        {
-            "transactionId": 74,
-            "quantity": 4,
-            "time": 1491365406,
-            "medicineId": 410,
-            "storeId": 45,
-            "customerId": 743,
-            "totalPrice": 170
-        },
-        {
-            "transactionId": 75,
-            "quantity": 2,
-            "time": 1465123715,
-            "medicineId": 572,
-            "storeId": 36,
-            "customerId": 1966,
-            "totalPrice": 114
-        },
-        {
-            "transactionId": 76,
-            "quantity": 3,
-            "time": 1489313948,
-            "medicineId": 917,
-            "storeId": 26,
-            "customerId": 1618,
-            "totalPrice": 79
-        },
-        {
-            "transactionId": 77,
-            "quantity": 2,
-            "time": 1477570042,
-            "medicineId": 474,
-            "storeId": 48,
-            "customerId": 560,
-            "totalPrice": 129
-        },
-        {
-            "transactionId": 78,
-            "quantity": 6,
-            "time": 1465774931,
-            "medicineId": 323,
-            "storeId": 18,
-            "customerId": 1780,
-            "totalPrice": 128
-        },
-        {
-            "transactionId": 79,
-            "quantity": 4,
-            "time": 1491312833,
-            "medicineId": 863,
-            "storeId": 36,
-            "customerId": 1617,
-            "totalPrice": 139
-        },
-        {
-            "transactionId": 80,
-            "quantity": 2,
-            "time": 1480941178,
-            "medicineId": 706,
-            "storeId": 25,
-            "customerId": 1711,
-            "totalPrice": 62
-        },
-        {
-            "transactionId": 81,
-            "quantity": 10,
-            "time": 1479444941,
-            "medicineId": 946,
-            "storeId": 42,
-            "customerId": 1524,
-            "totalPrice": 86
-        },
-        {
-            "transactionId": 82,
-            "quantity": 4,
-            "time": 1491650466,
-            "medicineId": 117,
-            "storeId": 34,
-            "customerId": 832,
-            "totalPrice": 45
-        },
-        {
-            "transactionId": 83,
-            "quantity": 4,
-            "time": 1463450587,
-            "medicineId": 268,
-            "storeId": 12,
-            "customerId": 206,
-            "totalPrice": 66
-        },
-        {
-            "transactionId": 84,
-            "quantity": 7,
-            "time": 1465735115,
-            "medicineId": 212,
-            "storeId": 47,
-            "customerId": 358,
-            "totalPrice": 41
-        },
-        {
-            "transactionId": 85,
-            "quantity": 5,
-            "time": 1473399491,
-            "medicineId": 487,
-            "storeId": 28,
-            "customerId": 825,
-            "totalPrice": 10
-        },
-        {
-            "transactionId": 86,
-            "quantity": 3,
-            "time": 1462571504,
-            "medicineId": 24,
-            "storeId": 46,
-            "customerId": 1855,
-            "totalPrice": 184
-        },
-        {
-            "transactionId": 87,
-            "quantity": 4,
-            "time": 1473819665,
-            "medicineId": 201,
-            "storeId": 23,
-            "customerId": 1214,
-            "totalPrice": 185
-        },
-        {
-            "transactionId": 88,
-            "quantity": 9,
-            "time": 1487159602,
-            "medicineId": 468,
-            "storeId": 21,
-            "customerId": 1853,
-            "totalPrice": 72
-        },
-        {
-            "transactionId": 89,
-            "quantity": 6,
-            "time": 1480809076,
-            "medicineId": 81,
-            "storeId": 38,
-            "customerId": 1709,
-            "totalPrice": 60
-        },
-        {
-            "transactionId": 90,
-            "quantity": 6,
-            "time": 1480357018,
-            "medicineId": 359,
-            "storeId": 6,
-            "customerId": 119,
-            "totalPrice": 175
-        },
-        {
-            "transactionId": 91,
-            "quantity": 4,
-            "time": 1462875697,
-            "medicineId": 578,
-            "storeId": 47,
-            "customerId": 1827,
-            "totalPrice": 23
-        },
-        {
-            "transactionId": 92,
-            "quantity": 1,
-            "time": 1469665265,
-            "medicineId": 606,
-            "storeId": 1,
-            "customerId": 1442,
-            "totalPrice": 87
-        },
-        {
-            "transactionId": 93,
-            "quantity": 10,
-            "time": 1484789702,
-            "medicineId": 715,
-            "storeId": 22,
-            "customerId": 986,
-            "totalPrice": 9
-        },
-        {
-            "transactionId": 94,
-            "quantity": 4,
-            "time": 1466282973,
-            "medicineId": 736,
-            "storeId": 17,
-            "customerId": 691,
-            "totalPrice": 176
-        },
-        {
-            "transactionId": 95,
-            "quantity": 4,
-            "time": 1466805016,
-            "medicineId": 189,
-            "storeId": 37,
-            "customerId": 1074,
-            "totalPrice": 160
-        },
-        {
-            "transactionId": 96,
-            "quantity": 10,
-            "time": 1486329750,
-            "medicineId": 822,
-            "storeId": 1,
-            "customerId": 1605,
-            "totalPrice": 20
-        },
-        {
-            "transactionId": 97,
-            "quantity": 5,
-            "time": 1466649607,
-            "medicineId": 882,
-            "storeId": 18,
-            "customerId": 924,
-            "totalPrice": 95
-        },
-        {
-            "transactionId": 98,
-            "quantity": 4,
-            "time": 1490806407,
-            "medicineId": 15,
-            "storeId": 12,
-            "customerId": 1593,
-            "totalPrice": 197
-        },
-        {
-            "transactionId": 99,
-            "quantity": 2,
-            "time": 1475686367,
-            "medicineId": 529,
-            "storeId": 24,
-            "customerId": 1519,
-            "totalPrice": 95
-        },
-        {
-            "transactionId": 100,
-            "quantity": 5,
-            "time": 1473264157,
-            "medicineId": 909,
-            "storeId": 46,
-            "customerId": 1209,
-            "totalPrice": 147
-        }
-    ]
+[{"transactionId":1,"quantity":2,"time":1500929280,"medicineId":717,"storeId":42,"customerId":1086,"totalPrice":7109.7129473048},
+{"transactionId":2,"quantity":1,"time":1505662285,"medicineId":558,"storeId":23,"customerId":1275,"totalPrice":2244.7320227848},
+{"transactionId":3,"quantity":5,"time":1511615215,"medicineId":923,"storeId":17,"customerId":1705,"totalPrice":9041.2611229514},
+{"transactionId":4,"quantity":10,"time":1503744706,"medicineId":622,"storeId":41,"customerId":157,"totalPrice":5073.4363508329},
+{"transactionId":5,"quantity":9,"time":1518739793,"medicineId":45,"storeId":38,"customerId":1159,"totalPrice":8872.7211722126},
+{"transactionId":6,"quantity":1,"time":1512683105,"medicineId":319,"storeId":1,"customerId":570,"totalPrice":2853.0298111795},
+{"transactionId":7,"quantity":6,"time":1494446271,"medicineId":489,"storeId":18,"customerId":226,"totalPrice":3252.158378621},
+{"transactionId":8,"quantity":8,"time":1500280036,"medicineId":642,"storeId":21,"customerId":347,"totalPrice":8928.0985691602},
+{"transactionId":9,"quantity":7,"time":1516750495,"medicineId":955,"storeId":32,"customerId":1724,"totalPrice":9531.8950101868},
+{"transactionId":10,"quantity":7,"time":1511249752,"medicineId":730,"storeId":14,"customerId":1543,"totalPrice":52.7922346167},
+{"transactionId":11,"quantity":10,"time":1521740814,"medicineId":329,"storeId":22,"customerId":1824,"totalPrice":876.7660641691},
+{"transactionId":12,"quantity":7,"time":1513181166,"medicineId":921,"storeId":28,"customerId":563,"totalPrice":8306.7695452695},
+{"transactionId":13,"quantity":10,"time":1516615697,"medicineId":617,"storeId":34,"customerId":1098,"totalPrice":1088.8351052911},
+{"transactionId":14,"quantity":4,"time":1499376391,"medicineId":607,"storeId":35,"customerId":1512,"totalPrice":4261.6495627005},
+{"transactionId":15,"quantity":4,"time":1511971992,"medicineId":1000,"storeId":35,"customerId":1687,"totalPrice":9937.4103672412},
+{"transactionId":16,"quantity":4,"time":1503658358,"medicineId":864,"storeId":46,"customerId":201,"totalPrice":9008.0396585598},
+{"transactionId":17,"quantity":6,"time":1521187287,"medicineId":822,"storeId":16,"customerId":620,"totalPrice":6507.1541012057},
+{"transactionId":18,"quantity":3,"time":1501249747,"medicineId":474,"storeId":45,"customerId":77,"totalPrice":1167.3527412326},
+{"transactionId":19,"quantity":10,"time":1495130569,"medicineId":592,"storeId":4,"customerId":1353,"totalPrice":9752.3878918684},
+{"transactionId":20,"quantity":3,"time":1518229412,"medicineId":741,"storeId":3,"customerId":893,"totalPrice":9737.536965116},
+{"transactionId":21,"quantity":4,"time":1521880293,"medicineId":753,"storeId":33,"customerId":1266,"totalPrice":3132.8048393695},
+{"transactionId":22,"quantity":5,"time":1514431080,"medicineId":622,"storeId":25,"customerId":1187,"totalPrice":8897.652638959},
+{"transactionId":23,"quantity":9,"time":1505827927,"medicineId":859,"storeId":12,"customerId":1845,"totalPrice":2716.3325941434},
+{"transactionId":24,"quantity":4,"time":1508486673,"medicineId":776,"storeId":27,"customerId":78,"totalPrice":335.5584194391},
+{"transactionId":25,"quantity":9,"time":1520741262,"medicineId":627,"storeId":36,"customerId":1791,"totalPrice":2227.4197111853},
+{"transactionId":26,"quantity":5,"time":1505372633,"medicineId":340,"storeId":11,"customerId":1824,"totalPrice":7298.6376236549},
+{"transactionId":27,"quantity":3,"time":1523104907,"medicineId":606,"storeId":26,"customerId":1299,"totalPrice":5701.0543219962},
+{"transactionId":28,"quantity":5,"time":1523993555,"medicineId":369,"storeId":26,"customerId":1708,"totalPrice":46.0132700584},
+{"transactionId":29,"quantity":3,"time":1522254809,"medicineId":915,"storeId":3,"customerId":523,"totalPrice":1241.8525250147},
+{"transactionId":30,"quantity":1,"time":1502053600,"medicineId":931,"storeId":9,"customerId":965,"totalPrice":7401.9968847168},
+{"transactionId":31,"quantity":9,"time":1525005819,"medicineId":615,"storeId":8,"customerId":190,"totalPrice":2948.5270929431},
+{"transactionId":32,"quantity":9,"time":1503004189,"medicineId":177,"storeId":40,"customerId":297,"totalPrice":4404.7381642668},
+{"transactionId":33,"quantity":3,"time":1500163141,"medicineId":98,"storeId":36,"customerId":1798,"totalPrice":5321.4140566514},
+{"transactionId":34,"quantity":2,"time":1516747696,"medicineId":535,"storeId":49,"customerId":1700,"totalPrice":7839.0076647046},
+{"transactionId":35,"quantity":10,"time":1513893066,"medicineId":536,"storeId":23,"customerId":1271,"totalPrice":4749.9962035917},
+{"transactionId":36,"quantity":6,"time":1494419014,"medicineId":980,"storeId":13,"customerId":1895,"totalPrice":5574.1338728182},
+{"transactionId":37,"quantity":5,"time":1496711433,"medicineId":959,"storeId":5,"customerId":1481,"totalPrice":1972.429514447},
+{"transactionId":38,"quantity":2,"time":1515579688,"medicineId":6,"storeId":42,"customerId":38,"totalPrice":1135.4286719354},
+{"transactionId":39,"quantity":6,"time":1497949369,"medicineId":96,"storeId":17,"customerId":1693,"totalPrice":1227.2453933219},
+{"transactionId":40,"quantity":7,"time":1505315082,"medicineId":220,"storeId":14,"customerId":947,"totalPrice":2971.6775441445},
+{"transactionId":41,"quantity":2,"time":1506776745,"medicineId":321,"storeId":18,"customerId":1452,"totalPrice":503.3840623178},
+{"transactionId":42,"quantity":8,"time":1504376229,"medicineId":492,"storeId":13,"customerId":1642,"totalPrice":1711.2065862164},
+{"transactionId":43,"quantity":9,"time":1502213717,"medicineId":12,"storeId":48,"customerId":181,"totalPrice":1555.9367121585},
+{"transactionId":44,"quantity":3,"time":1521128524,"medicineId":659,"storeId":37,"customerId":1369,"totalPrice":4729.7808249435},
+{"transactionId":45,"quantity":4,"time":1519899507,"medicineId":504,"storeId":42,"customerId":1238,"totalPrice":6716.1104111077},
+{"transactionId":46,"quantity":6,"time":1505514028,"medicineId":611,"storeId":15,"customerId":822,"totalPrice":6441.8471804829},
+{"transactionId":47,"quantity":9,"time":1512664492,"medicineId":17,"storeId":3,"customerId":1263,"totalPrice":7695.012262924},
+{"transactionId":48,"quantity":3,"time":1510491438,"medicineId":768,"storeId":42,"customerId":479,"totalPrice":9958.994367766},
+{"transactionId":49,"quantity":9,"time":1520562290,"medicineId":505,"storeId":33,"customerId":1,"totalPrice":5951.7651375839},
+{"transactionId":50,"quantity":7,"time":1509892988,"medicineId":944,"storeId":42,"customerId":1498,"totalPrice":5251.4787907931},
+{"transactionId":51,"quantity":6,"time":1496950143,"medicineId":320,"storeId":22,"customerId":547,"totalPrice":6468.6914375543},
+{"transactionId":52,"quantity":10,"time":1525149658,"medicineId":752,"storeId":16,"customerId":1458,"totalPrice":5115.7971562839},
+{"transactionId":53,"quantity":10,"time":1501432499,"medicineId":735,"storeId":22,"customerId":1891,"totalPrice":465.0205896699},
+{"transactionId":54,"quantity":4,"time":1520868658,"medicineId":521,"storeId":21,"customerId":1223,"totalPrice":5376.5447019389},
+{"transactionId":55,"quantity":9,"time":1506242544,"medicineId":23,"storeId":3,"customerId":881,"totalPrice":8791.6717043078},
+{"transactionId":56,"quantity":3,"time":1501553670,"medicineId":53,"storeId":46,"customerId":746,"totalPrice":5159.7769685156},
+{"transactionId":57,"quantity":10,"time":1495340229,"medicineId":293,"storeId":4,"customerId":1094,"totalPrice":2465.0896067506},
+{"transactionId":58,"quantity":1,"time":1524463369,"medicineId":451,"storeId":34,"customerId":600,"totalPrice":4154.4825635812},
+{"transactionId":59,"quantity":6,"time":1519626835,"medicineId":351,"storeId":10,"customerId":210,"totalPrice":1939.5511597189},
+{"transactionId":60,"quantity":2,"time":1503944615,"medicineId":752,"storeId":46,"customerId":759,"totalPrice":1606.3577382714},
+{"transactionId":61,"quantity":8,"time":1496206612,"medicineId":688,"storeId":20,"customerId":1528,"totalPrice":8005.5643329522},
+{"transactionId":62,"quantity":7,"time":1508880384,"medicineId":735,"storeId":45,"customerId":1322,"totalPrice":749.2355116645},
+{"transactionId":63,"quantity":10,"time":1512370309,"medicineId":702,"storeId":6,"customerId":719,"totalPrice":96.2676114708},
+{"transactionId":64,"quantity":8,"time":1513269338,"medicineId":562,"storeId":15,"customerId":348,"totalPrice":9945.8551388359},
+{"transactionId":65,"quantity":10,"time":1500845171,"medicineId":595,"storeId":34,"customerId":325,"totalPrice":6658.2438235344},
+{"transactionId":66,"quantity":2,"time":1510540106,"medicineId":176,"storeId":18,"customerId":590,"totalPrice":6345.5942093083},
+{"transactionId":67,"quantity":7,"time":1505716314,"medicineId":428,"storeId":34,"customerId":763,"totalPrice":3391.054525183},
+{"transactionId":68,"quantity":7,"time":1499757011,"medicineId":487,"storeId":40,"customerId":378,"totalPrice":4909.028904444},
+{"transactionId":69,"quantity":8,"time":1512134821,"medicineId":737,"storeId":48,"customerId":101,"totalPrice":7032.5531537717},
+{"transactionId":70,"quantity":3,"time":1510938973,"medicineId":96,"storeId":19,"customerId":120,"totalPrice":8968.109572213},
+{"transactionId":71,"quantity":4,"time":1499348657,"medicineId":448,"storeId":1,"customerId":1073,"totalPrice":7389.3861257924},
+{"transactionId":72,"quantity":10,"time":1513821991,"medicineId":932,"storeId":31,"customerId":550,"totalPrice":4111.8608226736},
+{"transactionId":73,"quantity":3,"time":1494516825,"medicineId":526,"storeId":40,"customerId":1989,"totalPrice":7195.7998585795},
+{"transactionId":74,"quantity":10,"time":1507683180,"medicineId":105,"storeId":30,"customerId":1586,"totalPrice":1490.662513663},
+{"transactionId":75,"quantity":2,"time":1506725038,"medicineId":399,"storeId":35,"customerId":445,"totalPrice":1564.0411202909},
+{"transactionId":76,"quantity":7,"time":1508358679,"medicineId":341,"storeId":44,"customerId":584,"totalPrice":2941.7569229454},
+{"transactionId":77,"quantity":9,"time":1509981728,"medicineId":280,"storeId":18,"customerId":16,"totalPrice":4659.1143281666},
+{"transactionId":78,"quantity":9,"time":1501365610,"medicineId":469,"storeId":6,"customerId":1035,"totalPrice":3369.761487016},
+{"transactionId":79,"quantity":4,"time":1522918545,"medicineId":109,"storeId":21,"customerId":475,"totalPrice":7165.7257620522},
+{"transactionId":80,"quantity":2,"time":1501555717,"medicineId":483,"storeId":50,"customerId":1805,"totalPrice":3835.5550226228},
+{"transactionId":81,"quantity":1,"time":1524079777,"medicineId":495,"storeId":32,"customerId":872,"totalPrice":1729.5689710095},
+{"transactionId":82,"quantity":7,"time":1503989864,"medicineId":284,"storeId":11,"customerId":1693,"totalPrice":8871.6747034866},
+{"transactionId":83,"quantity":2,"time":1520690807,"medicineId":224,"storeId":5,"customerId":1450,"totalPrice":6803.7105426944},
+{"transactionId":84,"quantity":2,"time":1518823179,"medicineId":656,"storeId":25,"customerId":1400,"totalPrice":7559.9818067244},
+{"transactionId":85,"quantity":8,"time":1495466952,"medicineId":912,"storeId":33,"customerId":766,"totalPrice":9076.5510802553},
+{"transactionId":86,"quantity":7,"time":1505960779,"medicineId":941,"storeId":49,"customerId":483,"totalPrice":3212.9603244102},
+{"transactionId":87,"quantity":7,"time":1494560618,"medicineId":946,"storeId":6,"customerId":589,"totalPrice":3784.3369362048},
+{"transactionId":88,"quantity":7,"time":1508116358,"medicineId":634,"storeId":22,"customerId":1148,"totalPrice":8843.2598137725},
+{"transactionId":89,"quantity":9,"time":1495435808,"medicineId":360,"storeId":24,"customerId":361,"totalPrice":1281.1729040073},
+{"transactionId":90,"quantity":3,"time":1517344371,"medicineId":963,"storeId":14,"customerId":344,"totalPrice":693.7384060862},
+{"transactionId":91,"quantity":9,"time":1494967501,"medicineId":278,"storeId":4,"customerId":692,"totalPrice":5749.7711421196},
+{"transactionId":92,"quantity":6,"time":1500257840,"medicineId":84,"storeId":2,"customerId":644,"totalPrice":3227.9356591044},
+{"transactionId":93,"quantity":7,"time":1505523421,"medicineId":206,"storeId":14,"customerId":1352,"totalPrice":4515.8923452875},
+{"transactionId":94,"quantity":1,"time":1521460784,"medicineId":251,"storeId":7,"customerId":561,"totalPrice":9877.2385627547},
+{"transactionId":95,"quantity":5,"time":1504606687,"medicineId":701,"storeId":50,"customerId":1800,"totalPrice":4940.2849177155},
+{"transactionId":96,"quantity":6,"time":1516508190,"medicineId":499,"storeId":37,"customerId":1909,"totalPrice":7187.3579678674},
+{"transactionId":97,"quantity":10,"time":1520080129,"medicineId":645,"storeId":43,"customerId":43,"totalPrice":5743.7740950546},
+{"transactionId":98,"quantity":1,"time":1506569964,"medicineId":376,"storeId":48,"customerId":389,"totalPrice":9886.1156808092},
+{"transactionId":99,"quantity":3,"time":1518830011,"medicineId":187,"storeId":3,"customerId":1574,"totalPrice":1898.1826683776},
+{"transactionId":100,"quantity":5,"time":1522177370,"medicineId":28,"storeId":24,"customerId":254,"totalPrice":297.3755110946}]
 );
