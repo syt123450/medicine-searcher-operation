@@ -1303,3 +1303,30 @@ db.saleTransaction.insertMany (
         }
     ]
 );
+
+
+db.saleTransaction.insert({
+    "transactionId": 1001,
+    "quantity": 10,
+    "time": {
+        "$date": "2015-04-08T10:04:29.000Z"
+    },
+    "medicineId": 763,
+    "storeId": 12,
+    "customerId": 854,
+    "totalPrice": 84,
+    "factoryId": 1,
+    "brandId": 98
+});
+
+db.saleTransaction.insert({
+    "transactionId": 1001,
+    "quantity": 10,
+    "time": new Date("2015-04-08T10:04:29.000Z"),
+    "medicineId": 763,
+    "storeId": 12,
+    "customerId": 854,
+    "totalPrice": 84,
+    "factoryId": 1,
+    "brandId": 98
+});
