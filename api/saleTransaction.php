@@ -12,7 +12,8 @@ function findSaleTransaction(){
     $date = new DateTime();
     $date->setTime(0, 0, 0);
 
-    $results = getData("226operation.saleTransaction", ['time' => ['$gte' => $date->getTimestamp()] ], ['projection' => ['_id' => 0]]);
+//    $results = getData("226operation.saleTransaction", ['time' => ['$gte' => $date->getTimestamp()] ], ['projection' => ['_id' => 0]]);
+    $results = getData("226operation.saleTransaction", ['time' => ['$gte' => $date->getTimestamp()] ], []);
 
     $results = json_decode(json_encode($results), true);
 

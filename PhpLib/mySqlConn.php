@@ -47,6 +47,7 @@ function findMedicineInfo($medicineName){
     }
 }
 
+$data = "";
 //$data =findUserInfo("rie");
 $data =findMedicineInfo("TENUI");
 var_dump($data);
