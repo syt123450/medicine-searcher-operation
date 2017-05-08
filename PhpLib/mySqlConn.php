@@ -29,7 +29,21 @@ function findUserInfo($nameProvided){
 }
 
 function findMedicineInfo($medicineName){
-    $query = "SELECT m.medicineId, m.medicineName, m.price, b.brandId, b.brandName, f.factoryId, f.factoryName, s.StoreName FROM Medicine m, Brand b, Factory f, Store s WHERE m.brandId = b.brandId AND b.factoryId =f.factoryId AND m.storeID = s.storeID AND medicineName like '%$medicineName%'";
+    $query = "SELECT ".
+                "m.medicineId, m.medicineName, m.price, " .
+                "b.brandId, b.brandName, " .
+                "f.factoryId, f.factoryName, " .
+                "s.storeId, s.StoreName " .
+              "FROM " .
+                "Medicine m, Brand b, Factory f, Store s " .
+              "WHERE " .
+                "m.brandId = b.brandId " .
+              "AND " .
+                "b.factoryId =f.factoryId " .
+              "AND " .
+                "m.storeID = s.storeID " .
+              "AND " .
+                "medicineName like '%$medicineName%'";
 
     try {
         // $con = new PDO ("mysql:host=54.67.4.28:3306;dbname=cmpe272", "cmpe272", "cmpe272pw");
