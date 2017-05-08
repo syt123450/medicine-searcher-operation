@@ -22,6 +22,29 @@ function getData($collectionName, $filter, $option){
     return $rows;
 }
 
+function addData($collectionName, $doc){
+    $bulk = new MongoDB\Driver\BulkWrite;
+
+    $bulk->insert($doc);
+
+    $manager = new MongoDB\Driver\Manager('mongodb://localhost:27017');
+    $writeConcern = new MongoDB\Driver\WriteConcern(MongoDB\Driver\WriteConcern::MAJORITY, 1000);
+    $result = $manager->executeBulkWrite($collectionName, $bulk, $writeConcern);
+    return $result;
+}
+
+function addMultipleData($collectionName, $docAry){
+    $bulk = new MongoDB\Driver\BulkWrite();
+
+    foreach($docAry as $doc){
+        $bulk->insert($doc);
+    }
+
+    $manager = new MongoDB\Driver\Manager('mongodb://localhost:27017');
+    $writeConcern = new MongoDB\Driver\WriteConcern(MongoDB\Driver\WriteConcern::MAJORITY, 1000);
+    $result = $manager->executeBulkWrite($collectionName, $bulk, $writeConcern);
+    return $result;
+}
 
 
 //$date = new DateTime();
@@ -35,4 +58,9 @@ function getData($collectionName, $filter, $option){
 
 //var_dump(new DateTime);
 
-
+//$ary = array(
+//    "ID" => "fda",
+//    "Name" => "asdf"
+//);
+//
+//var_dump(addData("226operation.searchTransaction", $ary));
