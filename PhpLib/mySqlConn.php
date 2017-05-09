@@ -61,7 +61,7 @@ function findMedicineInfo($medicineName){
     }
 }
 
-$data = "";
-$data =findUserInfo("Laurie");
+//$data = "";
+//$data =findUserInfo("Laurie");
 //$data =findMedicineInfo("TENUI");
-var_dump($data);
+//var_dump($data);
