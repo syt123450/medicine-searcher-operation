@@ -12,4 +12,4 @@ $decodePostBody = urldecode($rawPostBody);
 $postJson = json_decode($decodePostBody);
 
 echo json_encode(findMedicineInfo($postJson->medicineKeyword));
-//echo json_encode($postJson);
+
