@@ -33,7 +33,7 @@ function findMedicineInfo($medicineName){
                 "m.medicineId, m.medicineName, m.price, " .
                 "b.brandId, b.brandName, " .
                 "f.factoryId, f.factoryName, " .
-                "s.storeId, s.StoreName " .
+                "s.storeId, s.storeName " .
               "FROM " .
                 "Medicine m, Brand b, Factory f, Store s " .
               "WHERE " .
