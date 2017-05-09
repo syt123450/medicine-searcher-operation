@@ -9,13 +9,19 @@ function emptyResult(){
     print("<title>No Result</title><body><strong>Sorry, we can't find any result.</strong><br/></body>");
 }
 
-function findUserInfo($nameProvided){
-    $query = "SELECT customerId, gender, name FROM Customer WHERE name like '%$nameProvided%'";
+function findUserInfo($customerName){
+//    echo $customerName;
+    $query = "SELECT " .
+                " c.customerId, c.gender, c.name " .
+            " FROM Customer c " .
+            " WHERE " .
+                " c.name like '%$customerName%'";
 
     try {
         // $con = new PDO ("mysql:host=54.67.4.28:3306;dbname=cmpe272", "cmpe272", "cmpe272pw");
         $con = new PDO ("mysql:host=localhost;dbname=226operation", "ultimate", "sesame");
         $con->setAttribute( PDO:: ATTR_ERRMODE, PDO:: ERRMODE_EXCEPTION );
+
 
         $stmt = $con->prepare($query);
         $stmt->execute();
@@ -62,6 +68,6 @@ function findMedicineInfo($medicineName){
 }
 
 //$data = "";
-//$data =findUserInfo("Laurie");
+//$data =findUserInfo("Valentin Marling");
 //$data =findMedicineInfo("TENUI");
 //var_dump($data);

@@ -108,7 +108,7 @@
             };
 
             $.ajax({
-                url: 'api/getUser.php',
+                url: '../api/findUserSaleTransaction.php',
                 type: 'POST',
                 contentType: "application/json; charset=utf-8",
                 async: true,
@@ -118,6 +118,9 @@
                     console.log(transactionData);
                     $("table").show();
                     renderTransactionResult(transactionData);
+                },
+                error: function(data) {
+                    console.log(data);
                 }
             });
         });
