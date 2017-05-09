@@ -134,7 +134,10 @@
                 contentType: "application/json; charset=utf-8",
                 async: true,
                 data: JSON.stringify(postBody),
-                dataType: 'json'
+                dataType: 'json',
+                error: function(data) {
+                    console.log(data);
+                }
             });
         });
 
@@ -155,6 +158,9 @@
                 data: JSON.stringify(postBody),
                 dataType: 'json',
                 success: function(data) {
+                    console.log(data);
+                },
+                error: function(data) {
                     console.log(data);
                 }
             });
