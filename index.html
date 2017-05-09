@@ -134,18 +134,23 @@
                 contentType: "application/json; charset=utf-8",
                 async: true,
                 data: JSON.stringify(postBody),
-                dataType: 'json'
+                dataType: 'json',
+                error: function(data) {
+                    console.log(data);
+                }
             });
         });
 
         $("#search").click(function() {
-            var medicineKeyword = $("#medicineKeyword").val();
+            var medicineKeyword = $("#medicineName").val();
             var customerName = $("#customerName").val();
 
             var postBody = {
                 "medicineKeyword": medicineKeyword,
                 "customerName": customerName
             };
+
+            console.log(postBody);
 
             $.ajax({
                 url: 'api/getMedicine.php',
@@ -155,6 +160,9 @@
                 data: JSON.stringify(postBody),
                 dataType: 'json',
                 success: function(data) {
+                    console.log(data);
+                },
+                error: function(data) {
                     console.log(data);
                 }
             });

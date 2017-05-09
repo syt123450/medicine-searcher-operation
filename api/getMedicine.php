@@ -11,4 +11,6 @@ $rawPostBody = @file_get_contents('php://input');
 $decodePostBody = urldecode($rawPostBody);
 $postJson = json_decode($decodePostBody);
 
-echo findMedicineInfo($postJson->medicineKeyword);
+//echo findMedicineInfo($postJson->medicineKeyword);
+
+echo json_encode($postJson);

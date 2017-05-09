@@ -12,3 +12,17 @@ $decodePostBody = urldecode($rawPostBody);
 $postJson = json_decode($decodePostBody);
 
 echo findUserInfo($postJson->userName);
+
+//get
+//{"customerName": ""}
+
+//return
+//{
+//"factory": "",
+//"brand": "",
+//"medicine": "",
+//"store": "",
+//"quantity": "",
+//"totalPrice": "",
+//"time": ""
+//}
