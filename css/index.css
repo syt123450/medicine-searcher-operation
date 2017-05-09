@@ -13,8 +13,13 @@ body > div {
     background-color: #e6fdff;
 }
 
+.list-group-item {
+    margin-bottom: 30px;
+}
+
 table {
     margin-top: 50px;
+    display: none;
 }
 
 table caption {

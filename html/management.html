@@ -116,6 +116,7 @@
                 dataType: 'json',
                 success: function(transactionData) {
                     console.log(transactionData);
+                    $("table").show();
                     renderTransactionResult(transactionData);
                 }
             });

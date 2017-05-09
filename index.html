@@ -91,8 +91,8 @@
 
 <script>
 
-    $(function(){
-        $(".input-group button").click(function() {
+    $(function () {
+        $(".input-group button").click(function () {
             if ($(this).text() === "-") {
 
                 var input = $(this).parent().parent().find("input");
@@ -106,7 +106,7 @@
             }
         });
 
-        $("table button").click(function() {
+        $("table button").click(function () {
             var line = $(this).parent().parent();
             var factoryId = $(line).find("td:eq(0)").attr("data-factoryId");
             var brandId = $(line).find("td:eq(1)").attr("data-brandId");
@@ -135,13 +135,13 @@
                 async: true,
                 data: JSON.stringify(postBody),
                 dataType: 'json',
-                error: function(data) {
+                error: function (data) {
                     console.log(data);
                 }
             });
         });
 
-        $("#search").click(function() {
+        $("#search").click(function () {
             var medicineKeyword = $("#medicineName").val();
             var customerName = $("#customerName").val();
 
@@ -159,18 +159,54 @@
                 async: true,
                 data: JSON.stringify(postBody),
                 dataType: 'json',
-                success: function(data) {
+                success: function (data) {
                     console.log(data);
+                    $("table").show();
+                    renderSearchResult(data);
                 },
-                error: function(data) {
+                error: function (data) {
                     console.log(data);
                 }
             });
         });
     });
 
-    function renderSearchResult() {
+    function renderSearchResult(searchResult) {
+        var resultArea = $("tbody");
+        $(resultArea).empty();
+        for (var i = 0; i < searchResult.length; i++) {
+            var oneMedicine = searchResult[i];
+            var line = document.createElement("tr");
 
+            var factory = document.createElement("td");
+            $(factory).attr("data-factoryId", oneMedicine.factoryId);
+            $(factory).text(oneMedicine.factoryName);
+            var brand = document.createElement("td");
+            $(brand).attr("data-brandId", oneMedicine.brandId);
+            $(brand).text(oneMedicine.brandName);
+            var medicine = document.createElement("td");
+            $(medicine).attr("data-medicineId", oneMedicine.medicineId);
+            $(medicine).text(oneMedicine.medicineName);
+            var store = document.createElement("td");
+            $(store).attr("data-storeId", oneMedicine.storeId);
+            $(store).text(oneMedicine.storeName);
+            var price = document.createElement("td");
+            $(price).text(oneMedicine.price);
+            var operationArea = document.createElement("td");
+            $(operationArea).html("<div class='input-group' class='col-lg-6'><span class='input-group-btn'><button class='btn btn-default' type='button'>-</button> </span> <input type='text' class='form-control' value='1'> <span class='input-group-btn'> <button class='btn btn-default' type='button'>+</button> </span> </div>");
+            var buttonArea = document.createElement("td");
+            $(buttonArea).html("<button type='button' class='btn btn-primary btn-sm'>Buy</button>");
+
+            $(line).append(factory);
+            $(line).append(brand);
+            $(line).append(medicine);
+            $(line).append(store);
+            $(line).append(price);
+            $(line).append(operationArea);
+            $(line).append(buttonArea);
+
+            $(resultArea).append(line);
+        }
     }
 
 </script>
