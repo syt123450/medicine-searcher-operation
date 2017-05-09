@@ -29,24 +29,6 @@ table caption {
     margin-bottom: 20px;
 }
 
-.input-group span {
-    width:30px;
-    border-right: 0;
-}
-
-.input-group input.form-control {
-    width:50px;
-    text-align: center;
-}
-
-tr > td > button.btn {
-    background-color: #12c2ff;
-}
-
-tr > td > button.btn:hover {
-    background-color: #12c2ff;
-}
-
 footer {
     position: fixed;
     bottom: 0;

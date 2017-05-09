@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <script src="../js/bootstrap.min.js"></script>
 
-    <link rel="stylesheet" href="../css/index.css">
+    <link rel="stylesheet" href="../css/management.css">
 </head>
 <body>
 
@@ -35,11 +35,9 @@
 
 
                 <div class="input-group" class="col-lg-6">
-                    <input type="text" class="form-control" placeholder="User Name">
+                    <input id="customerName" type="text" class="form-control" placeholder="User Name">
                     <span class="input-group-btn">
-						<button class="btn btn-default" type="button">
-							See
-						</button>
+						<button id="check" class="btn btn-default" type="button">Check</button>
 					</span>
                 </div>
             </div>
@@ -49,29 +47,45 @@
 
 
     <table class="table table-striped">
-        <caption>History Transaction</caption>
+        <caption>Customer Sale Transaction</caption>
         <thead>
         <tr>
-            <th>KK</th>
-            <th>TT</th>
-            <th>MM</th>
+            <th>Factory</th>
+            <th>Brand</th>
+            <th>Medicine</th>
+            <th>Store</th>
+            <th>Quantity</th>
+            <th>Total Price</th>
+            <th>Time</th>
         </tr>
         </thead>
         <tbody>
         <tr>
             <td>Tanmay</td>
-            <td>Bangalore</td>
-            <td>560001</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
         </tr>
         <tr>
-            <td>Sachin</td>
-            <td>Mumbai</td>
-            <td>400003</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
         </tr>
         <tr>
-            <td>Uma</td>
-            <td>Pune</td>
-            <td>411027</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
+            <td>Tanmay</td>
         </tr>
         </tbody>
     </table>
@@ -81,6 +95,70 @@
 <footer>
     Copyright © 2017 CMPE272 Team Ultimate All Rights Reserved.
 </footer>
+
+<script>
+
+
+    $(function() {
+        $("#check").click(function() {
+            var customerName = $("#customerName");
+
+            var postBody = {
+                "customerName": customerName
+            };
+
+            $.ajax({
+                url: 'api/getUser.php',
+                type: 'POST',
+                contentType: "application/json; charset=utf-8",
+                async: true,
+                data: JSON.stringify(postBody),
+                dataType: 'json',
+                success: function(transactionData) {
+                    console.log(transactionData);
+                    $("table").show();
+                    renderTransactionResult(transactionData);
+                }
+            });
+        });
+    });
+
+    function renderTransactionResult(transactionData) {
+        var resultArea = $("tbody");
+        $(resultArea).empty();
+        for (var i = 0; i < transactionData.length; i++) {
+            var oneTransaction = transactionData[i];
+            var line = document.createElement("tr");
+
+            var factory = document.createElement("td");
+            $(factory).text(oneTransaction.factory);
+            var brand = document.createElement("td");
+            $(brand).text(oneTransaction.brand);
+            var medicine = document.createElement("td");
+            $(medicine).text(oneTransaction.medicine);
+            var store = document.createElement("td");
+            $(store).text(oneTransaction.store);
+            var quantity = document.createElement("td");
+            $(quantity).text(oneTransaction.quantity);
+            var totalPrice = document.createElement("td");
+            $(totalPrice).text(oneTransaction.totalPrice);
+            var time = document.createElement("td");
+            $(time).text(oneTransaction.time);
+
+            $(line).append(factory);
+            $(line).append(brand);
+            $(line).append(medicine);
+            $(line).append(store);
+            $(line).append(quantity);
+            $(line).append(totalPrice);
+            $(line).append(time);
+
+            $(resultArea).append(line);
+        }
+    }
+
+</script>
+
 
 </body>
 </html>

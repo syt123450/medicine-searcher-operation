@@ -31,96 +31,55 @@
         <div class="row">
             <div class="col-sm-3"><h4>Search Medicine :</h4></div>
             <div class="col-sm-2">
-                <input type="text" class="form-control" placeholder="User Name">
+                <input id="customerName" type="text" class="form-control" placeholder="User Name">
             </div>
             <div class="col-sm-2">
-                <input id="newInput" type="text" class="form-control" placeholder="Medicine Name">
+                <input id="medicineName" type="text" class="form-control" placeholder="Medicine Name">
             </div>
             <div class="col-sm-4">
-                <button id="newRegister" class="btn btn-default" type="button">Search</button>
+                <button id="search" class="btn btn-default" type="button">Search</button>
             </div>
         </div>
     </div>
 
     <table class="table table-hover">
-        <caption>Medicine List</caption>
+        <caption>Available Medicine</caption>
         <thead>
         <tr>
-            <th>Name</th>
+            <th>Factory</th>
+            <th>Brand</th>
+            <th>Medicine</th>
+            <th>Store</th>
+            <th>Price</th>
             <th>Number</th>
-            <th>Buy Button</th>
+            <th>Purchase</th>
         </tr>
         </thead>
         <tbody>
         <tr>
-            <td>Tanmay</td>
+            <td data-factoryId="factoryId">factoryName</td>
+            <td data-brandId="brandId">brandName</td>
+            <td data-medicineId="medicineId">medicineName</td>
+            <td data-storeId="storeId">storeName</td>
+            <td>12</td>
             <td>
 
                 <div class="input-group" class="col-lg-6">
-                    <span style="width:30px;border-right: 0;" class="input-group-btn">
-						<button class="btn btn-default" type="button">
-							-
-						</button>
+                    <span class="input-group-btn">
+						<button class="btn btn-default" type="button">-</button>
 					</span>
-                    <input style="width:50px;text-align: center" type="text" class="form-control" value="1">
-                    <span style="width:30px;" class="input-group-btn">
-						<button class="btn btn-default" type="button">
-							+
-						</button>
+                    <input type="text" class="form-control" value="1">
+                    <span class="input-group-btn">
+						<button class="btn btn-default" type="button">+</button>
 					</span>
                 </div>
 
             </td>
             <td>
-                <button type="button" class="btn btn-primary btn-sm">Button</button>
+                <button type="button" class="btn btn-primary btn-sm">Buy</button>
             </td>
         </tr>
-        <tr>
-            <td>Sachin</td>
-            <td>
 
-                <div class="input-group" class="col-lg-6">
-                    <span style="width:30px;" class="input-group-btn">
-						<button class="btn btn-default" type="button">
-							-
-						</button>
-					</span>
-                    <input style="width:50px;text-align: center" type="text" class="form-control" value="1">
-                    <span style="width:30px;" class="input-group-btn">
-						<button class="btn btn-default" type="button">
-							+
-						</button>
-					</span>
-                </div>
-
-            </td>
-            <td>
-                <button type="button" class="btn btn-primary btn-sm">Button</button>
-            </td>
-        </tr>
-        <tr>
-            <td>Uma</td>
-            <td>
-
-                <div class="input-group" class="col-lg-6">
-                    <span style="width:30px;" class="input-group-btn">
-						<button class="btn btn-default" type="button">
-							-
-						</button>
-					</span>
-                    <input style="width:50px;text-align: center" type="text" class="form-control" value="1">
-                    <span style="width:30px;" class="input-group-btn">
-						<button class="btn btn-default" type="button">
-							+
-						</button>
-					</span>
-                </div>
-
-            </td>
-            <td>
-                <button type="button" class="btn btn-primary btn-sm">Button</button>
-            </td>
-        </tr>
         </tbody>
     </table>
 
@@ -129,6 +88,128 @@
 <footer>
     Copyright © 2017 CMPE272 Team Ultimate All Rights Reserved.
 </footer>
+
+<script>
+
+    $(function () {
+        $(".input-group button").click(function () {
+            if ($(this).text() === "-") {
+
+                var input = $(this).parent().parent().find("input");
+                if ($(input).val() > 0) {
+                    $(input).val(parseInt($(input).val()) - 1);
+                }
+            }
+            else {
+                var input = $(this).parent().parent().find("input");
+                $(input).val(parseInt($(input).val()) + 1);
+            }
+        });
+
+        $("table button").click(function () {
+            var line = $(this).parent().parent();
+            var factoryId = $(line).find("td:eq(0)").attr("data-factoryId");
+            var brandId = $(line).find("td:eq(1)").attr("data-brandId");
+            var medicineId = $(line).find("td:eq(2)").attr("data-medicineId");
+            var storeId = $(line).find("td:eq(3)").attr("data-storeId");
+            var price = parseInt($(line).find("td:eq(4)").text());
+            var quantity = parseInt($(line).find("input").val());
+            var customerName = $("#customerName").val();
+
+            var postBody = {
+                "factoryId": factoryId,
+                "brandId": brandId,
+                "medicineId": medicineId,
+                "storeId": storeId,
+                "price": price,
+                "quantity": quantity,
+                "customerName": customerName
+            };
+
+            console.log(postBody);
+
+            $.ajax({
+                url: 'api/insertSaleTransaction.php',
+                type: 'POST',
+                contentType: "application/json; charset=utf-8",
+                async: true,
+                data: JSON.stringify(postBody),
+                dataType: 'json',
+                error: function (data) {
+                    console.log(data);
+                }
+            });
+        });
+
+        $("#search").click(function () {
+            var medicineKeyword = $("#medicineName").val();
+            var customerName = $("#customerName").val();
+
+            var postBody = {
+                "medicineKeyword": medicineKeyword,
+                "customerName": customerName
+            };
+
+            console.log(postBody);
+
+            $.ajax({
+                url: 'api/getMedicine.php',
+                type: 'POST',
+                contentType: "application/json; charset=utf-8",
+                async: true,
+                data: JSON.stringify(postBody),
+                dataType: 'json',
+                success: function (data) {
+                    console.log(data);
+                    $("table").show();
+                    renderSearchResult(data);
+                },
+                error: function (data) {
+                    console.log(data);
+                }
+            });
+        });
+    });
+
+    function renderSearchResult(searchResult) {
+        var resultArea = $("tbody");
+        $(resultArea).empty();
+        for (var i = 0; i < searchResult.length; i++) {
+            var oneMedicine = searchResult[i];
+            var line = document.createElement("tr");
+
+            var factory = document.createElement("td");
+            $(factory).attr("data-factoryId", oneMedicine.factoryId);
+            $(factory).text(oneMedicine.factoryName);
+            var brand = document.createElement("td");
+            $(brand).attr("data-brandId", oneMedicine.brandId);
+            $(brand).text(oneMedicine.brandName);
+            var medicine = document.createElement("td");
+            $(medicine).attr("data-medicineId", oneMedicine.medicineId);
+            $(medicine).text(oneMedicine.medicineName);
+            var store = document.createElement("td");
+            $(store).attr("data-storeId", oneMedicine.storeId);
+            $(store).text(oneMedicine.storeName);
+            var price = document.createElement("td");
+            $(price).text(oneMedicine.price);
+            var operationArea = document.createElement("td");
+            $(operationArea).html("<div class='input-group' class='col-lg-6'><span class='input-group-btn'><button class='btn btn-default' type='button'>-</button> </span> <input type='text' class='form-control' value='1'> <span class='input-group-btn'> <button class='btn btn-default' type='button'>+</button> </span> </div>");
+            var buttonArea = document.createElement("td");
+            $(buttonArea).html("<button type='button' class='btn btn-primary btn-sm'>Buy</button>");
+
+            $(line).append(factory);
+            $(line).append(brand);
+            $(line).append(medicine);
+            $(line).append(store);
+            $(line).append(price);
+            $(line).append(operationArea);
+            $(line).append(buttonArea);
+
+            $(resultArea).append(line);
+        }
+    }
+
+</script>
 
 </body>
 </html>
