@@ -6,6 +6,7 @@
  */
 
 require_once('../PhpLib/mongoConn.php');
+require_once('../PhpLib/mySqlConn.php');
 
 /**
  * @param $dataAry
@@ -17,11 +18,15 @@ require_once('../PhpLib/mongoConn.php');
  *      "brandId" : <>,
  *      "factoryId" : <>,
  *      "storeId" : <>,
- *      "customerId" : <>,
+ *      "customerName" : <>,
  *      "price" : <>
  *  ]
  */
 function addSaleTransaction($dataAry){
+    $customerInfo =findUserInfo($dataAry["customerName"]);
+    $customerInfo = $customerInfo[0];
+    $customerID = $customerInfo["customerId"];
+
     // Decide current timestamp
     $date = new DateTime();
     //    echo $date->getTimestamp();
@@ -29,7 +34,9 @@ function addSaleTransaction($dataAry){
     // Calculate total price
     $dataAry["totalPrice"] = $dataAry["price"] * $dataAry["quantity"];
     $dataAry["time"] = $date->getTimestamp();
+    $dataAry["customerId"] = $customerID;
     unset($dataAry["price"]);
+    unset($dataAry["customerName"]);
 
     return addData("226operation.saleTransaction", $dataAry);
 }
@@ -48,7 +55,7 @@ function addSearchTransaction($dataAry){
 //       "brandId" => 66,
 //       "factoryId" => 77,
 //       "storeId" => 76,
-//       "customerId" => 123,
+//       "customerName" => "Laurie",
 //       "price" => 55
 //);
 //
