@@ -10000,11 +10000,6 @@ db.saleTransaction.insertMany (
             "quantity": 10,
             "time": NumberLong(1484872861)
         },
-
-
-
-
-
         {
             "factoryId": 1,
             "brandId": 78,
@@ -10064,6 +10059,6 @@ db.saleTransaction.insertMany (
             "totalPrice": 85.464874,
             "quantity": 10,
             "time": NumberLong(1494295200)
-        },
+        }
     ]
 );

@@ -1,5 +1,4 @@
-// use 226operation;
-db.searchTransaction.insertMany ( 
+db.searchTransaction.insertMany (
     [
         {
             "searchId": 1,
