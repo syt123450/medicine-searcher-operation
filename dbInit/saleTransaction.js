@@ -8,7 +8,7 @@ db.saleTransaction.insertMany (
             "customerId": 1946,
             "totalPrice": 107.678406,
             "quantity": 11,
-            "time": NumberLong(1468530093)
+            "time": 1468530093
         },
         {
             "factoryId": 3,
@@ -18,7 +18,7 @@ db.saleTransaction.insertMany (
             "customerId": 1151,
             "totalPrice": 196.10355,
             "quantity": 10,
-            "time": NumberLong(1473160382)
+            "time": 1473160382
         },
         {
             "factoryId": 1,
@@ -28,7 +28,7 @@ db.saleTransaction.insertMany (
             "customerId": 1861,
             "totalPrice": 12.5876255,
             "quantity": 4,
-            "time": NumberLong(1492501682)
+            "time": 1492501682
         },
         {
             "factoryId": 4,
@@ -38,7 +38,7 @@ db.saleTransaction.insertMany (
             "customerId": 507,
             "totalPrice": 132.60938,
             "quantity": 1,
-            "time": NumberLong(1477445087)
+            "time": 1477445087
         },
         {
             "factoryId": 5,
@@ -48,7 +48,7 @@ db.saleTransaction.insertMany (
             "customerId": 361,
             "totalPrice": 103.81122,
             "quantity": 3,
-            "time": NumberLong(1475088678)
+            "time": 1475088678
         },
         {
             "factoryId": 4,
@@ -58,7 +58,7 @@ db.saleTransaction.insertMany (
             "customerId": 406,
             "totalPrice": 58.727848,
             "quantity": 10,
-            "time": NumberLong(1467590358)
+            "time": 1467590358
         },
         {
             "factoryId": 6,
@@ -68,7 +68,7 @@ db.saleTransaction.insertMany (
             "customerId": 1621,
             "totalPrice": 163.99547,
             "quantity": 8,
-            "time": NumberLong(1468495484)
+            "time": 1468495484
         },
         {
             "factoryId": 4,
@@ -78,7 +78,7 @@ db.saleTransaction.insertMany (
             "customerId": 1983,
             "totalPrice": 164.34628,
             "quantity": 1,
-            "time": NumberLong(1468517873)
+            "time": 1468517873
         },
         {
             "factoryId": 1,
@@ -88,7 +88,7 @@ db.saleTransaction.insertMany (
             "customerId": 680,
             "totalPrice": 191.96515,
             "quantity": 5,
-            "time": NumberLong(1474023322)
+            "time": 1474023322
         },
         {
             "factoryId": 3,
@@ -98,7 +98,7 @@ db.saleTransaction.insertMany (
             "customerId": 1884,
             "totalPrice": 149.21428,
             "quantity": 6,
-            "time": NumberLong(1485897814)
+            "time": 1485897814
         },
         {
             "factoryId": 2,
@@ -108,7 +108,7 @@ db.saleTransaction.insertMany (
             "customerId": 1330,
             "totalPrice": 19.279776,
             "quantity": 1,
-            "time": NumberLong(1478628465)
+            "time": 1478628465
         },
         {
             "factoryId": 4,
@@ -118,7 +118,7 @@ db.saleTransaction.insertMany (
             "customerId": 488,
             "totalPrice": 24.254707,
             "quantity": 1,
-            "time": NumberLong(1472594765)
+            "time": 1472594765
         },
         {
             "factoryId": 6,
@@ -128,7 +128,7 @@ db.saleTransaction.insertMany (
             "customerId": 9,
             "totalPrice": 34.09859,
             "quantity": 8,
-            "time": NumberLong(1478712633)
+            "time": 1478712633
         },
         {
             "factoryId": 6,
@@ -138,7 +138,7 @@ db.saleTransaction.insertMany (
             "customerId": 1304,
             "totalPrice": 5.370347,
             "quantity": 9,
-            "time": NumberLong(1469988415)
+            "time": 1469988415
         },
         {
             "factoryId": 2,
@@ -148,7 +148,7 @@ db.saleTransaction.insertMany (
             "customerId": 454,
             "totalPrice": 144.3713,
             "quantity": 11,
-            "time": NumberLong(1482897379)
+            "time": 1482897379
         },
         {
             "factoryId": 6,
@@ -158,7 +158,7 @@ db.saleTransaction.insertMany (
             "customerId": 1220,
             "totalPrice": 63.94325,
             "quantity": 4,
-            "time": NumberLong(1467480363)
+            "time": 1467480363
         },
         {
             "factoryId": 5,
@@ -168,7 +168,7 @@ db.saleTransaction.insertMany (
             "customerId": 1753,
             "totalPrice": 152.3312,
             "quantity": 7,
-            "time": NumberLong(1477384315)
+            "time": 1477384315
         },
         {
             "factoryId": 3,
@@ -178,7 +178,7 @@ db.saleTransaction.insertMany (
             "customerId": 849,
             "totalPrice": 194.32503,
             "quantity": 6,
-            "time": NumberLong(1477846700)
+            "time": 1477846700
         },
         {
             "factoryId": 2,
@@ -188,7 +188,7 @@ db.saleTransaction.insertMany (
             "customerId": 248,
             "totalPrice": 194.17221,
             "quantity": 11,
-            "time": NumberLong(1489663822)
+            "time": 1489663822
         },
         {
             "factoryId": 3,
@@ -198,7 +198,7 @@ db.saleTransaction.insertMany (
             "customerId": 956,
             "totalPrice": 115.75713,
             "quantity": 3,
-            "time": NumberLong(1479011616)
+            "time": 1479011616
         },
         {
             "factoryId": 6,
@@ -208,7 +208,7 @@ db.saleTransaction.insertMany (
             "customerId": 1399,
             "totalPrice": 91.646126,
             "quantity": 3,
-            "time": NumberLong(1474092779)
+            "time": 1474092779
         },
         {
             "factoryId": 3,
@@ -218,7 +218,7 @@ db.saleTransaction.insertMany (
             "customerId": 1395,
             "totalPrice": 41.10009,
             "quantity": 5,
-            "time": NumberLong(1484211409)
+            "time": 1484211409
         },
         {
             "factoryId": 1,
@@ -228,7 +228,7 @@ db.saleTransaction.insertMany (
             "customerId": 1073,
             "totalPrice": 144.73062,
             "quantity": 7,
-            "time": NumberLong(1465581929)
+            "time": 1465581929
         },
         {
             "factoryId": 2,
@@ -238,7 +238,7 @@ db.saleTransaction.insertMany (
             "customerId": 1782,
             "totalPrice": 171.64572,
             "quantity": 6,
-            "time": NumberLong(1469718927)
+            "time": 1469718927
         },
         {
             "factoryId": 2,
@@ -248,7 +248,7 @@ db.saleTransaction.insertMany (
             "customerId": 1392,
             "totalPrice": 164.76465,
             "quantity": 3,
-            "time": NumberLong(1493260674)
+            "time": 1493260674
         },
         {
             "factoryId": 2,
@@ -258,7 +258,7 @@ db.saleTransaction.insertMany (
             "customerId": 464,
             "totalPrice": 113.21096,
             "quantity": 10,
-            "time": NumberLong(1480818364)
+            "time": 1480818364
         },
         {
             "factoryId": 1,
@@ -268,7 +268,7 @@ db.saleTransaction.insertMany (
             "customerId": 465,
             "totalPrice": 158.2012,
             "quantity": 9,
-            "time": NumberLong(1469898672)
+            "time": 1469898672
         },
         {
             "factoryId": 4,
@@ -278,7 +278,7 @@ db.saleTransaction.insertMany (
             "customerId": 1666,
             "totalPrice": 186.58125,
             "quantity": 1,
-            "time": NumberLong(1490139528)
+            "time": 1490139528
         },
         {
             "factoryId": 3,
@@ -288,7 +288,7 @@ db.saleTransaction.insertMany (
             "customerId": 1891,
             "totalPrice": 172.74535,
             "quantity": 5,
-            "time": NumberLong(1470088134)
+            "time": 1470088134
         },
         {
             "factoryId": 6,
@@ -298,7 +298,7 @@ db.saleTransaction.insertMany (
             "customerId": 1047,
             "totalPrice": 165.4075,
             "quantity": 6,
-            "time": NumberLong(1470602110)
+            "time": 1470602110
         },
         {
             "factoryId": 2,
@@ -308,7 +308,7 @@ db.saleTransaction.insertMany (
             "customerId": 1901,
             "totalPrice": 147.12112,
             "quantity": 5,
-            "time": NumberLong(1463325863)
+            "time": 1463325863
         },
         {
             "factoryId": 1,
@@ -318,7 +318,7 @@ db.saleTransaction.insertMany (
             "customerId": 1902,
             "totalPrice": 106.88975,
             "quantity": 10,
-            "time": NumberLong(1485969949)
+            "time": 1485969949
         },
         {
             "factoryId": 6,
@@ -328,7 +328,7 @@ db.saleTransaction.insertMany (
             "customerId": 560,
             "totalPrice": 91.20107,
             "quantity": 5,
-            "time": NumberLong(1462891249)
+            "time": 1462891249
         },
         {
             "factoryId": 1,
@@ -338,7 +338,7 @@ db.saleTransaction.insertMany (
             "customerId": 1238,
             "totalPrice": 90.83236,
             "quantity": 5,
-            "time": NumberLong(1471668723)
+            "time": 1471668723
         },
         {
             "factoryId": 3,
@@ -348,7 +348,7 @@ db.saleTransaction.insertMany (
             "customerId": 964,
             "totalPrice": 134.49326,
             "quantity": 12,
-            "time": NumberLong(1474024556)
+            "time": 1474024556
         },
         {
             "factoryId": 6,
@@ -358,7 +358,7 @@ db.saleTransaction.insertMany (
             "customerId": 1264,
             "totalPrice": 115.84293,
             "quantity": 11,
-            "time": NumberLong(1491783084)
+            "time": 1491783084
         },
         {
             "factoryId": 4,
@@ -368,7 +368,7 @@ db.saleTransaction.insertMany (
             "customerId": 987,
             "totalPrice": 52.548748,
             "quantity": 7,
-            "time": NumberLong(1485379696)
+            "time": 1485379696
         },
         {
             "factoryId": 4,
@@ -378,7 +378,7 @@ db.saleTransaction.insertMany (
             "customerId": 362,
             "totalPrice": 10.992748,
             "quantity": 4,
-            "time": NumberLong(1479044559)
+            "time": 1479044559
         },
         {
             "factoryId": 5,
@@ -388,7 +388,7 @@ db.saleTransaction.insertMany (
             "customerId": 1919,
             "totalPrice": 122.94894,
             "quantity": 11,
-            "time": NumberLong(1489057239)
+            "time": 1489057239
         },
         {
             "factoryId": 5,
@@ -398,7 +398,7 @@ db.saleTransaction.insertMany (
             "customerId": 1264,
             "totalPrice": 181.01955,
             "quantity": 6,
-            "time": NumberLong(1479830117)
+            "time": 1479830117
         },
         {
             "factoryId": 4,
@@ -408,7 +408,7 @@ db.saleTransaction.insertMany (
             "customerId": 1873,
             "totalPrice": 31.19805,
             "quantity": 4,
-            "time": NumberLong(1481302529)
+            "time": 1481302529
         },
         {
             "factoryId": 4,
@@ -418,7 +418,7 @@ db.saleTransaction.insertMany (
             "customerId": 1833,
             "totalPrice": 17.852371,
             "quantity": 10,
-            "time": NumberLong(1476472314)
+            "time": 1476472314
         },
         {
             "factoryId": 4,
@@ -428,7 +428,7 @@ db.saleTransaction.insertMany (
             "customerId": 100,
             "totalPrice": 80.780685,
             "quantity": 6,
-            "time": NumberLong(1490050530)
+            "time": 1490050530
         },
         {
             "factoryId": 4,
@@ -438,7 +438,7 @@ db.saleTransaction.insertMany (
             "customerId": 1789,
             "totalPrice": 25.522533,
             "quantity": 11,
-            "time": NumberLong(1478490496)
+            "time": 1478490496
         },
         {
             "factoryId": 3,
@@ -448,7 +448,7 @@ db.saleTransaction.insertMany (
             "customerId": 54,
             "totalPrice": 130.90129,
             "quantity": 1,
-            "time": NumberLong(1465217305)
+            "time": 1465217305
         },
         {
             "factoryId": 1,
@@ -458,7 +458,7 @@ db.saleTransaction.insertMany (
             "customerId": 560,
             "totalPrice": 2.4274645,
             "quantity": 6,
-            "time": NumberLong(1463850980)
+            "time": 1463850980
         },
         {
             "factoryId": 2,
@@ -468,7 +468,7 @@ db.saleTransaction.insertMany (
             "customerId": 1727,
             "totalPrice": 149.62682,
             "quantity": 8,
-            "time": NumberLong(1490593434)
+            "time": 1490593434
         },
         {
             "factoryId": 5,
@@ -478,7 +478,7 @@ db.saleTransaction.insertMany (
             "customerId": 747,
             "totalPrice": 45.21098,
             "quantity": 3,
-            "time": NumberLong(1489512572)
+            "time": 1489512572
         },
         {
             "factoryId": 1,
@@ -488,7 +488,7 @@ db.saleTransaction.insertMany (
             "customerId": 1543,
             "totalPrice": 86.440796,
             "quantity": 5,
-            "time": NumberLong(1467343419)
+            "time": 1467343419
         },
         {
             "factoryId": 4,
@@ -498,7 +498,7 @@ db.saleTransaction.insertMany (
             "customerId": 843,
             "totalPrice": 131.36874,
             "quantity": 1,
-            "time": NumberLong(1492780308)
+            "time": 1492780308
         },
         {
             "factoryId": 6,
@@ -508,7 +508,7 @@ db.saleTransaction.insertMany (
             "customerId": 734,
             "totalPrice": 142.8144,
             "quantity": 2,
-            "time": NumberLong(1477111048)
+            "time": 1477111048
         },
         {
             "factoryId": 6,
@@ -518,7 +518,7 @@ db.saleTransaction.insertMany (
             "customerId": 1074,
             "totalPrice": 96.37957,
             "quantity": 6,
-            "time": NumberLong(1476240716)
+            "time": 1476240716
         },
         {
             "factoryId": 5,
@@ -528,7 +528,7 @@ db.saleTransaction.insertMany (
             "customerId": 185,
             "totalPrice": 17.478596,
             "quantity": 8,
-            "time": NumberLong(1493881411)
+            "time": 1493881411
         },
         {
             "factoryId": 6,
@@ -538,7 +538,7 @@ db.saleTransaction.insertMany (
             "customerId": 1201,
             "totalPrice": 8.307037,
             "quantity": 5,
-            "time": NumberLong(1485020870)
+            "time": 1485020870
         },
         {
             "factoryId": 5,
@@ -548,7 +548,7 @@ db.saleTransaction.insertMany (
             "customerId": 1002,
             "totalPrice": 83.7427,
             "quantity": 2,
-            "time": NumberLong(1474698949)
+            "time": 1474698949
         },
         {
             "factoryId": 4,
@@ -558,7 +558,7 @@ db.saleTransaction.insertMany (
             "customerId": 897,
             "totalPrice": 103.41945,
             "quantity": 10,
-            "time": NumberLong(1467428906)
+            "time": 1467428906
         },
         {
             "factoryId": 5,
@@ -568,7 +568,7 @@ db.saleTransaction.insertMany (
             "customerId": 90,
             "totalPrice": 48.46403,
             "quantity": 3,
-            "time": NumberLong(1487720799)
+            "time": 1487720799
         },
         {
             "factoryId": 1,
@@ -578,7 +578,7 @@ db.saleTransaction.insertMany (
             "customerId": 1203,
             "totalPrice": 72.23797,
             "quantity": 3,
-            "time": NumberLong(1491995553)
+            "time": 1491995553
         },
         {
             "factoryId": 6,
@@ -588,7 +588,7 @@ db.saleTransaction.insertMany (
             "customerId": 1149,
             "totalPrice": 63.125996,
             "quantity": 9,
-            "time": NumberLong(1481212875)
+            "time": 1481212875
         },
         {
             "factoryId": 6,
@@ -598,7 +598,7 @@ db.saleTransaction.insertMany (
             "customerId": 906,
             "totalPrice": 189.42252,
             "quantity": 8,
-            "time": NumberLong(1489285634)
+            "time": 1489285634
         },
         {
             "factoryId": 5,
@@ -608,7 +608,7 @@ db.saleTransaction.insertMany (
             "customerId": 729,
             "totalPrice": 6.4157314,
             "quantity": 5,
-            "time": NumberLong(1477250584)
+            "time": 1477250584
         },
         {
             "factoryId": 6,
@@ -618,7 +618,7 @@ db.saleTransaction.insertMany (
             "customerId": 1752,
             "totalPrice": 130.45201,
             "quantity": 7,
-            "time": NumberLong(1465504368)
+            "time": 1465504368
         },
         {
             "factoryId": 5,
@@ -628,7 +628,7 @@ db.saleTransaction.insertMany (
             "customerId": 153,
             "totalPrice": 199.57588,
             "quantity": 9,
-            "time": NumberLong(1480969337)
+            "time": 1480969337
         },
         {
             "factoryId": 5,
@@ -638,7 +638,7 @@ db.saleTransaction.insertMany (
             "customerId": 369,
             "totalPrice": 152.98741,
             "quantity": 11,
-            "time": NumberLong(1483743183)
+            "time": 1483743183
         },
         {
             "factoryId": 5,
@@ -648,7 +648,7 @@ db.saleTransaction.insertMany (
             "customerId": 281,
             "totalPrice": 58.611916,
             "quantity": 7,
-            "time": NumberLong(1469017790)
+            "time": 1469017790
         },
         {
             "factoryId": 2,
@@ -658,7 +658,7 @@ db.saleTransaction.insertMany (
             "customerId": 899,
             "totalPrice": 10.693561,
             "quantity": 11,
-            "time": NumberLong(1482171702)
+            "time": 1482171702
         },
         {
             "factoryId": 6,
@@ -668,7 +668,7 @@ db.saleTransaction.insertMany (
             "customerId": 376,
             "totalPrice": 40.43347,
             "quantity": 2,
-            "time": NumberLong(1481287584)
+            "time": 1481287584
         },
         {
             "factoryId": 6,
@@ -678,7 +678,7 @@ db.saleTransaction.insertMany (
             "customerId": 1086,
             "totalPrice": 104.394356,
             "quantity": 1,
-            "time": NumberLong(1492412322)
+            "time": 1492412322
         },
         {
             "factoryId": 1,
@@ -688,7 +688,7 @@ db.saleTransaction.insertMany (
             "customerId": 883,
             "totalPrice": 2.0096269,
             "quantity": 9,
-            "time": NumberLong(1475718679)
+            "time": 1475718679
         },
         {
             "factoryId": 6,
@@ -698,7 +698,7 @@ db.saleTransaction.insertMany (
             "customerId": 1377,
             "totalPrice": 186.51625,
             "quantity": 8,
-            "time": NumberLong(1476961325)
+            "time": 1476961325
         },
         {
             "factoryId": 3,
@@ -708,7 +708,7 @@ db.saleTransaction.insertMany (
             "customerId": 799,
             "totalPrice": 7.8492694,
             "quantity": 11,
-            "time": NumberLong(1463361176)
+            "time": 1463361176
         },
         {
             "factoryId": 5,
@@ -718,7 +718,7 @@ db.saleTransaction.insertMany (
             "customerId": 33,
             "totalPrice": 22.971281,
             "quantity": 11,
-            "time": NumberLong(1468676606)
+            "time": 1468676606
         },
         {
             "factoryId": 2,
@@ -728,7 +728,7 @@ db.saleTransaction.insertMany (
             "customerId": 1151,
             "totalPrice": 33.727005,
             "quantity": 7,
-            "time": NumberLong(1477037370)
+            "time": 1477037370
         },
         {
             "factoryId": 1,
@@ -738,7 +738,7 @@ db.saleTransaction.insertMany (
             "customerId": 448,
             "totalPrice": 189.29823,
             "quantity": 6,
-            "time": NumberLong(1463583964)
+            "time": 1463583964
         },
         {
             "factoryId": 4,
@@ -748,7 +748,7 @@ db.saleTransaction.insertMany (
             "customerId": 938,
             "totalPrice": 97.35893,
             "quantity": 11,
-            "time": NumberLong(1493219613)
+            "time": 1493219613
         },
         {
             "factoryId": 3,
@@ -758,7 +758,7 @@ db.saleTransaction.insertMany (
             "customerId": 1570,
             "totalPrice": 1.1818591,
             "quantity": 12,
-            "time": NumberLong(1480962179)
+            "time": 1480962179
         },
         {
             "factoryId": 3,
@@ -768,7 +768,7 @@ db.saleTransaction.insertMany (
             "customerId": 87,
             "totalPrice": 93.262474,
             "quantity": 9,
-            "time": NumberLong(1466333249)
+            "time": 1466333249
         },
         {
             "factoryId": 6,
@@ -778,7 +778,7 @@ db.saleTransaction.insertMany (
             "customerId": 1539,
             "totalPrice": 62.804676,
             "quantity": 9,
-            "time": NumberLong(1491413087)
+            "time": 1491413087
         },
         {
             "factoryId": 2,
@@ -788,7 +788,7 @@ db.saleTransaction.insertMany (
             "customerId": 1044,
             "totalPrice": 15.616823,
             "quantity": 3,
-            "time": NumberLong(1479167227)
+            "time": 1479167227
         },
         {
             "factoryId": 1,
@@ -798,7 +798,7 @@ db.saleTransaction.insertMany (
             "customerId": 1268,
             "totalPrice": 118.13034,
             "quantity": 11,
-            "time": NumberLong(1467093818)
+            "time": 1467093818
         },
         {
             "factoryId": 1,
@@ -808,7 +808,7 @@ db.saleTransaction.insertMany (
             "customerId": 700,
             "totalPrice": 186.20396,
             "quantity": 10,
-            "time": NumberLong(1467242342)
+            "time": 1467242342
         },
         {
             "factoryId": 3,
@@ -818,7 +818,7 @@ db.saleTransaction.insertMany (
             "customerId": 279,
             "totalPrice": 161.22623,
             "quantity": 5,
-            "time": NumberLong(1472134210)
+            "time": 1472134210
         },
         {
             "factoryId": 5,
@@ -828,7 +828,7 @@ db.saleTransaction.insertMany (
             "customerId": 310,
             "totalPrice": 22.2136,
             "quantity": 10,
-            "time": NumberLong(1479753693)
+            "time": 1479753693
         },
         {
             "factoryId": 1,
@@ -838,7 +838,7 @@ db.saleTransaction.insertMany (
             "customerId": 162,
             "totalPrice": 98.1838,
             "quantity": 8,
-            "time": NumberLong(1464703903)
+            "time": 1464703903
         },
         {
             "factoryId": 6,
@@ -848,7 +848,7 @@ db.saleTransaction.insertMany (
             "customerId": 504,
             "totalPrice": 171.6425,
             "quantity": 12,
-            "time": NumberLong(1480886763)
+            "time": 1480886763
         },
         {
             "factoryId": 1,
@@ -858,7 +858,7 @@ db.saleTransaction.insertMany (
             "customerId": 1177,
             "totalPrice": 88.60973,
             "quantity": 7,
-            "time": NumberLong(1485927781)
+            "time": 1485927781
         },
         {
             "factoryId": 5,
@@ -868,7 +868,7 @@ db.saleTransaction.insertMany (
             "customerId": 687,
             "totalPrice": 127.863815,
             "quantity": 12,
-            "time": NumberLong(1469147985)
+            "time": 1469147985
         },
         {
             "factoryId": 3,
@@ -878,7 +878,7 @@ db.saleTransaction.insertMany (
             "customerId": 460,
             "totalPrice": 26.457762,
             "quantity": 9,
-            "time": NumberLong(1477780941)
+            "time": 1477780941
         },
         {
             "factoryId": 1,
@@ -888,7 +888,7 @@ db.saleTransaction.insertMany (
             "customerId": 700,
             "totalPrice": 2.8723536,
             "quantity": 4,
-            "time": NumberLong(1466306833)
+            "time": 1466306833
         },
         {
             "factoryId": 2,
@@ -898,7 +898,7 @@ db.saleTransaction.insertMany (
             "customerId": 677,
             "totalPrice": 145.32222,
             "quantity": 2,
-            "time": NumberLong(1475899404)
+            "time": 1475899404
         },
         {
             "factoryId": 5,
@@ -908,7 +908,7 @@ db.saleTransaction.insertMany (
             "customerId": 1471,
             "totalPrice": 180.51385,
             "quantity": 3,
-            "time": NumberLong(1484806263)
+            "time": 1484806263
         },
         {
             "factoryId": 4,
@@ -918,7 +918,7 @@ db.saleTransaction.insertMany (
             "customerId": 852,
             "totalPrice": 48.07704,
             "quantity": 9,
-            "time": NumberLong(1483195560)
+            "time": 1483195560
         },
         {
             "factoryId": 3,
@@ -928,7 +928,7 @@ db.saleTransaction.insertMany (
             "customerId": 809,
             "totalPrice": 87.83855,
             "quantity": 8,
-            "time": NumberLong(1491967793)
+            "time": 1491967793
         },
         {
             "factoryId": 3,
@@ -938,7 +938,7 @@ db.saleTransaction.insertMany (
             "customerId": 1656,
             "totalPrice": 39.266666,
             "quantity": 12,
-            "time": NumberLong(1487345958)
+            "time": 1487345958
         },
         {
             "factoryId": 2,
@@ -948,7 +948,7 @@ db.saleTransaction.insertMany (
             "customerId": 459,
             "totalPrice": 60.158543,
             "quantity": 4,
-            "time": NumberLong(1490067137)
+            "time": 1490067137
         },
         {
             "factoryId": 3,
@@ -958,7 +958,7 @@ db.saleTransaction.insertMany (
             "customerId": 988,
             "totalPrice": 195.16373,
             "quantity": 4,
-            "time": NumberLong(1489511795)
+            "time": 1489511795
         },
         {
             "factoryId": 5,
@@ -968,7 +968,7 @@ db.saleTransaction.insertMany (
             "customerId": 1553,
             "totalPrice": 44.215527,
             "quantity": 9,
-            "time": NumberLong(1479795622)
+            "time": 1479795622
         },
         {
             "factoryId": 2,
@@ -978,7 +978,7 @@ db.saleTransaction.insertMany (
             "customerId": 1470,
             "totalPrice": 186.79123,
             "quantity": 9,
-            "time": NumberLong(1463032156)
+            "time": 1463032156
         },
         {
             "factoryId": 5,
@@ -988,7 +988,7 @@ db.saleTransaction.insertMany (
             "customerId": 1800,
             "totalPrice": 187.21425,
             "quantity": 9,
-            "time": NumberLong(1463546374)
+            "time": 1463546374
         },
         {
             "factoryId": 3,
@@ -998,7 +998,7 @@ db.saleTransaction.insertMany (
             "customerId": 1511,
             "totalPrice": 82.50268,
             "quantity": 11,
-            "time": NumberLong(1484724101)
+            "time": 1484724101
         },
         {
             "factoryId": 4,
@@ -1008,7 +1008,7 @@ db.saleTransaction.insertMany (
             "customerId": 413,
             "totalPrice": 152.69067,
             "quantity": 7,
-            "time": NumberLong(1485083111)
+            "time": 1485083111
         },
         {
             "factoryId": 1,
@@ -1018,7 +1018,7 @@ db.saleTransaction.insertMany (
             "customerId": 1263,
             "totalPrice": 52.581306,
             "quantity": 5,
-            "time": NumberLong(1466659276)
+            "time": 1466659276
         },
         {
             "factoryId": 2,
@@ -1028,7 +1028,7 @@ db.saleTransaction.insertMany (
             "customerId": 178,
             "totalPrice": 130.48633,
             "quantity": 7,
-            "time": NumberLong(1464646381)
+            "time": 1464646381
         },
         {
             "factoryId": 3,
@@ -1038,7 +1038,7 @@ db.saleTransaction.insertMany (
             "customerId": 702,
             "totalPrice": 95.82698,
             "quantity": 5,
-            "time": NumberLong(1485942737)
+            "time": 1485942737
         },
         {
             "factoryId": 1,
@@ -1048,7 +1048,7 @@ db.saleTransaction.insertMany (
             "customerId": 94,
             "totalPrice": 119.87052,
             "quantity": 7,
-            "time": NumberLong(1485246498)
+            "time": 1485246498
         },
         {
             "factoryId": 4,
@@ -1058,7 +1058,7 @@ db.saleTransaction.insertMany (
             "customerId": 327,
             "totalPrice": 147.6246,
             "quantity": 5,
-            "time": NumberLong(1470010037)
+            "time": 1470010037
         },
         {
             "factoryId": 4,
@@ -1068,7 +1068,7 @@ db.saleTransaction.insertMany (
             "customerId": 405,
             "totalPrice": 61.3481,
             "quantity": 2,
-            "time": NumberLong(1470800558)
+            "time": 1470800558
         },
         {
             "factoryId": 1,
@@ -1078,7 +1078,7 @@ db.saleTransaction.insertMany (
             "customerId": 382,
             "totalPrice": 156.16142,
             "quantity": 9,
-            "time": NumberLong(1481635612)
+            "time": 1481635612
         },
         {
             "factoryId": 6,
@@ -1088,7 +1088,7 @@ db.saleTransaction.insertMany (
             "customerId": 1704,
             "totalPrice": 131.4231,
             "quantity": 1,
-            "time": NumberLong(1468304069)
+            "time": 1468304069
         },
         {
             "factoryId": 1,
@@ -1098,7 +1098,7 @@ db.saleTransaction.insertMany (
             "customerId": 1176,
             "totalPrice": 73.9834,
             "quantity": 10,
-            "time": NumberLong(1476120747)
+            "time": 1476120747
         },
         {
             "factoryId": 1,
@@ -1108,7 +1108,7 @@ db.saleTransaction.insertMany (
             "customerId": 1971,
             "totalPrice": 126.74229,
             "quantity": 3,
-            "time": NumberLong(1466381882)
+            "time": 1466381882
         },
         {
             "factoryId": 2,
@@ -1118,7 +1118,7 @@ db.saleTransaction.insertMany (
             "customerId": 1235,
             "totalPrice": 113.870415,
             "quantity": 6,
-            "time": NumberLong(1467680213)
+            "time": 1467680213
         },
         {
             "factoryId": 5,
@@ -1128,7 +1128,7 @@ db.saleTransaction.insertMany (
             "customerId": 1201,
             "totalPrice": 121.04154,
             "quantity": 3,
-            "time": NumberLong(1491862443)
+            "time": 1491862443
         },
         {
             "factoryId": 1,
@@ -1138,7 +1138,7 @@ db.saleTransaction.insertMany (
             "customerId": 1005,
             "totalPrice": 10.796842,
             "quantity": 4,
-            "time": NumberLong(1491601348)
+            "time": 1491601348
         },
         {
             "factoryId": 4,
@@ -1148,7 +1148,7 @@ db.saleTransaction.insertMany (
             "customerId": 585,
             "totalPrice": 160.99522,
             "quantity": 1,
-            "time": NumberLong(1479860560)
+            "time": 1479860560
         },
         {
             "factoryId": 1,
@@ -1158,7 +1158,7 @@ db.saleTransaction.insertMany (
             "customerId": 1216,
             "totalPrice": 171.63228,
             "quantity": 6,
-            "time": NumberLong(1483328078)
+            "time": 1483328078
         },
         {
             "factoryId": 3,
@@ -1168,7 +1168,7 @@ db.saleTransaction.insertMany (
             "customerId": 1421,
             "totalPrice": 188.93192,
             "quantity": 8,
-            "time": NumberLong(1465299333)
+            "time": 1465299333
         },
         {
             "factoryId": 4,
@@ -1178,7 +1178,7 @@ db.saleTransaction.insertMany (
             "customerId": 1906,
             "totalPrice": 71.58332,
             "quantity": 6,
-            "time": NumberLong(1466800282)
+            "time": 1466800282
         },
         {
             "factoryId": 1,
@@ -1188,7 +1188,7 @@ db.saleTransaction.insertMany (
             "customerId": 1715,
             "totalPrice": 107.65056,
             "quantity": 10,
-            "time": NumberLong(1480412512)
+            "time": 1480412512
         },
         {
             "factoryId": 3,
@@ -1198,7 +1198,7 @@ db.saleTransaction.insertMany (
             "customerId": 515,
             "totalPrice": 197.87288,
             "quantity": 9,
-            "time": NumberLong(1484361764)
+            "time": 1484361764
         },
         {
             "factoryId": 5,
@@ -1208,7 +1208,7 @@ db.saleTransaction.insertMany (
             "customerId": 1281,
             "totalPrice": 168.39977,
             "quantity": 3,
-            "time": NumberLong(1492512735)
+            "time": 1492512735
         },
         {
             "factoryId": 4,
@@ -1218,7 +1218,7 @@ db.saleTransaction.insertMany (
             "customerId": 1573,
             "totalPrice": 139.9875,
             "quantity": 3,
-            "time": NumberLong(1480797481)
+            "time": 1480797481
         },
         {
             "factoryId": 6,
@@ -1228,7 +1228,7 @@ db.saleTransaction.insertMany (
             "customerId": 256,
             "totalPrice": 152.10774,
             "quantity": 8,
-            "time": NumberLong(1489656102)
+            "time": 1489656102
         },
         {
             "factoryId": 1,
@@ -1238,7 +1238,7 @@ db.saleTransaction.insertMany (
             "customerId": 1967,
             "totalPrice": 5.2207313,
             "quantity": 5,
-            "time": NumberLong(1472999321)
+            "time": 1472999321
         },
         {
             "factoryId": 1,
@@ -1248,7 +1248,7 @@ db.saleTransaction.insertMany (
             "customerId": 1537,
             "totalPrice": 59.365566,
             "quantity": 10,
-            "time": NumberLong(1490398164)
+            "time": 1490398164
         },
         {
             "factoryId": 3,
@@ -1258,7 +1258,7 @@ db.saleTransaction.insertMany (
             "customerId": 444,
             "totalPrice": 27.150324,
             "quantity": 2,
-            "time": NumberLong(1483919938)
+            "time": 1483919938
         },
         {
             "factoryId": 2,
@@ -1268,7 +1268,7 @@ db.saleTransaction.insertMany (
             "customerId": 1575,
             "totalPrice": 21.659838,
             "quantity": 12,
-            "time": NumberLong(1474954978)
+            "time": 1474954978
         },
         {
             "factoryId": 1,
@@ -1278,7 +1278,7 @@ db.saleTransaction.insertMany (
             "customerId": 422,
             "totalPrice": 79.80231,
             "quantity": 6,
-            "time": NumberLong(1483828346)
+            "time": 1483828346
         },
         {
             "factoryId": 3,
@@ -1288,7 +1288,7 @@ db.saleTransaction.insertMany (
             "customerId": 726,
             "totalPrice": 199.44083,
             "quantity": 4,
-            "time": NumberLong(1483206440)
+            "time": 1483206440
         },
         {
             "factoryId": 2,
@@ -1298,7 +1298,7 @@ db.saleTransaction.insertMany (
             "customerId": 921,
             "totalPrice": 64.16484,
             "quantity": 2,
-            "time": NumberLong(1486376261)
+            "time": 1486376261
         },
         {
             "factoryId": 5,
@@ -1308,7 +1308,7 @@ db.saleTransaction.insertMany (
             "customerId": 1260,
             "totalPrice": 51.008785,
             "quantity": 4,
-            "time": NumberLong(1478512588)
+            "time": 1478512588
         },
         {
             "factoryId": 5,
@@ -1318,7 +1318,7 @@ db.saleTransaction.insertMany (
             "customerId": 593,
             "totalPrice": 198.50513,
             "quantity": 3,
-            "time": NumberLong(1481042467)
+            "time": 1481042467
         },
         {
             "factoryId": 2,
@@ -1328,7 +1328,7 @@ db.saleTransaction.insertMany (
             "customerId": 692,
             "totalPrice": 100.595314,
             "quantity": 1,
-            "time": NumberLong(1493778027)
+            "time": 1493778027
         },
         {
             "factoryId": 1,
@@ -1338,7 +1338,7 @@ db.saleTransaction.insertMany (
             "customerId": 1240,
             "totalPrice": 190.23337,
             "quantity": 2,
-            "time": NumberLong(1470011332)
+            "time": 1470011332
         },
         {
             "factoryId": 6,
@@ -1348,7 +1348,7 @@ db.saleTransaction.insertMany (
             "customerId": 88,
             "totalPrice": 22.33946,
             "quantity": 12,
-            "time": NumberLong(1477380166)
+            "time": 1477380166
         },
         {
             "factoryId": 3,
@@ -1358,7 +1358,7 @@ db.saleTransaction.insertMany (
             "customerId": 1166,
             "totalPrice": 59.730835,
             "quantity": 10,
-            "time": NumberLong(1471133977)
+            "time": 1471133977
         },
         {
             "factoryId": 3,
@@ -1368,7 +1368,7 @@ db.saleTransaction.insertMany (
             "customerId": 1767,
             "totalPrice": 27.509878,
             "quantity": 12,
-            "time": NumberLong(1491236591)
+            "time": 1491236591
         },
         {
             "factoryId": 2,
@@ -1378,7 +1378,7 @@ db.saleTransaction.insertMany (
             "customerId": 1844,
             "totalPrice": 95.49968,
             "quantity": 8,
-            "time": NumberLong(1487346756)
+            "time": 1487346756
         },
         {
             "factoryId": 3,
@@ -1388,7 +1388,7 @@ db.saleTransaction.insertMany (
             "customerId": 1670,
             "totalPrice": 138.54137,
             "quantity": 10,
-            "time": NumberLong(1471854683)
+            "time": 1471854683
         },
         {
             "factoryId": 4,
@@ -1398,7 +1398,7 @@ db.saleTransaction.insertMany (
             "customerId": 587,
             "totalPrice": 7.218453,
             "quantity": 5,
-            "time": NumberLong(1490403074)
+            "time": 1490403074
         },
         {
             "factoryId": 4,
@@ -1408,7 +1408,7 @@ db.saleTransaction.insertMany (
             "customerId": 1413,
             "totalPrice": 131.85811,
             "quantity": 2,
-            "time": NumberLong(1489674939)
+            "time": 1489674939
         },
         {
             "factoryId": 5,
@@ -1418,7 +1418,7 @@ db.saleTransaction.insertMany (
             "customerId": 1573,
             "totalPrice": 189.6503,
             "quantity": 7,
-            "time": NumberLong(1472586100)
+            "time": 1472586100
         },
         {
             "factoryId": 3,
@@ -1428,7 +1428,7 @@ db.saleTransaction.insertMany (
             "customerId": 191,
             "totalPrice": 27.856188,
             "quantity": 8,
-            "time": NumberLong(1482035826)
+            "time": 1482035826
         },
         {
             "factoryId": 5,
@@ -1438,7 +1438,7 @@ db.saleTransaction.insertMany (
             "customerId": 1341,
             "totalPrice": 65.83654,
             "quantity": 4,
-            "time": NumberLong(1480099845)
+            "time": 1480099845
         },
         {
             "factoryId": 6,
@@ -1448,7 +1448,7 @@ db.saleTransaction.insertMany (
             "customerId": 1102,
             "totalPrice": 161.29509,
             "quantity": 4,
-            "time": NumberLong(1467205316)
+            "time": 1467205316
         },
         {
             "factoryId": 4,
@@ -1458,7 +1458,7 @@ db.saleTransaction.insertMany (
             "customerId": 813,
             "totalPrice": 158.36519,
             "quantity": 9,
-            "time": NumberLong(1473913836)
+            "time": 1473913836
         },
         {
             "factoryId": 2,
@@ -1468,7 +1468,7 @@ db.saleTransaction.insertMany (
             "customerId": 1341,
             "totalPrice": 9.657359,
             "quantity": 4,
-            "time": NumberLong(1477272804)
+            "time": 1477272804
         },
         {
             "factoryId": 1,
@@ -1478,7 +1478,7 @@ db.saleTransaction.insertMany (
             "customerId": 204,
             "totalPrice": 38.93859,
             "quantity": 4,
-            "time": NumberLong(1465651137)
+            "time": 1465651137
         },
         {
             "factoryId": 5,
@@ -1488,7 +1488,7 @@ db.saleTransaction.insertMany (
             "customerId": 1428,
             "totalPrice": 119.67288,
             "quantity": 4,
-            "time": NumberLong(1485897103)
+            "time": 1485897103
         },
         {
             "factoryId": 1,
@@ -1498,7 +1498,7 @@ db.saleTransaction.insertMany (
             "customerId": 1406,
             "totalPrice": 56.163586,
             "quantity": 7,
-            "time": NumberLong(1474756884)
+            "time": 1474756884
         },
         {
             "factoryId": 1,
@@ -1508,7 +1508,7 @@ db.saleTransaction.insertMany (
             "customerId": 892,
             "totalPrice": 24.814371,
             "quantity": 12,
-            "time": NumberLong(1493736752)
+            "time": 1493736752
         },
         {
             "factoryId": 2,
@@ -1518,7 +1518,7 @@ db.saleTransaction.insertMany (
             "customerId": 394,
             "totalPrice": 39.44554,
             "quantity": 3,
-            "time": NumberLong(1465945046)
+            "time": 1465945046
         },
         {
             "factoryId": 5,
@@ -1528,7 +1528,7 @@ db.saleTransaction.insertMany (
             "customerId": 1048,
             "totalPrice": 120.52439,
             "quantity": 11,
-            "time": NumberLong(1485611480)
+            "time": 1485611480
         },
         {
             "factoryId": 4,
@@ -1538,7 +1538,7 @@ db.saleTransaction.insertMany (
             "customerId": 220,
             "totalPrice": 116.833115,
             "quantity": 5,
-            "time": NumberLong(1482619290)
+            "time": 1482619290
         },
         {
             "factoryId": 6,
@@ -1548,7 +1548,7 @@ db.saleTransaction.insertMany (
             "customerId": 1584,
             "totalPrice": 85.94032,
             "quantity": 10,
-            "time": NumberLong(1472771325)
+            "time": 1472771325
         },
         {
             "factoryId": 4,
@@ -1558,7 +1558,7 @@ db.saleTransaction.insertMany (
             "customerId": 1286,
             "totalPrice": 65.75061,
             "quantity": 3,
-            "time": NumberLong(1493855707)
+            "time": 1493855707
         },
         {
             "factoryId": 3,
@@ -1568,7 +1568,7 @@ db.saleTransaction.insertMany (
             "customerId": 708,
             "totalPrice": 62.281094,
             "quantity": 10,
-            "time": NumberLong(1476998584)
+            "time": 1476998584
         },
         {
             "factoryId": 5,
@@ -1578,7 +1578,7 @@ db.saleTransaction.insertMany (
             "customerId": 955,
             "totalPrice": 156.51329,
             "quantity": 10,
-            "time": NumberLong(1470884263)
+            "time": 1470884263
         },
         {
             "factoryId": 4,
@@ -1588,7 +1588,7 @@ db.saleTransaction.insertMany (
             "customerId": 1493,
             "totalPrice": 71.87976,
             "quantity": 1,
-            "time": NumberLong(1470253852)
+            "time": 1470253852
         },
         {
             "factoryId": 5,
@@ -1598,7 +1598,7 @@ db.saleTransaction.insertMany (
             "customerId": 587,
             "totalPrice": 140.82123,
             "quantity": 2,
-            "time": NumberLong(1481127878)
+            "time": 1481127878
         },
         {
             "factoryId": 5,
@@ -1608,7 +1608,7 @@ db.saleTransaction.insertMany (
             "customerId": 1727,
             "totalPrice": 49.882217,
             "quantity": 10,
-            "time": NumberLong(1466017851)
+            "time": 1466017851
         },
         {
             "factoryId": 2,
@@ -1618,7 +1618,7 @@ db.saleTransaction.insertMany (
             "customerId": 722,
             "totalPrice": 108.066696,
             "quantity": 8,
-            "time": NumberLong(1465699843)
+            "time": 1465699843
         },
         {
             "factoryId": 6,
@@ -1628,7 +1628,7 @@ db.saleTransaction.insertMany (
             "customerId": 1095,
             "totalPrice": 111.46772,
             "quantity": 3,
-            "time": NumberLong(1491028350)
+            "time": 1491028350
         },
         {
             "factoryId": 5,
@@ -1638,7 +1638,7 @@ db.saleTransaction.insertMany (
             "customerId": 1685,
             "totalPrice": 26.097776,
             "quantity": 12,
-            "time": NumberLong(1470253965)
+            "time": 1470253965
         },
         {
             "factoryId": 4,
@@ -1648,7 +1648,7 @@ db.saleTransaction.insertMany (
             "customerId": 323,
             "totalPrice": 195.1128,
             "quantity": 9,
-            "time": NumberLong(1474059641)
+            "time": 1474059641
         },
         {
             "factoryId": 3,
@@ -1658,7 +1658,7 @@ db.saleTransaction.insertMany (
             "customerId": 219,
             "totalPrice": 119.81165,
             "quantity": 9,
-            "time": NumberLong(1471279301)
+            "time": 1471279301
         },
         {
             "factoryId": 5,
@@ -1668,7 +1668,7 @@ db.saleTransaction.insertMany (
             "customerId": 368,
             "totalPrice": 76.76233,
             "quantity": 7,
-            "time": NumberLong(1463993908)
+            "time": 1463993908
         },
         {
             "factoryId": 4,
@@ -1678,7 +1678,7 @@ db.saleTransaction.insertMany (
             "customerId": 1644,
             "totalPrice": 73.741425,
             "quantity": 6,
-            "time": NumberLong(1484182798)
+            "time": 1484182798
         },
         {
             "factoryId": 5,
@@ -1688,7 +1688,7 @@ db.saleTransaction.insertMany (
             "customerId": 673,
             "totalPrice": 134.30038,
             "quantity": 4,
-            "time": NumberLong(1472357886)
+            "time": 1472357886
         },
         {
             "factoryId": 6,
@@ -1698,7 +1698,7 @@ db.saleTransaction.insertMany (
             "customerId": 727,
             "totalPrice": 6.744545,
             "quantity": 7,
-            "time": NumberLong(1472068149)
+            "time": 1472068149
         },
         {
             "factoryId": 4,
@@ -1708,7 +1708,7 @@ db.saleTransaction.insertMany (
             "customerId": 814,
             "totalPrice": 188.55612,
             "quantity": 3,
-            "time": NumberLong(1482958109)
+            "time": 1482958109
         },
         {
             "factoryId": 1,
@@ -1718,7 +1718,7 @@ db.saleTransaction.insertMany (
             "customerId": 605,
             "totalPrice": 82.11143,
             "quantity": 11,
-            "time": NumberLong(1492324064)
+            "time": 1492324064
         },
         {
             "factoryId": 3,
@@ -1728,7 +1728,7 @@ db.saleTransaction.insertMany (
             "customerId": 1332,
             "totalPrice": 32.441822,
             "quantity": 12,
-            "time": NumberLong(1480093388)
+            "time": 1480093388
         },
         {
             "factoryId": 4,
@@ -1738,7 +1738,7 @@ db.saleTransaction.insertMany (
             "customerId": 51,
             "totalPrice": 162.98604,
             "quantity": 11,
-            "time": NumberLong(1468741466)
+            "time": 1468741466
         },
         {
             "factoryId": 3,
@@ -1748,7 +1748,7 @@ db.saleTransaction.insertMany (
             "customerId": 1719,
             "totalPrice": 179.97058,
             "quantity": 3,
-            "time": NumberLong(1466532064)
+            "time": 1466532064
         },
         {
             "factoryId": 3,
@@ -1758,7 +1758,7 @@ db.saleTransaction.insertMany (
             "customerId": 1374,
             "totalPrice": 164.07648,
             "quantity": 12,
-            "time": NumberLong(1489049212)
+            "time": 1489049212
         },
         {
             "factoryId": 1,
@@ -1768,7 +1768,7 @@ db.saleTransaction.insertMany (
             "customerId": 859,
             "totalPrice": 86.16749,
             "quantity": 11,
-            "time": NumberLong(1492815637)
+            "time": 1492815637
         },
         {
             "factoryId": 5,
@@ -1778,7 +1778,7 @@ db.saleTransaction.insertMany (
             "customerId": 1538,
             "totalPrice": 146.1893,
             "quantity": 3,
-            "time": NumberLong(1487232713)
+            "time": 1487232713
         },
         {
             "factoryId": 1,
@@ -1788,7 +1788,7 @@ db.saleTransaction.insertMany (
             "customerId": 685,
             "totalPrice": 13.9010105,
             "quantity": 11,
-            "time": NumberLong(1470428281)
+            "time": 1470428281
         },
         {
             "factoryId": 2,
@@ -1798,7 +1798,7 @@ db.saleTransaction.insertMany (
             "customerId": 1315,
             "totalPrice": 64.908615,
             "quantity": 7,
-            "time": NumberLong(1466785913)
+            "time": 1466785913
         },
         {
             "factoryId": 5,
@@ -1808,7 +1808,7 @@ db.saleTransaction.insertMany (
             "customerId": 1192,
             "totalPrice": 196.62424,
             "quantity": 10,
-            "time": NumberLong(1492358629)
+            "time": 1492358629
         },
         {
             "factoryId": 5,
@@ -1818,7 +1818,7 @@ db.saleTransaction.insertMany (
             "customerId": 696,
             "totalPrice": 113.557526,
             "quantity": 1,
-            "time": NumberLong(1480756188)
+            "time": 1480756188
         },
         {
             "factoryId": 5,
@@ -1828,7 +1828,7 @@ db.saleTransaction.insertMany (
             "customerId": 235,
             "totalPrice": 142.37892,
             "quantity": 12,
-            "time": NumberLong(1491058500)
+            "time": 1491058500
         },
         {
             "factoryId": 2,
@@ -1838,7 +1838,7 @@ db.saleTransaction.insertMany (
             "customerId": 901,
             "totalPrice": 195.12364,
             "quantity": 6,
-            "time": NumberLong(1491295848)
+            "time": 1491295848
         },
         {
             "factoryId": 6,
@@ -1848,7 +1848,7 @@ db.saleTransaction.insertMany (
             "customerId": 885,
             "totalPrice": 81.091415,
             "quantity": 12,
-            "time": NumberLong(1467770983)
+            "time": 1467770983
         },
         {
             "factoryId": 6,
@@ -1858,7 +1858,7 @@ db.saleTransaction.insertMany (
             "customerId": 1047,
             "totalPrice": 155.75746,
             "quantity": 2,
-            "time": NumberLong(1494271784)
+            "time": 1494271784
         },
         {
             "factoryId": 4,
@@ -1868,7 +1868,7 @@ db.saleTransaction.insertMany (
             "customerId": 1050,
             "totalPrice": 131.06795,
             "quantity": 6,
-            "time": NumberLong(1471108522)
+            "time": 1471108522
         },
         {
             "factoryId": 2,
@@ -1878,7 +1878,7 @@ db.saleTransaction.insertMany (
             "customerId": 829,
             "totalPrice": 104.54326,
             "quantity": 4,
-            "time": NumberLong(1492224481)
+            "time": 1492224481
         },
         {
             "factoryId": 4,
@@ -1888,7 +1888,7 @@ db.saleTransaction.insertMany (
             "customerId": 973,
             "totalPrice": 32.802315,
             "quantity": 1,
-            "time": NumberLong(1466629676)
+            "time": 1466629676
         },
         {
             "factoryId": 4,
@@ -1898,7 +1898,7 @@ db.saleTransaction.insertMany (
             "customerId": 1851,
             "totalPrice": 143.22775,
             "quantity": 2,
-            "time": NumberLong(1483279257)
+            "time": 1483279257
         },
         {
             "factoryId": 2,
@@ -1908,7 +1908,7 @@ db.saleTransaction.insertMany (
             "customerId": 248,
             "totalPrice": 149.26007,
             "quantity": 9,
-            "time": NumberLong(1486242891)
+            "time": 1486242891
         },
         {
             "factoryId": 5,
@@ -1918,7 +1918,7 @@ db.saleTransaction.insertMany (
             "customerId": 1094,
             "totalPrice": 8.2067995,
             "quantity": 3,
-            "time": NumberLong(1487937118)
+            "time": 1487937118
         },
         {
             "factoryId": 3,
@@ -1928,7 +1928,7 @@ db.saleTransaction.insertMany (
             "customerId": 1642,
             "totalPrice": 189.13786,
             "quantity": 11,
-            "time": NumberLong(1470287029)
+            "time": 1470287029
         },
         {
             "factoryId": 2,
@@ -1938,7 +1938,7 @@ db.saleTransaction.insertMany (
             "customerId": 1235,
             "totalPrice": 189.3131,
             "quantity": 1,
-            "time": NumberLong(1482076587)
+            "time": 1482076587
         },
         {
             "factoryId": 3,
@@ -1948,7 +1948,7 @@ db.saleTransaction.insertMany (
             "customerId": 1406,
             "totalPrice": 193.97112,
             "quantity": 6,
-            "time": NumberLong(1473010811)
+            "time": 1473010811
         },
         {
             "factoryId": 5,
@@ -1958,7 +1958,7 @@ db.saleTransaction.insertMany (
             "customerId": 1597,
             "totalPrice": 146.50528,
             "quantity": 12,
-            "time": NumberLong(1478981592)
+            "time": 1478981592
         },
         {
             "factoryId": 2,
@@ -1968,7 +1968,7 @@ db.saleTransaction.insertMany (
             "customerId": 1422,
             "totalPrice": 27.246313,
             "quantity": 2,
-            "time": NumberLong(1485864796)
+            "time": 1485864796
         },
         {
             "factoryId": 2,
@@ -1978,7 +1978,7 @@ db.saleTransaction.insertMany (
             "customerId": 675,
             "totalPrice": 158.33022,
             "quantity": 12,
-            "time": NumberLong(1469041472)
+            "time": 1469041472
         },
         {
             "factoryId": 6,
@@ -1988,7 +1988,7 @@ db.saleTransaction.insertMany (
             "customerId": 581,
             "totalPrice": 166.95757,
             "quantity": 9,
-            "time": NumberLong(1466646579)
+            "time": 1466646579
         },
         {
             "factoryId": 2,
@@ -1998,7 +1998,7 @@ db.saleTransaction.insertMany (
             "customerId": 1779,
             "totalPrice": 177.02808,
             "quantity": 2,
-            "time": NumberLong(1485814743)
+            "time": 1485814743
         },
         {
             "factoryId": 1,
@@ -2008,7 +2008,7 @@ db.saleTransaction.insertMany (
             "customerId": 352,
             "totalPrice": 102.98512,
             "quantity": 1,
-            "time": NumberLong(1486254956)
+            "time": 1486254956
         },
         {
             "factoryId": 5,
@@ -2018,7 +2018,7 @@ db.saleTransaction.insertMany (
             "customerId": 1199,
             "totalPrice": 123.7933,
             "quantity": 5,
-            "time": NumberLong(1493012255)
+            "time": 1493012255
         },
         {
             "factoryId": 3,
@@ -2028,7 +2028,7 @@ db.saleTransaction.insertMany (
             "customerId": 581,
             "totalPrice": 100.78765,
             "quantity": 12,
-            "time": NumberLong(1492791728)
+            "time": 1492791728
         },
         {
             "factoryId": 3,
@@ -2038,7 +2038,7 @@ db.saleTransaction.insertMany (
             "customerId": 330,
             "totalPrice": 86.708786,
             "quantity": 12,
-            "time": NumberLong(1468504878)
+            "time": 1468504878
         },
         {
             "factoryId": 2,
@@ -2048,7 +2048,7 @@ db.saleTransaction.insertMany (
             "customerId": 1804,
             "totalPrice": 60.939575,
             "quantity": 6,
-            "time": NumberLong(1469926098)
+            "time": 1469926098
         },
         {
             "factoryId": 6,
@@ -2058,7 +2058,7 @@ db.saleTransaction.insertMany (
             "customerId": 996,
             "totalPrice": 24.15474,
             "quantity": 10,
-            "time": NumberLong(1480898560)
+            "time": 1480898560
         },
         {
             "factoryId": 1,
@@ -2068,7 +2068,7 @@ db.saleTransaction.insertMany (
             "customerId": 1473,
             "totalPrice": 4.474256,
             "quantity": 4,
-            "time": NumberLong(1481217393)
+            "time": 1481217393
         },
         {
             "factoryId": 5,
@@ -2078,7 +2078,7 @@ db.saleTransaction.insertMany (
             "customerId": 750,
             "totalPrice": 72.60579,
             "quantity": 3,
-            "time": NumberLong(1470959454)
+            "time": 1470959454
         },
         {
             "factoryId": 3,
@@ -2088,7 +2088,7 @@ db.saleTransaction.insertMany (
             "customerId": 1519,
             "totalPrice": 110.3032,
             "quantity": 7,
-            "time": NumberLong(1475987251)
+            "time": 1475987251
         },
         {
             "factoryId": 2,
@@ -2098,7 +2098,7 @@ db.saleTransaction.insertMany (
             "customerId": 1161,
             "totalPrice": 194.76204,
             "quantity": 6,
-            "time": NumberLong(1471555418)
+            "time": 1471555418
         },
         {
             "factoryId": 3,
@@ -2108,7 +2108,7 @@ db.saleTransaction.insertMany (
             "customerId": 267,
             "totalPrice": 177.3292,
             "quantity": 11,
-            "time": NumberLong(1491824709)
+            "time": 1491824709
         },
         {
             "factoryId": 3,
@@ -2118,7 +2118,7 @@ db.saleTransaction.insertMany (
             "customerId": 1448,
             "totalPrice": 119.909676,
             "quantity": 2,
-            "time": NumberLong(1471175913)
+            "time": 1471175913
         },
         {
             "factoryId": 2,
@@ -2128,7 +2128,7 @@ db.saleTransaction.insertMany (
             "customerId": 696,
             "totalPrice": 168.37437,
             "quantity": 1,
-            "time": NumberLong(1483280739)
+            "time": 1483280739
         },
         {
             "factoryId": 2,
@@ -2138,7 +2138,7 @@ db.saleTransaction.insertMany (
             "customerId": 987,
             "totalPrice": 134.26953,
             "quantity": 3,
-            "time": NumberLong(1483603602)
+            "time": 1483603602
         },
         {
             "factoryId": 4,
@@ -2148,7 +2148,7 @@ db.saleTransaction.insertMany (
             "customerId": 234,
             "totalPrice": 87.83442,
             "quantity": 9,
-            "time": NumberLong(1482200161)
+            "time": 1482200161
         },
         {
             "factoryId": 1,
@@ -2158,7 +2158,7 @@ db.saleTransaction.insertMany (
             "customerId": 1799,
             "totalPrice": 15.19775,
             "quantity": 10,
-            "time": NumberLong(1487645826)
+            "time": 1487645826
         },
         {
             "factoryId": 2,
@@ -2168,7 +2168,7 @@ db.saleTransaction.insertMany (
             "customerId": 823,
             "totalPrice": 190.76524,
             "quantity": 6,
-            "time": NumberLong(1464273043)
+            "time": 1464273043
         },
         {
             "factoryId": 1,
@@ -2178,7 +2178,7 @@ db.saleTransaction.insertMany (
             "customerId": 1606,
             "totalPrice": 36.20988,
             "quantity": 9,
-            "time": NumberLong(1477651889)
+            "time": 1477651889
         },
         {
             "factoryId": 3,
@@ -2188,7 +2188,7 @@ db.saleTransaction.insertMany (
             "customerId": 1562,
             "totalPrice": 85.29071,
             "quantity": 11,
-            "time": NumberLong(1475676201)
+            "time": 1475676201
         },
         {
             "factoryId": 3,
@@ -2198,7 +2198,7 @@ db.saleTransaction.insertMany (
             "customerId": 470,
             "totalPrice": 14.315673,
             "quantity": 1,
-            "time": NumberLong(1477221423)
+            "time": 1477221423
         },
         {
             "factoryId": 4,
@@ -2208,7 +2208,7 @@ db.saleTransaction.insertMany (
             "customerId": 1929,
             "totalPrice": 156.10942,
             "quantity": 6,
-            "time": NumberLong(1468694998)
+            "time": 1468694998
         },
         {
             "factoryId": 1,
@@ -2218,7 +2218,7 @@ db.saleTransaction.insertMany (
             "customerId": 605,
             "totalPrice": 91.22756,
             "quantity": 6,
-            "time": NumberLong(1474161561)
+            "time": 1474161561
         },
         {
             "factoryId": 1,
@@ -2228,7 +2228,7 @@ db.saleTransaction.insertMany (
             "customerId": 963,
             "totalPrice": 188.69829,
             "quantity": 2,
-            "time": NumberLong(1480574143)
+            "time": 1480574143
         },
         {
             "factoryId": 1,
@@ -2238,7 +2238,7 @@ db.saleTransaction.insertMany (
             "customerId": 112,
             "totalPrice": 7.196885,
             "quantity": 8,
-            "time": NumberLong(1465069620)
+            "time": 1465069620
         },
         {
             "factoryId": 3,
@@ -2248,7 +2248,7 @@ db.saleTransaction.insertMany (
             "customerId": 850,
             "totalPrice": 169.44661,
             "quantity": 3,
-            "time": NumberLong(1489637658)
+            "time": 1489637658
         },
         {
             "factoryId": 2,
@@ -2258,7 +2258,7 @@ db.saleTransaction.insertMany (
             "customerId": 1802,
             "totalPrice": 147.76738,
             "quantity": 4,
-            "time": NumberLong(1465197302)
+            "time": 1465197302
         },
         {
             "factoryId": 4,
@@ -2268,7 +2268,7 @@ db.saleTransaction.insertMany (
             "customerId": 1782,
             "totalPrice": 85.1169,
             "quantity": 8,
-            "time": NumberLong(1479545338)
+            "time": 1479545338
         },
         {
             "factoryId": 3,
@@ -2278,7 +2278,7 @@ db.saleTransaction.insertMany (
             "customerId": 1650,
             "totalPrice": 78.45154,
             "quantity": 10,
-            "time": NumberLong(1472583359)
+            "time": 1472583359
         },
         {
             "factoryId": 4,
@@ -2288,7 +2288,7 @@ db.saleTransaction.insertMany (
             "customerId": 1719,
             "totalPrice": 137.07523,
             "quantity": 12,
-            "time": NumberLong(1488917691)
+            "time": 1488917691
         },
         {
             "factoryId": 4,
@@ -2298,7 +2298,7 @@ db.saleTransaction.insertMany (
             "customerId": 571,
             "totalPrice": 95.00694,
             "quantity": 9,
-            "time": NumberLong(1481417033)
+            "time": 1481417033
         },
         {
             "factoryId": 6,
@@ -2308,7 +2308,7 @@ db.saleTransaction.insertMany (
             "customerId": 339,
             "totalPrice": 172.80113,
             "quantity": 12,
-            "time": NumberLong(1485281500)
+            "time": 1485281500
         },
         {
             "factoryId": 6,
@@ -2318,7 +2318,7 @@ db.saleTransaction.insertMany (
             "customerId": 461,
             "totalPrice": 6.27533,
             "quantity": 6,
-            "time": NumberLong(1494230475)
+            "time": 1494230475
         },
         {
             "factoryId": 1,
@@ -2328,7 +2328,7 @@ db.saleTransaction.insertMany (
             "customerId": 70,
             "totalPrice": 32.751984,
             "quantity": 3,
-            "time": NumberLong(1463743750)
+            "time": 1463743750
         },
         {
             "factoryId": 6,
@@ -2338,7 +2338,7 @@ db.saleTransaction.insertMany (
             "customerId": 1960,
             "totalPrice": 1.4374884,
             "quantity": 12,
-            "time": NumberLong(1476166413)
+            "time": 1476166413
         },
         {
             "factoryId": 6,
@@ -2348,7 +2348,7 @@ db.saleTransaction.insertMany (
             "customerId": 524,
             "totalPrice": 165.24799,
             "quantity": 9,
-            "time": NumberLong(1464417185)
+            "time": 1464417185
         },
         {
             "factoryId": 5,
@@ -2358,7 +2358,7 @@ db.saleTransaction.insertMany (
             "customerId": 1149,
             "totalPrice": 115.549675,
             "quantity": 4,
-            "time": NumberLong(1486408603)
+            "time": 1486408603
         },
         {
             "factoryId": 4,
@@ -2368,7 +2368,7 @@ db.saleTransaction.insertMany (
             "customerId": 1072,
             "totalPrice": 191.67546,
             "quantity": 12,
-            "time": NumberLong(1472169581)
+            "time": 1472169581
         },
         {
             "factoryId": 1,
@@ -2378,7 +2378,7 @@ db.saleTransaction.insertMany (
             "customerId": 302,
             "totalPrice": 48.59284,
             "quantity": 5,
-            "time": NumberLong(1464620384)
+            "time": 1464620384
         },
         {
             "factoryId": 6,
@@ -2388,7 +2388,7 @@ db.saleTransaction.insertMany (
             "customerId": 1695,
             "totalPrice": 58.96568,
             "quantity": 4,
-            "time": NumberLong(1491090547)
+            "time": 1491090547
         },
         {
             "factoryId": 3,
@@ -2398,7 +2398,7 @@ db.saleTransaction.insertMany (
             "customerId": 1717,
             "totalPrice": 190.26854,
             "quantity": 4,
-            "time": NumberLong(1471757110)
+            "time": 1471757110
         },
         {
             "factoryId": 6,
@@ -2408,7 +2408,7 @@ db.saleTransaction.insertMany (
             "customerId": 704,
             "totalPrice": 13.198474,
             "quantity": 12,
-            "time": NumberLong(1467125244)
+            "time": 1467125244
         },
         {
             "factoryId": 4,
@@ -2418,7 +2418,7 @@ db.saleTransaction.insertMany (
             "customerId": 189,
             "totalPrice": 23.278675,
             "quantity": 10,
-            "time": NumberLong(1471135072)
+            "time": 1471135072
         },
         {
             "factoryId": 5,
@@ -2428,7 +2428,7 @@ db.saleTransaction.insertMany (
             "customerId": 422,
             "totalPrice": 178.4369,
             "quantity": 5,
-            "time": NumberLong(1480167006)
+            "time": 1480167006
         },
         {
             "factoryId": 2,
@@ -2438,7 +2438,7 @@ db.saleTransaction.insertMany (
             "customerId": 1967,
             "totalPrice": 86.90489,
             "quantity": 2,
-            "time": NumberLong(1477517434)
+            "time": 1477517434
         },
         {
             "factoryId": 1,
@@ -2448,7 +2448,7 @@ db.saleTransaction.insertMany (
             "customerId": 502,
             "totalPrice": 27.532597,
             "quantity": 9,
-            "time": NumberLong(1464336767)
+            "time": 1464336767
         },
         {
             "factoryId": 6,
@@ -2458,7 +2458,7 @@ db.saleTransaction.insertMany (
             "customerId": 695,
             "totalPrice": 98.247765,
             "quantity": 1,
-            "time": NumberLong(1464006252)
+            "time": 1464006252
         },
         {
             "factoryId": 1,
@@ -2468,7 +2468,7 @@ db.saleTransaction.insertMany (
             "customerId": 552,
             "totalPrice": 176.72188,
             "quantity": 6,
-            "time": NumberLong(1470736659)
+            "time": 1470736659
         },
         {
             "factoryId": 2,
@@ -2478,7 +2478,7 @@ db.saleTransaction.insertMany (
             "customerId": 1353,
             "totalPrice": 43.173046,
             "quantity": 8,
-            "time": NumberLong(1491085743)
+            "time": 1491085743
         },
         {
             "factoryId": 5,
@@ -2488,7 +2488,7 @@ db.saleTransaction.insertMany (
             "customerId": 656,
             "totalPrice": 65.53084,
             "quantity": 2,
-            "time": NumberLong(1474252979)
+            "time": 1474252979
         },
         {
             "factoryId": 1,
@@ -2498,7 +2498,7 @@ db.saleTransaction.insertMany (
             "customerId": 122,
             "totalPrice": 127.29174,
             "quantity": 11,
-            "time": NumberLong(1487296601)
+            "time": 1487296601
         },
         {
             "factoryId": 3,
@@ -2508,7 +2508,7 @@ db.saleTransaction.insertMany (
             "customerId": 1568,
             "totalPrice": 94.449776,
             "quantity": 6,
-            "time": NumberLong(1484306374)
+            "time": 1484306374
         },
         {
             "factoryId": 2,
@@ -2518,7 +2518,7 @@ db.saleTransaction.insertMany (
             "customerId": 1863,
             "totalPrice": 122.86391,
             "quantity": 10,
-            "time": NumberLong(1478923597)
+            "time": 1478923597
         },
         {
             "factoryId": 1,
@@ -2528,7 +2528,7 @@ db.saleTransaction.insertMany (
             "customerId": 101,
             "totalPrice": 13.329814,
             "quantity": 7,
-            "time": NumberLong(1468516339)
+            "time": 1468516339
         },
         {
             "factoryId": 6,
@@ -2538,7 +2538,7 @@ db.saleTransaction.insertMany (
             "customerId": 491,
             "totalPrice": 10.874565,
             "quantity": 8,
-            "time": NumberLong(1476703400)
+            "time": 1476703400
         },
         {
             "factoryId": 4,
@@ -2548,7 +2548,7 @@ db.saleTransaction.insertMany (
             "customerId": 379,
             "totalPrice": 177.42993,
             "quantity": 1,
-            "time": NumberLong(1474758805)
+            "time": 1474758805
         },
         {
             "factoryId": 1,
@@ -2558,7 +2558,7 @@ db.saleTransaction.insertMany (
             "customerId": 1309,
             "totalPrice": 2.7910695,
             "quantity": 1,
-            "time": NumberLong(1476737270)
+            "time": 1476737270
         },
         {
             "factoryId": 6,
@@ -2568,7 +2568,7 @@ db.saleTransaction.insertMany (
             "customerId": 468,
             "totalPrice": 121.17508,
             "quantity": 11,
-            "time": NumberLong(1468719450)
+            "time": 1468719450
         },
         {
             "factoryId": 2,
@@ -2578,7 +2578,7 @@ db.saleTransaction.insertMany (
             "customerId": 576,
             "totalPrice": 79.57565,
             "quantity": 6,
-            "time": NumberLong(1471192860)
+            "time": 1471192860
         },
         {
             "factoryId": 4,
@@ -2588,7 +2588,7 @@ db.saleTransaction.insertMany (
             "customerId": 879,
             "totalPrice": 96.495094,
             "quantity": 6,
-            "time": NumberLong(1485457297)
+            "time": 1485457297
         },
         {
             "factoryId": 1,
@@ -2598,7 +2598,7 @@ db.saleTransaction.insertMany (
             "customerId": 748,
             "totalPrice": 150.70972,
             "quantity": 1,
-            "time": NumberLong(1482005105)
+            "time": 1482005105
         },
         {
             "factoryId": 2,
@@ -2608,7 +2608,7 @@ db.saleTransaction.insertMany (
             "customerId": 1138,
             "totalPrice": 137.4238,
             "quantity": 11,
-            "time": NumberLong(1487250361)
+            "time": 1487250361
         },
         {
             "factoryId": 3,
@@ -2618,7 +2618,7 @@ db.saleTransaction.insertMany (
             "customerId": 1435,
             "totalPrice": 122.67421,
             "quantity": 10,
-            "time": NumberLong(1484090144)
+            "time": 1484090144
         },
         {
             "factoryId": 1,
@@ -2628,7 +2628,7 @@ db.saleTransaction.insertMany (
             "customerId": 289,
             "totalPrice": 168.75934,
             "quantity": 9,
-            "time": NumberLong(1463801274)
+            "time": 1463801274
         },
         {
             "factoryId": 5,
@@ -2638,7 +2638,7 @@ db.saleTransaction.insertMany (
             "customerId": 196,
             "totalPrice": 16.807436,
             "quantity": 5,
-            "time": NumberLong(1474094695)
+            "time": 1474094695
         },
         {
             "factoryId": 1,
@@ -2648,7 +2648,7 @@ db.saleTransaction.insertMany (
             "customerId": 23,
             "totalPrice": 109.38478,
             "quantity": 7,
-            "time": NumberLong(1474060023)
+            "time": 1474060023
         },
         {
             "factoryId": 3,
@@ -2658,7 +2658,7 @@ db.saleTransaction.insertMany (
             "customerId": 1589,
             "totalPrice": 76.72067,
             "quantity": 8,
-            "time": NumberLong(1489420183)
+            "time": 1489420183
         },
         {
             "factoryId": 4,
@@ -2668,7 +2668,7 @@ db.saleTransaction.insertMany (
             "customerId": 1455,
             "totalPrice": 106.142784,
             "quantity": 9,
-            "time": NumberLong(1476367019)
+            "time": 1476367019
         },
         {
             "factoryId": 5,
@@ -2678,7 +2678,7 @@ db.saleTransaction.insertMany (
             "customerId": 937,
             "totalPrice": 74.83939,
             "quantity": 11,
-            "time": NumberLong(1490398525)
+            "time": 1490398525
         },
         {
             "factoryId": 5,
@@ -2688,7 +2688,7 @@ db.saleTransaction.insertMany (
             "customerId": 69,
             "totalPrice": 24.54056,
             "quantity": 4,
-            "time": NumberLong(1485910329)
+            "time": 1485910329
         },
         {
             "factoryId": 1,
@@ -2698,7 +2698,7 @@ db.saleTransaction.insertMany (
             "customerId": 1927,
             "totalPrice": 83.48593,
             "quantity": 12,
-            "time": NumberLong(1485020199)
+            "time": 1485020199
         },
         {
             "factoryId": 4,
@@ -2708,7 +2708,7 @@ db.saleTransaction.insertMany (
             "customerId": 1644,
             "totalPrice": 185.66101,
             "quantity": 2,
-            "time": NumberLong(1492029255)
+            "time": 1492029255
         },
         {
             "factoryId": 3,
@@ -2718,7 +2718,7 @@ db.saleTransaction.insertMany (
             "customerId": 465,
             "totalPrice": 115.0493,
             "quantity": 4,
-            "time": NumberLong(1468516826)
+            "time": 1468516826
         },
         {
             "factoryId": 6,
@@ -2728,7 +2728,7 @@ db.saleTransaction.insertMany (
             "customerId": 510,
             "totalPrice": 156.4734,
             "quantity": 11,
-            "time": NumberLong(1492936797)
+            "time": 1492936797
         },
         {
             "factoryId": 2,
@@ -2738,7 +2738,7 @@ db.saleTransaction.insertMany (
             "customerId": 1906,
             "totalPrice": 79.81025,
             "quantity": 10,
-            "time": NumberLong(1491241919)
+            "time": 1491241919
         },
         {
             "factoryId": 5,
@@ -2748,7 +2748,7 @@ db.saleTransaction.insertMany (
             "customerId": 1846,
             "totalPrice": 59.504356,
             "quantity": 12,
-            "time": NumberLong(1492620318)
+            "time": 1492620318
         },
         {
             "factoryId": 2,
@@ -2758,7 +2758,7 @@ db.saleTransaction.insertMany (
             "customerId": 1817,
             "totalPrice": 139.36841,
             "quantity": 12,
-            "time": NumberLong(1467827403)
+            "time": 1467827403
         },
         {
             "factoryId": 1,
@@ -2768,7 +2768,7 @@ db.saleTransaction.insertMany (
             "customerId": 463,
             "totalPrice": 187.66821,
             "quantity": 10,
-            "time": NumberLong(1488886375)
+            "time": 1488886375
         },
         {
             "factoryId": 4,
@@ -2778,7 +2778,7 @@ db.saleTransaction.insertMany (
             "customerId": 1555,
             "totalPrice": 111.151535,
             "quantity": 12,
-            "time": NumberLong(1492918441)
+            "time": 1492918441
         },
         {
             "factoryId": 2,
@@ -2788,7 +2788,7 @@ db.saleTransaction.insertMany (
             "customerId": 569,
             "totalPrice": 49.685173,
             "quantity": 3,
-            "time": NumberLong(1482430543)
+            "time": 1482430543
         },
         {
             "factoryId": 3,
@@ -2798,7 +2798,7 @@ db.saleTransaction.insertMany (
             "customerId": 25,
             "totalPrice": 85.74046,
             "quantity": 10,
-            "time": NumberLong(1481561956)
+            "time": 1481561956
         },
         {
             "factoryId": 1,
@@ -2808,7 +2808,7 @@ db.saleTransaction.insertMany (
             "customerId": 1331,
             "totalPrice": 122.92981,
             "quantity": 1,
-            "time": NumberLong(1493776631)
+            "time": 1493776631
         },
         {
             "factoryId": 3,
@@ -2818,7 +2818,7 @@ db.saleTransaction.insertMany (
             "customerId": 678,
             "totalPrice": 187.66183,
             "quantity": 12,
-            "time": NumberLong(1473378356)
+            "time": 1473378356
         },
         {
             "factoryId": 4,
@@ -2828,7 +2828,7 @@ db.saleTransaction.insertMany (
             "customerId": 1055,
             "totalPrice": 103.154434,
             "quantity": 10,
-            "time": NumberLong(1483243442)
+            "time": 1483243442
         },
         {
             "factoryId": 4,
@@ -2838,7 +2838,7 @@ db.saleTransaction.insertMany (
             "customerId": 650,
             "totalPrice": 147.92293,
             "quantity": 7,
-            "time": NumberLong(1480083031)
+            "time": 1480083031
         },
         {
             "factoryId": 4,
@@ -2848,7 +2848,7 @@ db.saleTransaction.insertMany (
             "customerId": 1111,
             "totalPrice": 71.33897,
             "quantity": 5,
-            "time": NumberLong(1484404270)
+            "time": 1484404270
         },
         {
             "factoryId": 2,
@@ -2858,7 +2858,7 @@ db.saleTransaction.insertMany (
             "customerId": 759,
             "totalPrice": 195.67459,
             "quantity": 10,
-            "time": NumberLong(1493717330)
+            "time": 1493717330
         },
         {
             "factoryId": 1,
@@ -2868,7 +2868,7 @@ db.saleTransaction.insertMany (
             "customerId": 455,
             "totalPrice": 160.77985,
             "quantity": 4,
-            "time": NumberLong(1466807993)
+            "time": 1466807993
         },
         {
             "factoryId": 3,
@@ -2878,7 +2878,7 @@ db.saleTransaction.insertMany (
             "customerId": 1651,
             "totalPrice": 145.79794,
             "quantity": 9,
-            "time": NumberLong(1476261331)
+            "time": 1476261331
         },
         {
             "factoryId": 2,
@@ -2888,7 +2888,7 @@ db.saleTransaction.insertMany (
             "customerId": 697,
             "totalPrice": 11.456746,
             "quantity": 10,
-            "time": NumberLong(1484467518)
+            "time": 1484467518
         },
         {
             "factoryId": 5,
@@ -2898,7 +2898,7 @@ db.saleTransaction.insertMany (
             "customerId": 456,
             "totalPrice": 102.196556,
             "quantity": 1,
-            "time": NumberLong(1470373021)
+            "time": 1470373021
         },
         {
             "factoryId": 6,
@@ -2908,7 +2908,7 @@ db.saleTransaction.insertMany (
             "customerId": 1109,
             "totalPrice": 100.88638,
             "quantity": 8,
-            "time": NumberLong(1467881955)
+            "time": 1467881955
         },
         {
             "factoryId": 6,
@@ -2918,7 +2918,7 @@ db.saleTransaction.insertMany (
             "customerId": 1530,
             "totalPrice": 165.25558,
             "quantity": 4,
-            "time": NumberLong(1464999600)
+            "time": 1464999600
         },
         {
             "factoryId": 3,
@@ -2928,7 +2928,7 @@ db.saleTransaction.insertMany (
             "customerId": 515,
             "totalPrice": 36.345417,
             "quantity": 7,
-            "time": NumberLong(1479799576)
+            "time": 1479799576
         },
         {
             "factoryId": 2,
@@ -2938,7 +2938,7 @@ db.saleTransaction.insertMany (
             "customerId": 1613,
             "totalPrice": 108.05599,
             "quantity": 5,
-            "time": NumberLong(1473485822)
+            "time": 1473485822
         },
         {
             "factoryId": 2,
@@ -2948,7 +2948,7 @@ db.saleTransaction.insertMany (
             "customerId": 969,
             "totalPrice": 63.698597,
             "quantity": 8,
-            "time": NumberLong(1463205109)
+            "time": 1463205109
         },
         {
             "factoryId": 4,
@@ -2958,7 +2958,7 @@ db.saleTransaction.insertMany (
             "customerId": 1157,
             "totalPrice": 158.56497,
             "quantity": 1,
-            "time": NumberLong(1469492469)
+            "time": 1469492469
         },
         {
             "factoryId": 3,
@@ -2968,7 +2968,7 @@ db.saleTransaction.insertMany (
             "customerId": 39,
             "totalPrice": 177.37485,
             "quantity": 8,
-            "time": NumberLong(1462775877)
+            "time": 1462775877
         },
         {
             "factoryId": 3,
@@ -2978,7 +2978,7 @@ db.saleTransaction.insertMany (
             "customerId": 1186,
             "totalPrice": 10.853109,
             "quantity": 7,
-            "time": NumberLong(1466378955)
+            "time": 1466378955
         },
         {
             "factoryId": 2,
@@ -2988,7 +2988,7 @@ db.saleTransaction.insertMany (
             "customerId": 65,
             "totalPrice": 149.46858,
             "quantity": 9,
-            "time": NumberLong(1464812832)
+            "time": 1464812832
         },
         {
             "factoryId": 3,
@@ -2998,7 +2998,7 @@ db.saleTransaction.insertMany (
             "customerId": 1260,
             "totalPrice": 95.34798,
             "quantity": 2,
-            "time": NumberLong(1478022187)
+            "time": 1478022187
         },
         {
             "factoryId": 3,
@@ -3008,7 +3008,7 @@ db.saleTransaction.insertMany (
             "customerId": 437,
             "totalPrice": 46.308125,
             "quantity": 1,
-            "time": NumberLong(1465951720)
+            "time": 1465951720
         },
         {
             "factoryId": 3,
@@ -3018,7 +3018,7 @@ db.saleTransaction.insertMany (
             "customerId": 1148,
             "totalPrice": 12.177381,
             "quantity": 2,
-            "time": NumberLong(1465531019)
+            "time": 1465531019
         },
         {
             "factoryId": 1,
@@ -3028,7 +3028,7 @@ db.saleTransaction.insertMany (
             "customerId": 281,
             "totalPrice": 3.1306794,
             "quantity": 9,
-            "time": NumberLong(1479312706)
+            "time": 1479312706
         },
         {
             "factoryId": 6,
@@ -3038,7 +3038,7 @@ db.saleTransaction.insertMany (
             "customerId": 1946,
             "totalPrice": 55.800568,
             "quantity": 3,
-            "time": NumberLong(1490299561)
+            "time": 1490299561
         },
         {
             "factoryId": 5,
@@ -3048,7 +3048,7 @@ db.saleTransaction.insertMany (
             "customerId": 483,
             "totalPrice": 171.66562,
             "quantity": 8,
-            "time": NumberLong(1467277070)
+            "time": 1467277070
         },
         {
             "factoryId": 1,
@@ -3058,7 +3058,7 @@ db.saleTransaction.insertMany (
             "customerId": 1189,
             "totalPrice": 131.47986,
             "quantity": 11,
-            "time": NumberLong(1466889695)
+            "time": 1466889695
         },
         {
             "factoryId": 5,
@@ -3068,7 +3068,7 @@ db.saleTransaction.insertMany (
             "customerId": 429,
             "totalPrice": 12.708869,
             "quantity": 7,
-            "time": NumberLong(1492325084)
+            "time": 1492325084
         },
         {
             "factoryId": 5,
@@ -3078,7 +3078,7 @@ db.saleTransaction.insertMany (
             "customerId": 66,
             "totalPrice": 191.43407,
             "quantity": 2,
-            "time": NumberLong(1488326422)
+            "time": 1488326422
         },
         {
             "factoryId": 4,
@@ -3088,7 +3088,7 @@ db.saleTransaction.insertMany (
             "customerId": 1974,
             "totalPrice": 126.614296,
             "quantity": 4,
-            "time": NumberLong(1463086995)
+            "time": 1463086995
         },
         {
             "factoryId": 6,
@@ -3098,7 +3098,7 @@ db.saleTransaction.insertMany (
             "customerId": 1219,
             "totalPrice": 59.289352,
             "quantity": 10,
-            "time": NumberLong(1474400646)
+            "time": 1474400646
         },
         {
             "factoryId": 2,
@@ -3108,7 +3108,7 @@ db.saleTransaction.insertMany (
             "customerId": 806,
             "totalPrice": 167.5702,
             "quantity": 4,
-            "time": NumberLong(1479393909)
+            "time": 1479393909
         },
         {
             "factoryId": 3,
@@ -3118,7 +3118,7 @@ db.saleTransaction.insertMany (
             "customerId": 1301,
             "totalPrice": 14.557618,
             "quantity": 5,
-            "time": NumberLong(1470190070)
+            "time": 1470190070
         },
         {
             "factoryId": 1,
@@ -3128,7 +3128,7 @@ db.saleTransaction.insertMany (
             "customerId": 1508,
             "totalPrice": 120.898705,
             "quantity": 10,
-            "time": NumberLong(1486073766)
+            "time": 1486073766
         },
         {
             "factoryId": 3,
@@ -3138,7 +3138,7 @@ db.saleTransaction.insertMany (
             "customerId": 93,
             "totalPrice": 158.96048,
             "quantity": 2,
-            "time": NumberLong(1475771715)
+            "time": 1475771715
         },
         {
             "factoryId": 3,
@@ -3148,7 +3148,7 @@ db.saleTransaction.insertMany (
             "customerId": 979,
             "totalPrice": 85.31746,
             "quantity": 11,
-            "time": NumberLong(1479409570)
+            "time": 1479409570
         },
         {
             "factoryId": 4,
@@ -3158,7 +3158,7 @@ db.saleTransaction.insertMany (
             "customerId": 892,
             "totalPrice": 160.21158,
             "quantity": 4,
-            "time": NumberLong(1486925199)
+            "time": 1486925199
         },
         {
             "factoryId": 6,
@@ -3168,7 +3168,7 @@ db.saleTransaction.insertMany (
             "customerId": 1945,
             "totalPrice": 156.93367,
             "quantity": 2,
-            "time": NumberLong(1480470189)
+            "time": 1480470189
         },
         {
             "factoryId": 5,
@@ -3178,7 +3178,7 @@ db.saleTransaction.insertMany (
             "customerId": 475,
             "totalPrice": 79.55287,
             "quantity": 3,
-            "time": NumberLong(1491771193)
+            "time": 1491771193
         },
         {
             "factoryId": 4,
@@ -3188,7 +3188,7 @@ db.saleTransaction.insertMany (
             "customerId": 258,
             "totalPrice": 137.58694,
             "quantity": 9,
-            "time": NumberLong(1485292624)
+            "time": 1485292624
         },
         {
             "factoryId": 4,
@@ -3198,7 +3198,7 @@ db.saleTransaction.insertMany (
             "customerId": 248,
             "totalPrice": 129.24881,
             "quantity": 8,
-            "time": NumberLong(1468811465)
+            "time": 1468811465
         },
         {
             "factoryId": 4,
@@ -3208,7 +3208,7 @@ db.saleTransaction.insertMany (
             "customerId": 690,
             "totalPrice": 121.45428,
             "quantity": 6,
-            "time": NumberLong(1474059650)
+            "time": 1474059650
         },
         {
             "factoryId": 6,
@@ -3218,7 +3218,7 @@ db.saleTransaction.insertMany (
             "customerId": 570,
             "totalPrice": 86.34496,
             "quantity": 12,
-            "time": NumberLong(1479805087)
+            "time": 1479805087
         },
         {
             "factoryId": 2,
@@ -3228,7 +3228,7 @@ db.saleTransaction.insertMany (
             "customerId": 813,
             "totalPrice": 113.31263,
             "quantity": 5,
-            "time": NumberLong(1471709606)
+            "time": 1471709606
         },
         {
             "factoryId": 6,
@@ -3238,7 +3238,7 @@ db.saleTransaction.insertMany (
             "customerId": 1859,
             "totalPrice": 84.08549,
             "quantity": 10,
-            "time": NumberLong(1468354611)
+            "time": 1468354611
         },
         {
             "factoryId": 3,
@@ -3248,7 +3248,7 @@ db.saleTransaction.insertMany (
             "customerId": 308,
             "totalPrice": 75.34731,
             "quantity": 5,
-            "time": NumberLong(1467398758)
+            "time": 1467398758
         },
         {
             "factoryId": 3,
@@ -3258,7 +3258,7 @@ db.saleTransaction.insertMany (
             "customerId": 1497,
             "totalPrice": 4.2167993,
             "quantity": 8,
-            "time": NumberLong(1487351477)
+            "time": 1487351477
         },
         {
             "factoryId": 4,
@@ -3268,7 +3268,7 @@ db.saleTransaction.insertMany (
             "customerId": 1212,
             "totalPrice": 13.595421,
             "quantity": 11,
-            "time": NumberLong(1477864374)
+            "time": 1477864374
         },
         {
             "factoryId": 4,
@@ -3278,7 +3278,7 @@ db.saleTransaction.insertMany (
             "customerId": 1038,
             "totalPrice": 177.09494,
             "quantity": 8,
-            "time": NumberLong(1466680170)
+            "time": 1466680170
         },
         {
             "factoryId": 2,
@@ -3288,7 +3288,7 @@ db.saleTransaction.insertMany (
             "customerId": 119,
             "totalPrice": 82.49504,
             "quantity": 9,
-            "time": NumberLong(1488867181)
+            "time": 1488867181
         },
         {
             "factoryId": 1,
@@ -3298,7 +3298,7 @@ db.saleTransaction.insertMany (
             "customerId": 702,
             "totalPrice": 173.87932,
             "quantity": 3,
-            "time": NumberLong(1474268925)
+            "time": 1474268925
         },
         {
             "factoryId": 6,
@@ -3308,7 +3308,7 @@ db.saleTransaction.insertMany (
             "customerId": 1249,
             "totalPrice": 124.41343,
             "quantity": 7,
-            "time": NumberLong(1476850572)
+            "time": 1476850572
         },
         {
             "factoryId": 6,
@@ -3318,7 +3318,7 @@ db.saleTransaction.insertMany (
             "customerId": 623,
             "totalPrice": 12.384222,
             "quantity": 10,
-            "time": NumberLong(1480561332)
+            "time": 1480561332
         },
         {
             "factoryId": 4,
@@ -3328,7 +3328,7 @@ db.saleTransaction.insertMany (
             "customerId": 425,
             "totalPrice": 58.77965,
             "quantity": 8,
-            "time": NumberLong(1477863871)
+            "time": 1477863871
         },
         {
             "factoryId": 5,
@@ -3338,7 +3338,7 @@ db.saleTransaction.insertMany (
             "customerId": 1578,
             "totalPrice": 131.4914,
             "quantity": 4,
-            "time": NumberLong(1473964338)
+            "time": 1473964338
         },
         {
             "factoryId": 6,
@@ -3348,7 +3348,7 @@ db.saleTransaction.insertMany (
             "customerId": 5,
             "totalPrice": 50.582066,
             "quantity": 9,
-            "time": NumberLong(1485576995)
+            "time": 1485576995
         },
         {
             "factoryId": 5,
@@ -3358,7 +3358,7 @@ db.saleTransaction.insertMany (
             "customerId": 914,
             "totalPrice": 56.658092,
             "quantity": 3,
-            "time": NumberLong(1489781134)
+            "time": 1489781134
         },
         {
             "factoryId": 6,
@@ -3368,7 +3368,7 @@ db.saleTransaction.insertMany (
             "customerId": 607,
             "totalPrice": 167.85231,
             "quantity": 8,
-            "time": NumberLong(1462753324)
+            "time": 1462753324
         },
         {
             "factoryId": 2,
@@ -3378,7 +3378,7 @@ db.saleTransaction.insertMany (
             "customerId": 1617,
             "totalPrice": 136.79897,
             "quantity": 3,
-            "time": NumberLong(1484780073)
+            "time": 1484780073
         },
         {
             "factoryId": 2,
@@ -3388,7 +3388,7 @@ db.saleTransaction.insertMany (
             "customerId": 1803,
             "totalPrice": 126.675545,
             "quantity": 5,
-            "time": NumberLong(1483974149)
+            "time": 1483974149
         },
         {
             "factoryId": 1,
@@ -3398,7 +3398,7 @@ db.saleTransaction.insertMany (
             "customerId": 512,
             "totalPrice": 89.609474,
             "quantity": 11,
-            "time": NumberLong(1487711070)
+            "time": 1487711070
         },
         {
             "factoryId": 4,
@@ -3408,7 +3408,7 @@ db.saleTransaction.insertMany (
             "customerId": 1469,
             "totalPrice": 156.35457,
             "quantity": 8,
-            "time": NumberLong(1486548649)
+            "time": 1486548649
         },
         {
             "factoryId": 5,
@@ -3418,7 +3418,7 @@ db.saleTransaction.insertMany (
             "customerId": 113,
             "totalPrice": 145.24486,
             "quantity": 2,
-            "time": NumberLong(1465311995)
+            "time": 1465311995
         },
         {
             "factoryId": 3,
@@ -3428,7 +3428,7 @@ db.saleTransaction.insertMany (
             "customerId": 1761,
             "totalPrice": 91.40822,
             "quantity": 1,
-            "time": NumberLong(1487796217)
+            "time": 1487796217
         },
         {
             "factoryId": 2,
@@ -3438,7 +3438,7 @@ db.saleTransaction.insertMany (
             "customerId": 1290,
             "totalPrice": 8.874187,
             "quantity": 10,
-            "time": NumberLong(1465091998)
+            "time": 1465091998
         },
         {
             "factoryId": 2,
@@ -3448,7 +3448,7 @@ db.saleTransaction.insertMany (
             "customerId": 1629,
             "totalPrice": 147.89409,
             "quantity": 11,
-            "time": NumberLong(1491785505)
+            "time": 1491785505
         },
         {
             "factoryId": 1,
@@ -3458,7 +3458,7 @@ db.saleTransaction.insertMany (
             "customerId": 1725,
             "totalPrice": 164.95392,
             "quantity": 11,
-            "time": NumberLong(1486470594)
+            "time": 1486470594
         },
         {
             "factoryId": 4,
@@ -3468,7 +3468,7 @@ db.saleTransaction.insertMany (
             "customerId": 786,
             "totalPrice": 32.221813,
             "quantity": 9,
-            "time": NumberLong(1490542907)
+            "time": 1490542907
         },
         {
             "factoryId": 6,
@@ -3478,7 +3478,7 @@ db.saleTransaction.insertMany (
             "customerId": 477,
             "totalPrice": 152.70602,
             "quantity": 5,
-            "time": NumberLong(1469505819)
+            "time": 1469505819
         },
         {
             "factoryId": 4,
@@ -3488,7 +3488,7 @@ db.saleTransaction.insertMany (
             "customerId": 904,
             "totalPrice": 141.1482,
             "quantity": 11,
-            "time": NumberLong(1483232396)
+            "time": 1483232396
         },
         {
             "factoryId": 5,
@@ -3498,7 +3498,7 @@ db.saleTransaction.insertMany (
             "customerId": 915,
             "totalPrice": 52.27431,
             "quantity": 1,
-            "time": NumberLong(1466384176)
+            "time": 1466384176
         },
         {
             "factoryId": 2,
@@ -3508,7 +3508,7 @@ db.saleTransaction.insertMany (
             "customerId": 106,
             "totalPrice": 156.83676,
             "quantity": 4,
-            "time": NumberLong(1480795772)
+            "time": 1480795772
         },
         {
             "factoryId": 2,
@@ -3518,7 +3518,7 @@ db.saleTransaction.insertMany (
             "customerId": 847,
             "totalPrice": 76.18456,
             "quantity": 7,
-            "time": NumberLong(1484084755)
+            "time": 1484084755
         },
         {
             "factoryId": 6,
@@ -3528,7 +3528,7 @@ db.saleTransaction.insertMany (
             "customerId": 217,
             "totalPrice": 141.4698,
             "quantity": 5,
-            "time": NumberLong(1471307207)
+            "time": 1471307207
         },
         {
             "factoryId": 6,
@@ -3538,7 +3538,7 @@ db.saleTransaction.insertMany (
             "customerId": 1977,
             "totalPrice": 18.197464,
             "quantity": 8,
-            "time": NumberLong(1493282917)
+            "time": 1493282917
         },
         {
             "factoryId": 1,
@@ -3548,7 +3548,7 @@ db.saleTransaction.insertMany (
             "customerId": 53,
             "totalPrice": 5.6943426,
             "quantity": 3,
-            "time": NumberLong(1485323213)
+            "time": 1485323213
         },
         {
             "factoryId": 3,
@@ -3558,7 +3558,7 @@ db.saleTransaction.insertMany (
             "customerId": 1207,
             "totalPrice": 194.47102,
             "quantity": 10,
-            "time": NumberLong(1477753691)
+            "time": 1477753691
         },
         {
             "factoryId": 3,
@@ -3568,7 +3568,7 @@ db.saleTransaction.insertMany (
             "customerId": 1105,
             "totalPrice": 18.58897,
             "quantity": 3,
-            "time": NumberLong(1486737224)
+            "time": 1486737224
         },
         {
             "factoryId": 6,
@@ -3578,7 +3578,7 @@ db.saleTransaction.insertMany (
             "customerId": 1828,
             "totalPrice": 146.4782,
             "quantity": 12,
-            "time": NumberLong(1478411459)
+            "time": 1478411459
         },
         {
             "factoryId": 3,
@@ -3588,7 +3588,7 @@ db.saleTransaction.insertMany (
             "customerId": 416,
             "totalPrice": 97.79505,
             "quantity": 8,
-            "time": NumberLong(1469259109)
+            "time": 1469259109
         },
         {
             "factoryId": 3,
@@ -3598,7 +3598,7 @@ db.saleTransaction.insertMany (
             "customerId": 178,
             "totalPrice": 59.062756,
             "quantity": 12,
-            "time": NumberLong(1481258635)
+            "time": 1481258635
         },
         {
             "factoryId": 1,
@@ -3608,7 +3608,7 @@ db.saleTransaction.insertMany (
             "customerId": 1788,
             "totalPrice": 163.37994,
             "quantity": 5,
-            "time": NumberLong(1483012645)
+            "time": 1483012645
         },
         {
             "factoryId": 5,
@@ -3618,7 +3618,7 @@ db.saleTransaction.insertMany (
             "customerId": 501,
             "totalPrice": 88.44189,
             "quantity": 2,
-            "time": NumberLong(1485118667)
+            "time": 1485118667
         },
         {
             "factoryId": 2,
@@ -3628,7 +3628,7 @@ db.saleTransaction.insertMany (
             "customerId": 1381,
             "totalPrice": 52.830376,
             "quantity": 7,
-            "time": NumberLong(1464302869)
+            "time": 1464302869
         },
         {
             "factoryId": 6,
@@ -3638,7 +3638,7 @@ db.saleTransaction.insertMany (
             "customerId": 1628,
             "totalPrice": 52.23144,
             "quantity": 7,
-            "time": NumberLong(1468493113)
+            "time": 1468493113
         },
         {
             "factoryId": 3,
@@ -3648,7 +3648,7 @@ db.saleTransaction.insertMany (
             "customerId": 1147,
             "totalPrice": 60.725883,
             "quantity": 8,
-            "time": NumberLong(1478011578)
+            "time": 1478011578
         },
         {
             "factoryId": 1,
@@ -3658,7 +3658,7 @@ db.saleTransaction.insertMany (
             "customerId": 947,
             "totalPrice": 142.92859,
             "quantity": 12,
-            "time": NumberLong(1466390294)
+            "time": 1466390294
         },
         {
             "factoryId": 2,
@@ -3668,7 +3668,7 @@ db.saleTransaction.insertMany (
             "customerId": 1416,
             "totalPrice": 168.69655,
             "quantity": 5,
-            "time": NumberLong(1479131252)
+            "time": 1479131252
         },
         {
             "factoryId": 3,
@@ -3678,7 +3678,7 @@ db.saleTransaction.insertMany (
             "customerId": 1985,
             "totalPrice": 135.18027,
             "quantity": 9,
-            "time": NumberLong(1470589590)
+            "time": 1470589590
         },
         {
             "factoryId": 3,
@@ -3688,7 +3688,7 @@ db.saleTransaction.insertMany (
             "customerId": 1017,
             "totalPrice": 67.20615,
             "quantity": 11,
-            "time": NumberLong(1475058460)
+            "time": 1475058460
         },
         {
             "factoryId": 6,
@@ -3698,7 +3698,7 @@ db.saleTransaction.insertMany (
             "customerId": 633,
             "totalPrice": 120.23525,
             "quantity": 11,
-            "time": NumberLong(1487855401)
+            "time": 1487855401
         },
         {
             "factoryId": 6,
@@ -3708,7 +3708,7 @@ db.saleTransaction.insertMany (
             "customerId": 372,
             "totalPrice": 153.97514,
             "quantity": 8,
-            "time": NumberLong(1476965575)
+            "time": 1476965575
         },
         {
             "factoryId": 6,
@@ -3718,7 +3718,7 @@ db.saleTransaction.insertMany (
             "customerId": 250,
             "totalPrice": 154.15468,
             "quantity": 11,
-            "time": NumberLong(1470648158)
+            "time": 1470648158
         },
         {
             "factoryId": 1,
@@ -3728,7 +3728,7 @@ db.saleTransaction.insertMany (
             "customerId": 919,
             "totalPrice": 138.4708,
             "quantity": 7,
-            "time": NumberLong(1483199472)
+            "time": 1483199472
         },
         {
             "factoryId": 3,
@@ -3738,7 +3738,7 @@ db.saleTransaction.insertMany (
             "customerId": 1056,
             "totalPrice": 85.84472,
             "quantity": 3,
-            "time": NumberLong(1470908875)
+            "time": 1470908875
         },
         {
             "factoryId": 6,
@@ -3748,7 +3748,7 @@ db.saleTransaction.insertMany (
             "customerId": 244,
             "totalPrice": 174.65356,
             "quantity": 6,
-            "time": NumberLong(1477029493)
+            "time": 1477029493
         },
         {
             "factoryId": 4,
@@ -3758,7 +3758,7 @@ db.saleTransaction.insertMany (
             "customerId": 1741,
             "totalPrice": 51.537506,
             "quantity": 8,
-            "time": NumberLong(1485050543)
+            "time": 1485050543
         },
         {
             "factoryId": 5,
@@ -3768,7 +3768,7 @@ db.saleTransaction.insertMany (
             "customerId": 45,
             "totalPrice": 165.76855,
             "quantity": 3,
-            "time": NumberLong(1484158529)
+            "time": 1484158529
         },
         {
             "factoryId": 5,
@@ -3778,7 +3778,7 @@ db.saleTransaction.insertMany (
             "customerId": 1814,
             "totalPrice": 107.11681,
             "quantity": 2,
-            "time": NumberLong(1483158105)
+            "time": 1483158105
         },
         {
             "factoryId": 5,
@@ -3788,7 +3788,7 @@ db.saleTransaction.insertMany (
             "customerId": 1771,
             "totalPrice": 60.13708,
             "quantity": 9,
-            "time": NumberLong(1493885725)
+            "time": 1493885725
         },
         {
             "factoryId": 6,
@@ -3798,7 +3798,7 @@ db.saleTransaction.insertMany (
             "customerId": 775,
             "totalPrice": 168.07704,
             "quantity": 6,
-            "time": NumberLong(1484845094)
+            "time": 1484845094
         },
         {
             "factoryId": 4,
@@ -3808,7 +3808,7 @@ db.saleTransaction.insertMany (
             "customerId": 889,
             "totalPrice": 120.336555,
             "quantity": 8,
-            "time": NumberLong(1479705080)
+            "time": 1479705080
         },
         {
             "factoryId": 4,
@@ -3818,7 +3818,7 @@ db.saleTransaction.insertMany (
             "customerId": 1417,
             "totalPrice": 33.705544,
             "quantity": 7,
-            "time": NumberLong(1468196799)
+            "time": 1468196799
         },
         {
             "factoryId": 2,
@@ -3828,7 +3828,7 @@ db.saleTransaction.insertMany (
             "customerId": 474,
             "totalPrice": 75.12739,
             "quantity": 8,
-            "time": NumberLong(1488502398)
+            "time": 1488502398
         },
         {
             "factoryId": 6,
@@ -3838,7 +3838,7 @@ db.saleTransaction.insertMany (
             "customerId": 1067,
             "totalPrice": 125.442245,
             "quantity": 5,
-            "time": NumberLong(1486162239)
+            "time": 1486162239
         },
         {
             "factoryId": 3,
@@ -3848,7 +3848,7 @@ db.saleTransaction.insertMany (
             "customerId": 1428,
             "totalPrice": 108.129456,
             "quantity": 9,
-            "time": NumberLong(1478279208)
+            "time": 1478279208
         },
         {
             "factoryId": 2,
@@ -3858,7 +3858,7 @@ db.saleTransaction.insertMany (
             "customerId": 1933,
             "totalPrice": 79.72672,
             "quantity": 11,
-            "time": NumberLong(1486162832)
+            "time": 1486162832
         },
         {
             "factoryId": 5,
@@ -3868,7 +3868,7 @@ db.saleTransaction.insertMany (
             "customerId": 1884,
             "totalPrice": 97.22417,
             "quantity": 7,
-            "time": NumberLong(1488741853)
+            "time": 1488741853
         },
         {
             "factoryId": 3,
@@ -3878,7 +3878,7 @@ db.saleTransaction.insertMany (
             "customerId": 383,
             "totalPrice": 128.31519,
             "quantity": 6,
-            "time": NumberLong(1470959231)
+            "time": 1470959231
         },
         {
             "factoryId": 6,
@@ -3888,7 +3888,7 @@ db.saleTransaction.insertMany (
             "customerId": 1112,
             "totalPrice": 176.74527,
             "quantity": 6,
-            "time": NumberLong(1488854638)
+            "time": 1488854638
         },
         {
             "factoryId": 3,
@@ -3898,7 +3898,7 @@ db.saleTransaction.insertMany (
             "customerId": 2,
             "totalPrice": 111.966484,
             "quantity": 1,
-            "time": NumberLong(1473225682)
+            "time": 1473225682
         },
         {
             "factoryId": 4,
@@ -3908,7 +3908,7 @@ db.saleTransaction.insertMany (
             "customerId": 57,
             "totalPrice": 14.4160185,
             "quantity": 9,
-            "time": NumberLong(1484159719)
+            "time": 1484159719
         },
         {
             "factoryId": 3,
@@ -3918,7 +3918,7 @@ db.saleTransaction.insertMany (
             "customerId": 592,
             "totalPrice": 160.16994,
             "quantity": 9,
-            "time": NumberLong(1466822936)
+            "time": 1466822936
         },
         {
             "factoryId": 3,
@@ -3928,7 +3928,7 @@ db.saleTransaction.insertMany (
             "customerId": 803,
             "totalPrice": 154.9325,
             "quantity": 1,
-            "time": NumberLong(1484429384)
+            "time": 1484429384
         },
         {
             "factoryId": 6,
@@ -3938,7 +3938,7 @@ db.saleTransaction.insertMany (
             "customerId": 257,
             "totalPrice": 32.312584,
             "quantity": 8,
-            "time": NumberLong(1480090123)
+            "time": 1480090123
         },
         {
             "factoryId": 2,
@@ -3948,7 +3948,7 @@ db.saleTransaction.insertMany (
             "customerId": 1830,
             "totalPrice": 143.17407,
             "quantity": 1,
-            "time": NumberLong(1474616462)
+            "time": 1474616462
         },
         {
             "factoryId": 1,
@@ -3958,7 +3958,7 @@ db.saleTransaction.insertMany (
             "customerId": 1048,
             "totalPrice": 126.45276,
             "quantity": 1,
-            "time": NumberLong(1463402213)
+            "time": 1463402213
         },
         {
             "factoryId": 2,
@@ -3968,7 +3968,7 @@ db.saleTransaction.insertMany (
             "customerId": 518,
             "totalPrice": 155.50543,
             "quantity": 12,
-            "time": NumberLong(1465424359)
+            "time": 1465424359
         },
         {
             "factoryId": 1,
@@ -3978,7 +3978,7 @@ db.saleTransaction.insertMany (
             "customerId": 1087,
             "totalPrice": 31.646,
             "quantity": 1,
-            "time": NumberLong(1462917364)
+            "time": 1462917364
         },
         {
             "factoryId": 4,
@@ -3988,7 +3988,7 @@ db.saleTransaction.insertMany (
             "customerId": 1002,
             "totalPrice": 105.42162,
             "quantity": 5,
-            "time": NumberLong(1493710866)
+            "time": 1493710866
         },
         {
             "factoryId": 5,
@@ -3998,7 +3998,7 @@ db.saleTransaction.insertMany (
             "customerId": 1492,
             "totalPrice": 143.49263,
             "quantity": 1,
-            "time": NumberLong(1483556196)
+            "time": 1483556196
         },
         {
             "factoryId": 6,
@@ -4008,7 +4008,7 @@ db.saleTransaction.insertMany (
             "customerId": 833,
             "totalPrice": 176.61235,
             "quantity": 2,
-            "time": NumberLong(1485351117)
+            "time": 1485351117
         },
         {
             "factoryId": 2,
@@ -4018,7 +4018,7 @@ db.saleTransaction.insertMany (
             "customerId": 1166,
             "totalPrice": 40.255768,
             "quantity": 7,
-            "time": NumberLong(1481638612)
+            "time": 1481638612
         },
         {
             "factoryId": 4,
@@ -4028,7 +4028,7 @@ db.saleTransaction.insertMany (
             "customerId": 896,
             "totalPrice": 186.16129,
             "quantity": 11,
-            "time": NumberLong(1477734038)
+            "time": 1477734038
         },
         {
             "factoryId": 6,
@@ -4038,7 +4038,7 @@ db.saleTransaction.insertMany (
             "customerId": 1159,
             "totalPrice": 177.83421,
             "quantity": 4,
-            "time": NumberLong(1487900133)
+            "time": 1487900133
         },
         {
             "factoryId": 4,
@@ -4048,7 +4048,7 @@ db.saleTransaction.insertMany (
             "customerId": 1024,
             "totalPrice": 48.593998,
             "quantity": 4,
-            "time": NumberLong(1466123069)
+            "time": 1466123069
         },
         {
             "factoryId": 5,
@@ -4058,7 +4058,7 @@ db.saleTransaction.insertMany (
             "customerId": 1593,
             "totalPrice": 35.385853,
             "quantity": 1,
-            "time": NumberLong(1494272576)
+            "time": 1494272576
         },
         {
             "factoryId": 4,
@@ -4068,7 +4068,7 @@ db.saleTransaction.insertMany (
             "customerId": 1290,
             "totalPrice": 141.13258,
             "quantity": 12,
-            "time": NumberLong(1465732252)
+            "time": 1465732252
         },
         {
             "factoryId": 3,
@@ -4078,7 +4078,7 @@ db.saleTransaction.insertMany (
             "customerId": 1600,
             "totalPrice": 115.72529,
             "quantity": 1,
-            "time": NumberLong(1490316457)
+            "time": 1490316457
         },
         {
             "factoryId": 6,
@@ -4088,7 +4088,7 @@ db.saleTransaction.insertMany (
             "customerId": 1348,
             "totalPrice": 98.56459,
             "quantity": 7,
-            "time": NumberLong(1482209081)
+            "time": 1482209081
         },
         {
             "factoryId": 5,
@@ -4098,7 +4098,7 @@ db.saleTransaction.insertMany (
             "customerId": 1132,
             "totalPrice": 57.9227,
             "quantity": 6,
-            "time": NumberLong(1464448615)
+            "time": 1464448615
         },
         {
             "factoryId": 3,
@@ -4108,7 +4108,7 @@ db.saleTransaction.insertMany (
             "customerId": 399,
             "totalPrice": 86.0229,
             "quantity": 5,
-            "time": NumberLong(1485335495)
+            "time": 1485335495
         },
         {
             "factoryId": 2,
@@ -4118,7 +4118,7 @@ db.saleTransaction.insertMany (
             "customerId": 937,
             "totalPrice": 61.418327,
             "quantity": 10,
-            "time": NumberLong(1466441858)
+            "time": 1466441858
         },
         {
             "factoryId": 4,
@@ -4128,7 +4128,7 @@ db.saleTransaction.insertMany (
             "customerId": 104,
             "totalPrice": 144.04628,
             "quantity": 1,
-            "time": NumberLong(1485342375)
+            "time": 1485342375
         },
         {
             "factoryId": 5,
@@ -4138,7 +4138,7 @@ db.saleTransaction.insertMany (
             "customerId": 503,
             "totalPrice": 189.6177,
             "quantity": 2,
-            "time": NumberLong(1477875084)
+            "time": 1477875084
         },
         {
             "factoryId": 4,
@@ -4148,7 +4148,7 @@ db.saleTransaction.insertMany (
             "customerId": 1192,
             "totalPrice": 124.24069,
             "quantity": 2,
-            "time": NumberLong(1484681720)
+            "time": 1484681720
         },
         {
             "factoryId": 2,
@@ -4158,7 +4158,7 @@ db.saleTransaction.insertMany (
             "customerId": 939,
             "totalPrice": 177.15979,
             "quantity": 8,
-            "time": NumberLong(1474555625)
+            "time": 1474555625
         },
         {
             "factoryId": 2,
@@ -4168,7 +4168,7 @@ db.saleTransaction.insertMany (
             "customerId": 752,
             "totalPrice": 188.21521,
             "quantity": 12,
-            "time": NumberLong(1493528805)
+            "time": 1493528805
         },
         {
             "factoryId": 1,
@@ -4178,7 +4178,7 @@ db.saleTransaction.insertMany (
             "customerId": 1953,
             "totalPrice": 66.37138,
             "quantity": 6,
-            "time": NumberLong(1471853076)
+            "time": 1471853076
         },
         {
             "factoryId": 4,
@@ -4188,7 +4188,7 @@ db.saleTransaction.insertMany (
             "customerId": 746,
             "totalPrice": 50.737812,
             "quantity": 2,
-            "time": NumberLong(1494081539)
+            "time": 1494081539
         },
         {
             "factoryId": 4,
@@ -4198,7 +4198,7 @@ db.saleTransaction.insertMany (
             "customerId": 1544,
             "totalPrice": 64.191124,
             "quantity": 7,
-            "time": NumberLong(1464207426)
+            "time": 1464207426
         },
         {
             "factoryId": 3,
@@ -4208,7 +4208,7 @@ db.saleTransaction.insertMany (
             "customerId": 1389,
             "totalPrice": 8.960308,
             "quantity": 9,
-            "time": NumberLong(1489336713)
+            "time": 1489336713
         },
         {
             "factoryId": 1,
@@ -4218,7 +4218,7 @@ db.saleTransaction.insertMany (
             "customerId": 629,
             "totalPrice": 111.781975,
             "quantity": 5,
-            "time": NumberLong(1486455161)
+            "time": 1486455161
         },
         {
             "factoryId": 2,
@@ -4228,7 +4228,7 @@ db.saleTransaction.insertMany (
             "customerId": 378,
             "totalPrice": 104.12367,
             "quantity": 2,
-            "time": NumberLong(1493988114)
+            "time": 1493988114
         },
         {
             "factoryId": 3,
@@ -4238,7 +4238,7 @@ db.saleTransaction.insertMany (
             "customerId": 1450,
             "totalPrice": 72.00062,
             "quantity": 5,
-            "time": NumberLong(1474431369)
+            "time": 1474431369
         },
         {
             "factoryId": 5,
@@ -4248,7 +4248,7 @@ db.saleTransaction.insertMany (
             "customerId": 1065,
             "totalPrice": 6.105247,
             "quantity": 12,
-            "time": NumberLong(1470456442)
+            "time": 1470456442
         },
         {
             "factoryId": 1,
@@ -4258,7 +4258,7 @@ db.saleTransaction.insertMany (
             "customerId": 155,
             "totalPrice": 18.057537,
             "quantity": 3,
-            "time": NumberLong(1476603354)
+            "time": 1476603354
         },
         {
             "factoryId": 4,
@@ -4268,7 +4268,7 @@ db.saleTransaction.insertMany (
             "customerId": 1380,
             "totalPrice": 146.30312,
             "quantity": 6,
-            "time": NumberLong(1468637883)
+            "time": 1468637883
         },
         {
             "factoryId": 3,
@@ -4278,7 +4278,7 @@ db.saleTransaction.insertMany (
             "customerId": 1577,
             "totalPrice": 11.800775,
             "quantity": 1,
-            "time": NumberLong(1463520811)
+            "time": 1463520811
         },
         {
             "factoryId": 1,
@@ -4288,7 +4288,7 @@ db.saleTransaction.insertMany (
             "customerId": 1480,
             "totalPrice": 115.451866,
             "quantity": 8,
-            "time": NumberLong(1467130084)
+            "time": 1467130084
         },
         {
             "factoryId": 2,
@@ -4298,7 +4298,7 @@ db.saleTransaction.insertMany (
             "customerId": 1432,
             "totalPrice": 66.02519,
             "quantity": 11,
-            "time": NumberLong(1470130680)
+            "time": 1470130680
         },
         {
             "factoryId": 6,
@@ -4308,7 +4308,7 @@ db.saleTransaction.insertMany (
             "customerId": 927,
             "totalPrice": 155.64243,
             "quantity": 9,
-            "time": NumberLong(1482712902)
+            "time": 1482712902
         },
         {
             "factoryId": 3,
@@ -4318,7 +4318,7 @@ db.saleTransaction.insertMany (
             "customerId": 874,
             "totalPrice": 133.45421,
             "quantity": 5,
-            "time": NumberLong(1483211163)
+            "time": 1483211163
         },
         {
             "factoryId": 3,
@@ -4328,7 +4328,7 @@ db.saleTransaction.insertMany (
             "customerId": 146,
             "totalPrice": 68.87426,
             "quantity": 11,
-            "time": NumberLong(1494211827)
+            "time": 1494211827
         },
         {
             "factoryId": 1,
@@ -4338,7 +4338,7 @@ db.saleTransaction.insertMany (
             "customerId": 1390,
             "totalPrice": 125.7977,
             "quantity": 8,
-            "time": NumberLong(1492851437)
+            "time": 1492851437
         },
         {
             "factoryId": 2,
@@ -4348,7 +4348,7 @@ db.saleTransaction.insertMany (
             "customerId": 1879,
             "totalPrice": 114.46205,
             "quantity": 3,
-            "time": NumberLong(1483404314)
+            "time": 1483404314
         },
         {
             "factoryId": 1,
@@ -4358,7 +4358,7 @@ db.saleTransaction.insertMany (
             "customerId": 1480,
             "totalPrice": 75.38169,
             "quantity": 12,
-            "time": NumberLong(1473429130)
+            "time": 1473429130
         },
         {
             "factoryId": 4,
@@ -4368,7 +4368,7 @@ db.saleTransaction.insertMany (
             "customerId": 1278,
             "totalPrice": 178.10326,
             "quantity": 5,
-            "time": NumberLong(1481001247)
+            "time": 1481001247
         },
         {
             "factoryId": 4,
@@ -4378,7 +4378,7 @@ db.saleTransaction.insertMany (
             "customerId": 919,
             "totalPrice": 84.035675,
             "quantity": 11,
-            "time": NumberLong(1484341134)
+            "time": 1484341134
         },
         {
             "factoryId": 4,
@@ -4388,7 +4388,7 @@ db.saleTransaction.insertMany (
             "customerId": 863,
             "totalPrice": 15.837918,
             "quantity": 9,
-            "time": NumberLong(1490113400)
+            "time": 1490113400
         },
         {
             "factoryId": 3,
@@ -4398,7 +4398,7 @@ db.saleTransaction.insertMany (
             "customerId": 1050,
             "totalPrice": 126.89533,
             "quantity": 8,
-            "time": NumberLong(1476467788)
+            "time": 1476467788
         },
         {
             "factoryId": 1,
@@ -4408,7 +4408,7 @@ db.saleTransaction.insertMany (
             "customerId": 948,
             "totalPrice": 131.539,
             "quantity": 2,
-            "time": NumberLong(1476672045)
+            "time": 1476672045
         },
         {
             "factoryId": 5,
@@ -4418,7 +4418,7 @@ db.saleTransaction.insertMany (
             "customerId": 1543,
             "totalPrice": 62.067013,
             "quantity": 5,
-            "time": NumberLong(1473394390)
+            "time": 1473394390
         },
         {
             "factoryId": 1,
@@ -4428,7 +4428,7 @@ db.saleTransaction.insertMany (
             "customerId": 1332,
             "totalPrice": 57.446087,
             "quantity": 12,
-            "time": NumberLong(1481835221)
+            "time": 1481835221
         },
         {
             "factoryId": 1,
@@ -4438,7 +4438,7 @@ db.saleTransaction.insertMany (
             "customerId": 1008,
             "totalPrice": 49.36314,
             "quantity": 5,
-            "time": NumberLong(1477118089)
+            "time": 1477118089
         },
         {
             "factoryId": 3,
@@ -4448,7 +4448,7 @@ db.saleTransaction.insertMany (
             "customerId": 422,
             "totalPrice": 84.86743,
             "quantity": 7,
-            "time": NumberLong(1475184782)
+            "time": 1475184782
         },
         {
             "factoryId": 2,
@@ -4458,7 +4458,7 @@ db.saleTransaction.insertMany (
             "customerId": 1531,
             "totalPrice": 181.52405,
             "quantity": 9,
-            "time": NumberLong(1484129473)
+            "time": 1484129473
         },
         {
             "factoryId": 3,
@@ -4468,7 +4468,7 @@ db.saleTransaction.insertMany (
             "customerId": 1720,
             "totalPrice": 37.45064,
             "quantity": 3,
-            "time": NumberLong(1466180802)
+            "time": 1466180802
         },
         {
             "factoryId": 1,
@@ -4478,7 +4478,7 @@ db.saleTransaction.insertMany (
             "customerId": 945,
             "totalPrice": 51.356403,
             "quantity": 11,
-            "time": NumberLong(1476746639)
+            "time": 1476746639
         },
         {
             "factoryId": 3,
@@ -4488,7 +4488,7 @@ db.saleTransaction.insertMany (
             "customerId": 654,
             "totalPrice": 134.40294,
             "quantity": 2,
-            "time": NumberLong(1489028569)
+            "time": 1489028569
         },
         {
             "factoryId": 4,
@@ -4498,7 +4498,7 @@ db.saleTransaction.insertMany (
             "customerId": 744,
             "totalPrice": 96.66857,
             "quantity": 11,
-            "time": NumberLong(1468843163)
+            "time": 1468843163
         },
         {
             "factoryId": 3,
@@ -4508,7 +4508,7 @@ db.saleTransaction.insertMany (
             "customerId": 283,
             "totalPrice": 138.71027,
             "quantity": 2,
-            "time": NumberLong(1466382997)
+            "time": 1466382997
         },
         {
             "factoryId": 4,
@@ -4518,7 +4518,7 @@ db.saleTransaction.insertMany (
             "customerId": 1625,
             "totalPrice": 188.21738,
             "quantity": 3,
-            "time": NumberLong(1478326754)
+            "time": 1478326754
         },
         {
             "factoryId": 5,
@@ -4528,7 +4528,7 @@ db.saleTransaction.insertMany (
             "customerId": 382,
             "totalPrice": 152.1923,
             "quantity": 2,
-            "time": NumberLong(1463572649)
+            "time": 1463572649
         },
         {
             "factoryId": 4,
@@ -4538,7 +4538,7 @@ db.saleTransaction.insertMany (
             "customerId": 1519,
             "totalPrice": 171.69005,
             "quantity": 5,
-            "time": NumberLong(1468076456)
+            "time": 1468076456
         },
         {
             "factoryId": 3,
@@ -4548,7 +4548,7 @@ db.saleTransaction.insertMany (
             "customerId": 1397,
             "totalPrice": 74.37191,
             "quantity": 10,
-            "time": NumberLong(1462892246)
+            "time": 1462892246
         },
         {
             "factoryId": 4,
@@ -4558,7 +4558,7 @@ db.saleTransaction.insertMany (
             "customerId": 1859,
             "totalPrice": 102.623985,
             "quantity": 3,
-            "time": NumberLong(1469806951)
+            "time": 1469806951
         },
         {
             "factoryId": 4,
@@ -4568,7 +4568,7 @@ db.saleTransaction.insertMany (
             "customerId": 468,
             "totalPrice": 77.221985,
             "quantity": 8,
-            "time": NumberLong(1475344060)
+            "time": 1475344060
         },
         {
             "factoryId": 4,
@@ -4578,7 +4578,7 @@ db.saleTransaction.insertMany (
             "customerId": 1961,
             "totalPrice": 183.30882,
             "quantity": 11,
-            "time": NumberLong(1488321396)
+            "time": 1488321396
         },
         {
             "factoryId": 2,
@@ -4588,7 +4588,7 @@ db.saleTransaction.insertMany (
             "customerId": 273,
             "totalPrice": 2.117178,
             "quantity": 6,
-            "time": NumberLong(1474088671)
+            "time": 1474088671
         },
         {
             "factoryId": 5,
@@ -4598,7 +4598,7 @@ db.saleTransaction.insertMany (
             "customerId": 674,
             "totalPrice": 181.44914,
             "quantity": 3,
-            "time": NumberLong(1480213411)
+            "time": 1480213411
         },
         {
             "factoryId": 2,
@@ -4608,7 +4608,7 @@ db.saleTransaction.insertMany (
             "customerId": 21,
             "totalPrice": 104.60801,
             "quantity": 3,
-            "time": NumberLong(1477374962)
+            "time": 1477374962
         },
         {
             "factoryId": 3,
@@ -4618,7 +4618,7 @@ db.saleTransaction.insertMany (
             "customerId": 565,
             "totalPrice": 113.75946,
             "quantity": 8,
-            "time": NumberLong(1480127970)
+            "time": 1480127970
         },
         {
             "factoryId": 1,
@@ -4628,7 +4628,7 @@ db.saleTransaction.insertMany (
             "customerId": 308,
             "totalPrice": 174.21419,
             "quantity": 7,
-            "time": NumberLong(1466352790)
+            "time": 1466352790
         },
         {
             "factoryId": 2,
@@ -4638,7 +4638,7 @@ db.saleTransaction.insertMany (
             "customerId": 1970,
             "totalPrice": 24.328905,
             "quantity": 5,
-            "time": NumberLong(1491662719)
+            "time": 1491662719
         },
         {
             "factoryId": 3,
@@ -4648,7 +4648,7 @@ db.saleTransaction.insertMany (
             "customerId": 484,
             "totalPrice": 143.00157,
             "quantity": 2,
-            "time": NumberLong(1484463023)
+            "time": 1484463023
         },
         {
             "factoryId": 5,
@@ -4658,7 +4658,7 @@ db.saleTransaction.insertMany (
             "customerId": 168,
             "totalPrice": 19.536486,
             "quantity": 7,
-            "time": NumberLong(1483425570)
+            "time": 1483425570
         },
         {
             "factoryId": 3,
@@ -4668,7 +4668,7 @@ db.saleTransaction.insertMany (
             "customerId": 1732,
             "totalPrice": 91.573875,
             "quantity": 3,
-            "time": NumberLong(1487789839)
+            "time": 1487789839
         },
         {
             "factoryId": 3,
@@ -4678,7 +4678,7 @@ db.saleTransaction.insertMany (
             "customerId": 92,
             "totalPrice": 70.57968,
             "quantity": 9,
-            "time": NumberLong(1486889481)
+            "time": 1486889481
         },
         {
             "factoryId": 4,
@@ -4688,7 +4688,7 @@ db.saleTransaction.insertMany (
             "customerId": 299,
             "totalPrice": 63.20688,
             "quantity": 3,
-            "time": NumberLong(1488317496)
+            "time": 1488317496
         },
         {
             "factoryId": 3,
@@ -4698,7 +4698,7 @@ db.saleTransaction.insertMany (
             "customerId": 1567,
             "totalPrice": 114.24967,
             "quantity": 2,
-            "time": NumberLong(1489785081)
+            "time": 1489785081
         },
         {
             "factoryId": 3,
@@ -4708,7 +4708,7 @@ db.saleTransaction.insertMany (
             "customerId": 1509,
             "totalPrice": 147.90031,
             "quantity": 2,
-            "time": NumberLong(1470607885)
+            "time": 1470607885
         },
         {
             "factoryId": 1,
@@ -4718,7 +4718,7 @@ db.saleTransaction.insertMany (
             "customerId": 1513,
             "totalPrice": 188.85504,
             "quantity": 6,
-            "time": NumberLong(1467082485)
+            "time": 1467082485
         },
         {
             "factoryId": 1,
@@ -4728,7 +4728,7 @@ db.saleTransaction.insertMany (
             "customerId": 1847,
             "totalPrice": 168.4402,
             "quantity": 1,
-            "time": NumberLong(1492310991)
+            "time": 1492310991
         },
         {
             "factoryId": 2,
@@ -4738,7 +4738,7 @@ db.saleTransaction.insertMany (
             "customerId": 1985,
             "totalPrice": 87.27047,
             "quantity": 3,
-            "time": NumberLong(1483266647)
+            "time": 1483266647
         },
         {
             "factoryId": 6,
@@ -4748,7 +4748,7 @@ db.saleTransaction.insertMany (
             "customerId": 644,
             "totalPrice": 68.74373,
             "quantity": 10,
-            "time": NumberLong(1466126033)
+            "time": 1466126033
         },
         {
             "factoryId": 5,
@@ -4758,7 +4758,7 @@ db.saleTransaction.insertMany (
             "customerId": 21,
             "totalPrice": 86.029175,
             "quantity": 6,
-            "time": NumberLong(1494140874)
+            "time": 1494140874
         },
         {
             "factoryId": 5,
@@ -4768,7 +4768,7 @@ db.saleTransaction.insertMany (
             "customerId": 240,
             "totalPrice": 92.09613,
             "quantity": 2,
-            "time": NumberLong(1476891856)
+            "time": 1476891856
         },
         {
             "factoryId": 2,
@@ -4778,7 +4778,7 @@ db.saleTransaction.insertMany (
             "customerId": 1597,
             "totalPrice": 39.630344,
             "quantity": 5,
-            "time": NumberLong(1472165315)
+            "time": 1472165315
         },
         {
             "factoryId": 3,
@@ -4788,7 +4788,7 @@ db.saleTransaction.insertMany (
             "customerId": 1514,
             "totalPrice": 8.605718,
             "quantity": 8,
-            "time": NumberLong(1471263577)
+            "time": 1471263577
         },
         {
             "factoryId": 5,
@@ -4798,7 +4798,7 @@ db.saleTransaction.insertMany (
             "customerId": 1858,
             "totalPrice": 167.57619,
             "quantity": 12,
-            "time": NumberLong(1469519631)
+            "time": 1469519631
         },
         {
             "factoryId": 1,
@@ -4808,7 +4808,7 @@ db.saleTransaction.insertMany (
             "customerId": 772,
             "totalPrice": 10.776838,
             "quantity": 4,
-            "time": NumberLong(1476465429)
+            "time": 1476465429
         },
         {
             "factoryId": 3,
@@ -4818,7 +4818,7 @@ db.saleTransaction.insertMany (
             "customerId": 271,
             "totalPrice": 126.44588,
             "quantity": 3,
-            "time": NumberLong(1465913569)
+            "time": 1465913569
         },
         {
             "factoryId": 4,
@@ -4828,7 +4828,7 @@ db.saleTransaction.insertMany (
             "customerId": 382,
             "totalPrice": 104.07614,
             "quantity": 10,
-            "time": NumberLong(1485951713)
+            "time": 1485951713
         },
         {
             "factoryId": 2,
@@ -4838,7 +4838,7 @@ db.saleTransaction.insertMany (
             "customerId": 673,
             "totalPrice": 27.956327,
             "quantity": 4,
-            "time": NumberLong(1469233944)
+            "time": 1469233944
         },
         {
             "factoryId": 4,
@@ -4848,7 +4848,7 @@ db.saleTransaction.insertMany (
             "customerId": 1064,
             "totalPrice": 13.148137,
             "quantity": 11,
-            "time": NumberLong(1485240842)
+            "time": 1485240842
         },
         {
             "factoryId": 5,
@@ -4858,7 +4858,7 @@ db.saleTransaction.insertMany (
             "customerId": 901,
             "totalPrice": 22.83346,
             "quantity": 12,
-            "time": NumberLong(1491946667)
+            "time": 1491946667
         },
         {
             "factoryId": 1,
@@ -4868,7 +4868,7 @@ db.saleTransaction.insertMany (
             "customerId": 585,
             "totalPrice": 171.26115,
             "quantity": 9,
-            "time": NumberLong(1482452051)
+            "time": 1482452051
         },
         {
             "factoryId": 3,
@@ -4878,7 +4878,7 @@ db.saleTransaction.insertMany (
             "customerId": 1716,
             "totalPrice": 126.88421,
             "quantity": 5,
-            "time": NumberLong(1477152175)
+            "time": 1477152175
         },
         {
             "factoryId": 4,
@@ -4888,7 +4888,7 @@ db.saleTransaction.insertMany (
             "customerId": 1546,
             "totalPrice": 23.640818,
             "quantity": 2,
-            "time": NumberLong(1469627800)
+            "time": 1469627800
         },
         {
             "factoryId": 2,
@@ -4898,7 +4898,7 @@ db.saleTransaction.insertMany (
             "customerId": 1083,
             "totalPrice": 9.87281,
             "quantity": 7,
-            "time": NumberLong(1491090847)
+            "time": 1491090847
         },
         {
             "factoryId": 1,
@@ -4908,7 +4908,7 @@ db.saleTransaction.insertMany (
             "customerId": 1545,
             "totalPrice": 39.19714,
             "quantity": 11,
-            "time": NumberLong(1484150547)
+            "time": 1484150547
         },
         {
             "factoryId": 5,
@@ -4918,7 +4918,7 @@ db.saleTransaction.insertMany (
             "customerId": 603,
             "totalPrice": 95.9358,
             "quantity": 11,
-            "time": NumberLong(1469730098)
+            "time": 1469730098
         },
         {
             "factoryId": 4,
@@ -4928,7 +4928,7 @@ db.saleTransaction.insertMany (
             "customerId": 1172,
             "totalPrice": 90.318146,
             "quantity": 10,
-            "time": NumberLong(1468172187)
+            "time": 1468172187
         },
         {
             "factoryId": 2,
@@ -4938,7 +4938,7 @@ db.saleTransaction.insertMany (
             "customerId": 1272,
             "totalPrice": 67.32312,
             "quantity": 4,
-            "time": NumberLong(1486382223)
+            "time": 1486382223
         },
         {
             "factoryId": 3,
@@ -4948,7 +4948,7 @@ db.saleTransaction.insertMany (
             "customerId": 1909,
             "totalPrice": 79.20734,
             "quantity": 12,
-            "time": NumberLong(1481978130)
+            "time": 1481978130
         },
         {
             "factoryId": 3,
@@ -4958,7 +4958,7 @@ db.saleTransaction.insertMany (
             "customerId": 1048,
             "totalPrice": 142.48102,
             "quantity": 9,
-            "time": NumberLong(1492710417)
+            "time": 1492710417
         },
         {
             "factoryId": 3,
@@ -4968,7 +4968,7 @@ db.saleTransaction.insertMany (
             "customerId": 406,
             "totalPrice": 81.83878,
             "quantity": 7,
-            "time": NumberLong(1465711882)
+            "time": 1465711882
         },
         {
             "factoryId": 6,
@@ -4978,7 +4978,7 @@ db.saleTransaction.insertMany (
             "customerId": 943,
             "totalPrice": 91.68629,
             "quantity": 2,
-            "time": NumberLong(1474322358)
+            "time": 1474322358
         },
         {
             "factoryId": 1,
@@ -4988,7 +4988,7 @@ db.saleTransaction.insertMany (
             "customerId": 992,
             "totalPrice": 29.654896,
             "quantity": 9,
-            "time": NumberLong(1464195956)
+            "time": 1464195956
         },
         {
             "factoryId": 1,
@@ -4998,7 +4998,7 @@ db.saleTransaction.insertMany (
             "customerId": 950,
             "totalPrice": 142.33,
             "quantity": 9,
-            "time": NumberLong(1493826891)
+            "time": 1493826891
         },
         {
             "factoryId": 4,
@@ -5008,7 +5008,7 @@ db.saleTransaction.insertMany (
             "customerId": 1545,
             "totalPrice": 138.65073,
             "quantity": 1,
-            "time": NumberLong(1468621411)
+            "time": 1468621411
         },
         {
             "factoryId": 5,
@@ -5018,7 +5018,7 @@ db.saleTransaction.insertMany (
             "customerId": 622,
             "totalPrice": 98.42351,
             "quantity": 9,
-            "time": NumberLong(1470377751)
+            "time": 1470377751
         },
         {
             "factoryId": 3,
@@ -5028,7 +5028,7 @@ db.saleTransaction.insertMany (
             "customerId": 1211,
             "totalPrice": 111.66469,
             "quantity": 3,
-            "time": NumberLong(1488320054)
+            "time": 1488320054
         },
         {
             "factoryId": 3,
@@ -5038,7 +5038,7 @@ db.saleTransaction.insertMany (
             "customerId": 1229,
             "totalPrice": 146.71605,
             "quantity": 1,
-            "time": NumberLong(1478642187)
+            "time": 1478642187
         },
         {
             "factoryId": 1,
@@ -5048,7 +5048,7 @@ db.saleTransaction.insertMany (
             "customerId": 1313,
             "totalPrice": 88.923515,
             "quantity": 4,
-            "time": NumberLong(1493110253)
+            "time": 1493110253
         },
         {
             "factoryId": 4,
@@ -5058,7 +5058,7 @@ db.saleTransaction.insertMany (
             "customerId": 1586,
             "totalPrice": 146.55833,
             "quantity": 6,
-            "time": NumberLong(1492357438)
+            "time": 1492357438
         },
         {
             "factoryId": 2,
@@ -5068,7 +5068,7 @@ db.saleTransaction.insertMany (
             "customerId": 932,
             "totalPrice": 9.129169,
             "quantity": 7,
-            "time": NumberLong(1467279804)
+            "time": 1467279804
         },
         {
             "factoryId": 1,
@@ -5078,7 +5078,7 @@ db.saleTransaction.insertMany (
             "customerId": 570,
             "totalPrice": 159.14238,
             "quantity": 11,
-            "time": NumberLong(1494276252)
+            "time": 1494276252
         },
         {
             "factoryId": 5,
@@ -5088,7 +5088,7 @@ db.saleTransaction.insertMany (
             "customerId": 1718,
             "totalPrice": 111.792946,
             "quantity": 12,
-            "time": NumberLong(1493448479)
+            "time": 1493448479
         },
         {
             "factoryId": 6,
@@ -5098,7 +5098,7 @@ db.saleTransaction.insertMany (
             "customerId": 815,
             "totalPrice": 80.71756,
             "quantity": 9,
-            "time": NumberLong(1482660470)
+            "time": 1482660470
         },
         {
             "factoryId": 1,
@@ -5108,7 +5108,7 @@ db.saleTransaction.insertMany (
             "customerId": 290,
             "totalPrice": 36.404068,
             "quantity": 12,
-            "time": NumberLong(1487505610)
+            "time": 1487505610
         },
         {
             "factoryId": 3,
@@ -5118,7 +5118,7 @@ db.saleTransaction.insertMany (
             "customerId": 946,
             "totalPrice": 6.1939945,
             "quantity": 8,
-            "time": NumberLong(1465397197)
+            "time": 1465397197
         },
         {
             "factoryId": 1,
@@ -5128,7 +5128,7 @@ db.saleTransaction.insertMany (
             "customerId": 267,
             "totalPrice": 77.85861,
             "quantity": 7,
-            "time": NumberLong(1485796209)
+            "time": 1485796209
         },
         {
             "factoryId": 5,
@@ -5138,7 +5138,7 @@ db.saleTransaction.insertMany (
             "customerId": 741,
             "totalPrice": 26.354418,
             "quantity": 3,
-            "time": NumberLong(1492249766)
+            "time": 1492249766
         },
         {
             "factoryId": 4,
@@ -5148,7 +5148,7 @@ db.saleTransaction.insertMany (
             "customerId": 1267,
             "totalPrice": 198.56325,
             "quantity": 3,
-            "time": NumberLong(1491465248)
+            "time": 1491465248
         },
         {
             "factoryId": 4,
@@ -5158,7 +5158,7 @@ db.saleTransaction.insertMany (
             "customerId": 193,
             "totalPrice": 126.64848,
             "quantity": 5,
-            "time": NumberLong(1475000644)
+            "time": 1475000644
         },
         {
             "factoryId": 6,
@@ -5168,7 +5168,7 @@ db.saleTransaction.insertMany (
             "customerId": 1403,
             "totalPrice": 182.87497,
             "quantity": 11,
-            "time": NumberLong(1492359363)
+            "time": 1492359363
         },
         {
             "factoryId": 3,
@@ -5178,7 +5178,7 @@ db.saleTransaction.insertMany (
             "customerId": 958,
             "totalPrice": 137.10437,
             "quantity": 6,
-            "time": NumberLong(1478049864)
+            "time": 1478049864
         },
         {
             "factoryId": 6,
@@ -5188,7 +5188,7 @@ db.saleTransaction.insertMany (
             "customerId": 98,
             "totalPrice": 61.66041,
             "quantity": 6,
-            "time": NumberLong(1480015335)
+            "time": 1480015335
         },
         {
             "factoryId": 5,
@@ -5198,7 +5198,7 @@ db.saleTransaction.insertMany (
             "customerId": 83,
             "totalPrice": 144.3898,
             "quantity": 8,
-            "time": NumberLong(1466266121)
+            "time": 1466266121
         },
         {
             "factoryId": 2,
@@ -5208,7 +5208,7 @@ db.saleTransaction.insertMany (
             "customerId": 1961,
             "totalPrice": 132.77312,
             "quantity": 2,
-            "time": NumberLong(1483661114)
+            "time": 1483661114
         },
         {
             "factoryId": 4,
@@ -5218,7 +5218,7 @@ db.saleTransaction.insertMany (
             "customerId": 1706,
             "totalPrice": 155.20132,
             "quantity": 1,
-            "time": NumberLong(1482794169)
+            "time": 1482794169
         },
         {
             "factoryId": 1,
@@ -5228,7 +5228,7 @@ db.saleTransaction.insertMany (
             "customerId": 1766,
             "totalPrice": 122.077324,
             "quantity": 7,
-            "time": NumberLong(1469483937)
+            "time": 1469483937
         },
         {
             "factoryId": 5,
@@ -5238,7 +5238,7 @@ db.saleTransaction.insertMany (
             "customerId": 425,
             "totalPrice": 128.6287,
             "quantity": 9,
-            "time": NumberLong(1462852361)
+            "time": 1462852361
         },
         {
             "factoryId": 3,
@@ -5248,7 +5248,7 @@ db.saleTransaction.insertMany (
             "customerId": 684,
             "totalPrice": 75.49344,
             "quantity": 11,
-            "time": NumberLong(1492096111)
+            "time": 1492096111
         },
         {
             "factoryId": 6,
@@ -5258,7 +5258,7 @@ db.saleTransaction.insertMany (
             "customerId": 663,
             "totalPrice": 153.15741,
             "quantity": 6,
-            "time": NumberLong(1480598967)
+            "time": 1480598967
         },
         {
             "factoryId": 5,
@@ -5268,7 +5268,7 @@ db.saleTransaction.insertMany (
             "customerId": 1242,
             "totalPrice": 109.13691,
             "quantity": 9,
-            "time": NumberLong(1488508813)
+            "time": 1488508813
         },
         {
             "factoryId": 3,
@@ -5278,7 +5278,7 @@ db.saleTransaction.insertMany (
             "customerId": 844,
             "totalPrice": 78.03348,
             "quantity": 12,
-            "time": NumberLong(1486634353)
+            "time": 1486634353
         },
         {
             "factoryId": 6,
@@ -5288,7 +5288,7 @@ db.saleTransaction.insertMany (
             "customerId": 988,
             "totalPrice": 131.30344,
             "quantity": 5,
-            "time": NumberLong(1466624159)
+            "time": 1466624159
         },
         {
             "factoryId": 4,
@@ -5298,7 +5298,7 @@ db.saleTransaction.insertMany (
             "customerId": 1430,
             "totalPrice": 178.64049,
             "quantity": 7,
-            "time": NumberLong(1479999901)
+            "time": 1479999901
         },
         {
             "factoryId": 2,
@@ -5308,7 +5308,7 @@ db.saleTransaction.insertMany (
             "customerId": 346,
             "totalPrice": 196.65575,
             "quantity": 11,
-            "time": NumberLong(1484603183)
+            "time": 1484603183
         },
         {
             "factoryId": 1,
@@ -5318,7 +5318,7 @@ db.saleTransaction.insertMany (
             "customerId": 8,
             "totalPrice": 125.17103,
             "quantity": 4,
-            "time": NumberLong(1472464379)
+            "time": 1472464379
         },
         {
             "factoryId": 2,
@@ -5328,7 +5328,7 @@ db.saleTransaction.insertMany (
             "customerId": 656,
             "totalPrice": 11.611805,
             "quantity": 2,
-            "time": NumberLong(1466874245)
+            "time": 1466874245
         },
         {
             "factoryId": 1,
@@ -5338,7 +5338,7 @@ db.saleTransaction.insertMany (
             "customerId": 12,
             "totalPrice": 198.48238,
             "quantity": 6,
-            "time": NumberLong(1482529633)
+            "time": 1482529633
         },
         {
             "factoryId": 4,
@@ -5348,7 +5348,7 @@ db.saleTransaction.insertMany (
             "customerId": 627,
             "totalPrice": 184.6872,
             "quantity": 9,
-            "time": NumberLong(1477170956)
+            "time": 1477170956
         },
         {
             "factoryId": 1,
@@ -5358,7 +5358,7 @@ db.saleTransaction.insertMany (
             "customerId": 1119,
             "totalPrice": 56.251755,
             "quantity": 9,
-            "time": NumberLong(1490698748)
+            "time": 1490698748
         },
         {
             "factoryId": 2,
@@ -5368,7 +5368,7 @@ db.saleTransaction.insertMany (
             "customerId": 1318,
             "totalPrice": 143.3683,
             "quantity": 4,
-            "time": NumberLong(1470694180)
+            "time": 1470694180
         },
         {
             "factoryId": 3,
@@ -5378,7 +5378,7 @@ db.saleTransaction.insertMany (
             "customerId": 1378,
             "totalPrice": 191.50377,
             "quantity": 3,
-            "time": NumberLong(1465686476)
+            "time": 1465686476
         },
         {
             "factoryId": 4,
@@ -5388,7 +5388,7 @@ db.saleTransaction.insertMany (
             "customerId": 1245,
             "totalPrice": 180.56055,
             "quantity": 4,
-            "time": NumberLong(1492055524)
+            "time": 1492055524
         },
         {
             "factoryId": 3,
@@ -5398,7 +5398,7 @@ db.saleTransaction.insertMany (
             "customerId": 1703,
             "totalPrice": 95.123604,
             "quantity": 3,
-            "time": NumberLong(1477786672)
+            "time": 1477786672
         },
         {
             "factoryId": 4,
@@ -5408,7 +5408,7 @@ db.saleTransaction.insertMany (
             "customerId": 1506,
             "totalPrice": 98.09294,
             "quantity": 11,
-            "time": NumberLong(1480194378)
+            "time": 1480194378
         },
         {
             "factoryId": 2,
@@ -5418,7 +5418,7 @@ db.saleTransaction.insertMany (
             "customerId": 586,
             "totalPrice": 187.32297,
             "quantity": 4,
-            "time": NumberLong(1464411402)
+            "time": 1464411402
         },
         {
             "factoryId": 5,
@@ -5428,7 +5428,7 @@ db.saleTransaction.insertMany (
             "customerId": 1797,
             "totalPrice": 180.32292,
             "quantity": 10,
-            "time": NumberLong(1479048808)
+            "time": 1479048808
         },
         {
             "factoryId": 1,
@@ -5438,7 +5438,7 @@ db.saleTransaction.insertMany (
             "customerId": 1658,
             "totalPrice": 175.74799,
             "quantity": 6,
-            "time": NumberLong(1493720182)
+            "time": 1493720182
         },
         {
             "factoryId": 5,
@@ -5448,7 +5448,7 @@ db.saleTransaction.insertMany (
             "customerId": 428,
             "totalPrice": 175.7103,
             "quantity": 7,
-            "time": NumberLong(1467541241)
+            "time": 1467541241
         },
         {
             "factoryId": 1,
@@ -5458,7 +5458,7 @@ db.saleTransaction.insertMany (
             "customerId": 884,
             "totalPrice": 16.736954,
             "quantity": 9,
-            "time": NumberLong(1493614689)
+            "time": 1493614689
         },
         {
             "factoryId": 6,
@@ -5468,7 +5468,7 @@ db.saleTransaction.insertMany (
             "customerId": 1593,
             "totalPrice": 29.155176,
             "quantity": 6,
-            "time": NumberLong(1473688685)
+            "time": 1473688685
         },
         {
             "factoryId": 4,
@@ -5478,7 +5478,7 @@ db.saleTransaction.insertMany (
             "customerId": 1891,
             "totalPrice": 55.684566,
             "quantity": 7,
-            "time": NumberLong(1468845519)
+            "time": 1468845519
         },
         {
             "factoryId": 2,
@@ -5488,7 +5488,7 @@ db.saleTransaction.insertMany (
             "customerId": 1902,
             "totalPrice": 172.89458,
             "quantity": 12,
-            "time": NumberLong(1475894502)
+            "time": 1475894502
         },
         {
             "factoryId": 6,
@@ -5498,7 +5498,7 @@ db.saleTransaction.insertMany (
             "customerId": 1976,
             "totalPrice": 9.834114,
             "quantity": 9,
-            "time": NumberLong(1488507364)
+            "time": 1488507364
         },
         {
             "factoryId": 1,
@@ -5508,7 +5508,7 @@ db.saleTransaction.insertMany (
             "customerId": 1871,
             "totalPrice": 29.47122,
             "quantity": 10,
-            "time": NumberLong(1469633513)
+            "time": 1469633513
         },
         {
             "factoryId": 2,
@@ -5518,7 +5518,7 @@ db.saleTransaction.insertMany (
             "customerId": 97,
             "totalPrice": 130.42798,
             "quantity": 4,
-            "time": NumberLong(1470442023)
+            "time": 1470442023
         },
         {
             "factoryId": 6,
@@ -5528,7 +5528,7 @@ db.saleTransaction.insertMany (
             "customerId": 876,
             "totalPrice": 65.53899,
             "quantity": 8,
-            "time": NumberLong(1484459922)
+            "time": 1484459922
         },
         {
             "factoryId": 4,
@@ -5538,7 +5538,7 @@ db.saleTransaction.insertMany (
             "customerId": 1971,
             "totalPrice": 176.83008,
             "quantity": 12,
-            "time": NumberLong(1473856815)
+            "time": 1473856815
         },
         {
             "factoryId": 2,
@@ -5548,7 +5548,7 @@ db.saleTransaction.insertMany (
             "customerId": 264,
             "totalPrice": 137.52501,
             "quantity": 8,
-            "time": NumberLong(1477598877)
+            "time": 1477598877
         },
         {
             "factoryId": 3,
@@ -5558,7 +5558,7 @@ db.saleTransaction.insertMany (
             "customerId": 1458,
             "totalPrice": 25.196115,
             "quantity": 3,
-            "time": NumberLong(1470445288)
+            "time": 1470445288
         },
         {
             "factoryId": 5,
@@ -5568,7 +5568,7 @@ db.saleTransaction.insertMany (
             "customerId": 1163,
             "totalPrice": 82.20901,
             "quantity": 3,
-            "time": NumberLong(1477067872)
+            "time": 1477067872
         },
         {
             "factoryId": 2,
@@ -5578,7 +5578,7 @@ db.saleTransaction.insertMany (
             "customerId": 486,
             "totalPrice": 60.477066,
             "quantity": 4,
-            "time": NumberLong(1466463916)
+            "time": 1466463916
         },
         {
             "factoryId": 3,
@@ -5588,7 +5588,7 @@ db.saleTransaction.insertMany (
             "customerId": 1977,
             "totalPrice": 68.92321,
             "quantity": 12,
-            "time": NumberLong(1465197667)
+            "time": 1465197667
         },
         {
             "factoryId": 3,
@@ -5598,7 +5598,7 @@ db.saleTransaction.insertMany (
             "customerId": 1777,
             "totalPrice": 90.375275,
             "quantity": 10,
-            "time": NumberLong(1486226029)
+            "time": 1486226029
         },
         {
             "factoryId": 5,
@@ -5608,7 +5608,7 @@ db.saleTransaction.insertMany (
             "customerId": 212,
             "totalPrice": 15.199469,
             "quantity": 2,
-            "time": NumberLong(1467657697)
+            "time": 1467657697
         },
         {
             "factoryId": 1,
@@ -5618,7 +5618,7 @@ db.saleTransaction.insertMany (
             "customerId": 1790,
             "totalPrice": 53.85854,
             "quantity": 12,
-            "time": NumberLong(1485600300)
+            "time": 1485600300
         },
         {
             "factoryId": 2,
@@ -5628,7 +5628,7 @@ db.saleTransaction.insertMany (
             "customerId": 1707,
             "totalPrice": 99.41763,
             "quantity": 7,
-            "time": NumberLong(1470252014)
+            "time": 1470252014
         },
         {
             "factoryId": 4,
@@ -5638,7 +5638,7 @@ db.saleTransaction.insertMany (
             "customerId": 631,
             "totalPrice": 106.04703,
             "quantity": 9,
-            "time": NumberLong(1478293092)
+            "time": 1478293092
         },
         {
             "factoryId": 6,
@@ -5648,7 +5648,7 @@ db.saleTransaction.insertMany (
             "customerId": 762,
             "totalPrice": 88.11697,
             "quantity": 4,
-            "time": NumberLong(1484089719)
+            "time": 1484089719
         },
         {
             "factoryId": 5,
@@ -5658,7 +5658,7 @@ db.saleTransaction.insertMany (
             "customerId": 1759,
             "totalPrice": 27.910675,
             "quantity": 5,
-            "time": NumberLong(1463911864)
+            "time": 1463911864
         },
         {
             "factoryId": 5,
@@ -5668,7 +5668,7 @@ db.saleTransaction.insertMany (
             "customerId": 1442,
             "totalPrice": 150.62537,
             "quantity": 7,
-            "time": NumberLong(1475658497)
+            "time": 1475658497
         },
         {
             "factoryId": 6,
@@ -5678,7 +5678,7 @@ db.saleTransaction.insertMany (
             "customerId": 1503,
             "totalPrice": 147.76277,
             "quantity": 2,
-            "time": NumberLong(1466819937)
+            "time": 1466819937
         },
         {
             "factoryId": 5,
@@ -5688,7 +5688,7 @@ db.saleTransaction.insertMany (
             "customerId": 356,
             "totalPrice": 186.24947,
             "quantity": 2,
-            "time": NumberLong(1469963785)
+            "time": 1469963785
         },
         {
             "factoryId": 1,
@@ -5698,7 +5698,7 @@ db.saleTransaction.insertMany (
             "customerId": 980,
             "totalPrice": 98.58276,
             "quantity": 4,
-            "time": NumberLong(1464946860)
+            "time": 1464946860
         },
         {
             "factoryId": 3,
@@ -5708,7 +5708,7 @@ db.saleTransaction.insertMany (
             "customerId": 1335,
             "totalPrice": 137.22946,
             "quantity": 5,
-            "time": NumberLong(1480354702)
+            "time": 1480354702
         },
         {
             "factoryId": 6,
@@ -5718,7 +5718,7 @@ db.saleTransaction.insertMany (
             "customerId": 1285,
             "totalPrice": 147.39526,
             "quantity": 9,
-            "time": NumberLong(1470556206)
+            "time": 1470556206
         },
         {
             "factoryId": 5,
@@ -5728,7 +5728,7 @@ db.saleTransaction.insertMany (
             "customerId": 1306,
             "totalPrice": 3.3096843,
             "quantity": 11,
-            "time": NumberLong(1492634889)
+            "time": 1492634889
         },
         {
             "factoryId": 1,
@@ -5738,7 +5738,7 @@ db.saleTransaction.insertMany (
             "customerId": 490,
             "totalPrice": 106.66436,
             "quantity": 2,
-            "time": NumberLong(1462891239)
+            "time": 1462891239
         },
         {
             "factoryId": 1,
@@ -5748,7 +5748,7 @@ db.saleTransaction.insertMany (
             "customerId": 777,
             "totalPrice": 10.302208,
             "quantity": 1,
-            "time": NumberLong(1492042444)
+            "time": 1492042444
         },
         {
             "factoryId": 4,
@@ -5758,7 +5758,7 @@ db.saleTransaction.insertMany (
             "customerId": 1751,
             "totalPrice": 4.125462,
             "quantity": 6,
-            "time": NumberLong(1464015864)
+            "time": 1464015864
         },
         {
             "factoryId": 4,
@@ -5768,7 +5768,7 @@ db.saleTransaction.insertMany (
             "customerId": 1195,
             "totalPrice": 171.91707,
             "quantity": 10,
-            "time": NumberLong(1483806159)
+            "time": 1483806159
         },
         {
             "factoryId": 3,
@@ -5778,7 +5778,7 @@ db.saleTransaction.insertMany (
             "customerId": 734,
             "totalPrice": 171.3116,
             "quantity": 7,
-            "time": NumberLong(1490652275)
+            "time": 1490652275
         },
         {
             "factoryId": 4,
@@ -5788,7 +5788,7 @@ db.saleTransaction.insertMany (
             "customerId": 1339,
             "totalPrice": 158.54793,
             "quantity": 2,
-            "time": NumberLong(1492902124)
+            "time": 1492902124
         },
         {
             "factoryId": 4,
@@ -5798,7 +5798,7 @@ db.saleTransaction.insertMany (
             "customerId": 801,
             "totalPrice": 117.858734,
             "quantity": 12,
-            "time": NumberLong(1463249761)
+            "time": 1463249761
         },
         {
             "factoryId": 6,
@@ -5808,7 +5808,7 @@ db.saleTransaction.insertMany (
             "customerId": 1289,
             "totalPrice": 189.71631,
             "quantity": 4,
-            "time": NumberLong(1465852838)
+            "time": 1465852838
         },
         {
             "factoryId": 2,
@@ -5818,7 +5818,7 @@ db.saleTransaction.insertMany (
             "customerId": 1888,
             "totalPrice": 11.0393095,
             "quantity": 8,
-            "time": NumberLong(1477083362)
+            "time": 1477083362
         },
         {
             "factoryId": 2,
@@ -5828,7 +5828,7 @@ db.saleTransaction.insertMany (
             "customerId": 1298,
             "totalPrice": 193.56584,
             "quantity": 7,
-            "time": NumberLong(1469965819)
+            "time": 1469965819
         },
         {
             "factoryId": 4,
@@ -5838,7 +5838,7 @@ db.saleTransaction.insertMany (
             "customerId": 563,
             "totalPrice": 93.01628,
             "quantity": 11,
-            "time": NumberLong(1473012358)
+            "time": 1473012358
         },
         {
             "factoryId": 6,
@@ -5848,7 +5848,7 @@ db.saleTransaction.insertMany (
             "customerId": 742,
             "totalPrice": 190.64151,
             "quantity": 4,
-            "time": NumberLong(1477237703)
+            "time": 1477237703
         },
         {
             "factoryId": 5,
@@ -5858,7 +5858,7 @@ db.saleTransaction.insertMany (
             "customerId": 106,
             "totalPrice": 24.223536,
             "quantity": 2,
-            "time": NumberLong(1491094279)
+            "time": 1491094279
         },
         {
             "factoryId": 1,
@@ -5868,7 +5868,7 @@ db.saleTransaction.insertMany (
             "customerId": 1541,
             "totalPrice": 95.8881,
             "quantity": 10,
-            "time": NumberLong(1484999426)
+            "time": 1484999426
         },
         {
             "factoryId": 6,
@@ -5878,7 +5878,7 @@ db.saleTransaction.insertMany (
             "customerId": 241,
             "totalPrice": 74.24618,
             "quantity": 4,
-            "time": NumberLong(1488417963)
+            "time": 1488417963
         },
         {
             "factoryId": 1,
@@ -5888,7 +5888,7 @@ db.saleTransaction.insertMany (
             "customerId": 1337,
             "totalPrice": 6.228088,
             "quantity": 3,
-            "time": NumberLong(1493626407)
+            "time": 1493626407
         },
         {
             "factoryId": 4,
@@ -5898,7 +5898,7 @@ db.saleTransaction.insertMany (
             "customerId": 1956,
             "totalPrice": 75.49264,
             "quantity": 11,
-            "time": NumberLong(1472567782)
+            "time": 1472567782
         },
         {
             "factoryId": 3,
@@ -5908,7 +5908,7 @@ db.saleTransaction.insertMany (
             "customerId": 947,
             "totalPrice": 86.642525,
             "quantity": 5,
-            "time": NumberLong(1465031066)
+            "time": 1465031066
         },
         {
             "factoryId": 3,
@@ -5918,7 +5918,7 @@ db.saleTransaction.insertMany (
             "customerId": 571,
             "totalPrice": 186.42433,
             "quantity": 9,
-            "time": NumberLong(1480960709)
+            "time": 1480960709
         },
         {
             "factoryId": 3,
@@ -5928,7 +5928,7 @@ db.saleTransaction.insertMany (
             "customerId": 1046,
             "totalPrice": 13.980337,
             "quantity": 1,
-            "time": NumberLong(1475182073)
+            "time": 1475182073
         },
         {
             "factoryId": 3,
@@ -5938,7 +5938,7 @@ db.saleTransaction.insertMany (
             "customerId": 390,
             "totalPrice": 24.962236,
             "quantity": 12,
-            "time": NumberLong(1465355704)
+            "time": 1465355704
         },
         {
             "factoryId": 6,
@@ -5948,7 +5948,7 @@ db.saleTransaction.insertMany (
             "customerId": 1190,
             "totalPrice": 132.0059,
             "quantity": 12,
-            "time": NumberLong(1474425202)
+            "time": 1474425202
         },
         {
             "factoryId": 5,
@@ -5958,7 +5958,7 @@ db.saleTransaction.insertMany (
             "customerId": 778,
             "totalPrice": 105.22531,
             "quantity": 9,
-            "time": NumberLong(1467964575)
+            "time": 1467964575
         },
         {
             "factoryId": 5,
@@ -5968,7 +5968,7 @@ db.saleTransaction.insertMany (
             "customerId": 1433,
             "totalPrice": 180.96454,
             "quantity": 6,
-            "time": NumberLong(1491496833)
+            "time": 1491496833
         },
         {
             "factoryId": 5,
@@ -5978,7 +5978,7 @@ db.saleTransaction.insertMany (
             "customerId": 838,
             "totalPrice": 126.610146,
             "quantity": 6,
-            "time": NumberLong(1483454022)
+            "time": 1483454022
         },
         {
             "factoryId": 5,
@@ -5988,7 +5988,7 @@ db.saleTransaction.insertMany (
             "customerId": 1414,
             "totalPrice": 45.45357,
             "quantity": 2,
-            "time": NumberLong(1480960514)
+            "time": 1480960514
         },
         {
             "factoryId": 6,
@@ -5998,7 +5998,7 @@ db.saleTransaction.insertMany (
             "customerId": 575,
             "totalPrice": 125.15883,
             "quantity": 8,
-            "time": NumberLong(1471848073)
+            "time": 1471848073
         },
         {
             "factoryId": 4,
@@ -6008,7 +6008,7 @@ db.saleTransaction.insertMany (
             "customerId": 1678,
             "totalPrice": 68.38458,
             "quantity": 9,
-            "time": NumberLong(1483777466)
+            "time": 1483777466
         },
         {
             "factoryId": 3,
@@ -6018,7 +6018,7 @@ db.saleTransaction.insertMany (
             "customerId": 208,
             "totalPrice": 36.074043,
             "quantity": 5,
-            "time": NumberLong(1491427315)
+            "time": 1491427315
         },
         {
             "factoryId": 4,
@@ -6028,7 +6028,7 @@ db.saleTransaction.insertMany (
             "customerId": 415,
             "totalPrice": 131.48257,
             "quantity": 8,
-            "time": NumberLong(1468390566)
+            "time": 1468390566
         },
         {
             "factoryId": 1,
@@ -6038,7 +6038,7 @@ db.saleTransaction.insertMany (
             "customerId": 873,
             "totalPrice": 196.91069,
             "quantity": 10,
-            "time": NumberLong(1474269171)
+            "time": 1474269171
         },
         {
             "factoryId": 4,
@@ -6048,7 +6048,7 @@ db.saleTransaction.insertMany (
             "customerId": 727,
             "totalPrice": 150.63731,
             "quantity": 10,
-            "time": NumberLong(1486650445)
+            "time": 1486650445
         },
         {
             "factoryId": 2,
@@ -6058,7 +6058,7 @@ db.saleTransaction.insertMany (
             "customerId": 158,
             "totalPrice": 149.1859,
             "quantity": 12,
-            "time": NumberLong(1479373584)
+            "time": 1479373584
         },
         {
             "factoryId": 1,
@@ -6068,7 +6068,7 @@ db.saleTransaction.insertMany (
             "customerId": 1447,
             "totalPrice": 72.16909,
             "quantity": 11,
-            "time": NumberLong(1492970854)
+            "time": 1492970854
         },
         {
             "factoryId": 6,
@@ -6078,7 +6078,7 @@ db.saleTransaction.insertMany (
             "customerId": 48,
             "totalPrice": 70.742935,
             "quantity": 6,
-            "time": NumberLong(1481260240)
+            "time": 1481260240
         },
         {
             "factoryId": 5,
@@ -6088,7 +6088,7 @@ db.saleTransaction.insertMany (
             "customerId": 580,
             "totalPrice": 3.4188597,
             "quantity": 7,
-            "time": NumberLong(1491905956)
+            "time": 1491905956
         },
         {
             "factoryId": 5,
@@ -6098,7 +6098,7 @@ db.saleTransaction.insertMany (
             "customerId": 362,
             "totalPrice": 137.10883,
             "quantity": 9,
-            "time": NumberLong(1465883869)
+            "time": 1465883869
         },
         {
             "factoryId": 2,
@@ -6108,7 +6108,7 @@ db.saleTransaction.insertMany (
             "customerId": 1269,
             "totalPrice": 15.416678,
             "quantity": 5,
-            "time": NumberLong(1478968647)
+            "time": 1478968647
         },
         {
             "factoryId": 1,
@@ -6118,7 +6118,7 @@ db.saleTransaction.insertMany (
             "customerId": 1539,
             "totalPrice": 81.440735,
             "quantity": 3,
-            "time": NumberLong(1478854925)
+            "time": 1478854925
         },
         {
             "factoryId": 4,
@@ -6128,7 +6128,7 @@ db.saleTransaction.insertMany (
             "customerId": 354,
             "totalPrice": 51.073772,
             "quantity": 12,
-            "time": NumberLong(1473420601)
+            "time": 1473420601
         },
         {
             "factoryId": 4,
@@ -6138,7 +6138,7 @@ db.saleTransaction.insertMany (
             "customerId": 1569,
             "totalPrice": 128.89561,
             "quantity": 9,
-            "time": NumberLong(1466323495)
+            "time": 1466323495
         },
         {
             "factoryId": 1,
@@ -6148,7 +6148,7 @@ db.saleTransaction.insertMany (
             "customerId": 833,
             "totalPrice": 157.63991,
             "quantity": 4,
-            "time": NumberLong(1465026626)
+            "time": 1465026626
         },
         {
             "factoryId": 5,
@@ -6158,7 +6158,7 @@ db.saleTransaction.insertMany (
             "customerId": 1755,
             "totalPrice": 87.24144,
             "quantity": 6,
-            "time": NumberLong(1474604931)
+            "time": 1474604931
         },
         {
             "factoryId": 2,
@@ -6168,7 +6168,7 @@ db.saleTransaction.insertMany (
             "customerId": 1670,
             "totalPrice": 138.11325,
             "quantity": 11,
-            "time": NumberLong(1479892541)
+            "time": 1479892541
         },
         {
             "factoryId": 5,
@@ -6178,7 +6178,7 @@ db.saleTransaction.insertMany (
             "customerId": 183,
             "totalPrice": 184.5428,
             "quantity": 6,
-            "time": NumberLong(1491914050)
+            "time": 1491914050
         },
         {
             "factoryId": 3,
@@ -6188,7 +6188,7 @@ db.saleTransaction.insertMany (
             "customerId": 487,
             "totalPrice": 196.0302,
             "quantity": 11,
-            "time": NumberLong(1467651578)
+            "time": 1467651578
         },
         {
             "factoryId": 5,
@@ -6198,7 +6198,7 @@ db.saleTransaction.insertMany (
             "customerId": 180,
             "totalPrice": 135.19286,
             "quantity": 1,
-            "time": NumberLong(1471827858)
+            "time": 1471827858
         },
         {
             "factoryId": 3,
@@ -6208,7 +6208,7 @@ db.saleTransaction.insertMany (
             "customerId": 725,
             "totalPrice": 85.51348,
             "quantity": 12,
-            "time": NumberLong(1473729537)
+            "time": 1473729537
         },
         {
             "factoryId": 3,
@@ -6218,7 +6218,7 @@ db.saleTransaction.insertMany (
             "customerId": 778,
             "totalPrice": 11.802123,
             "quantity": 4,
-            "time": NumberLong(1470875205)
+            "time": 1470875205
         },
         {
             "factoryId": 4,
@@ -6228,7 +6228,7 @@ db.saleTransaction.insertMany (
             "customerId": 165,
             "totalPrice": 114.61366,
             "quantity": 7,
-            "time": NumberLong(1489540033)
+            "time": 1489540033
         },
         {
             "factoryId": 6,
@@ -6238,7 +6238,7 @@ db.saleTransaction.insertMany (
             "customerId": 992,
             "totalPrice": 177.83885,
             "quantity": 9,
-            "time": NumberLong(1481111942)
+            "time": 1481111942
         },
         {
             "factoryId": 1,
@@ -6248,7 +6248,7 @@ db.saleTransaction.insertMany (
             "customerId": 1270,
             "totalPrice": 168.38084,
             "quantity": 3,
-            "time": NumberLong(1493470550)
+            "time": 1493470550
         },
         {
             "factoryId": 1,
@@ -6258,7 +6258,7 @@ db.saleTransaction.insertMany (
             "customerId": 157,
             "totalPrice": 64.362595,
             "quantity": 2,
-            "time": NumberLong(1464971257)
+            "time": 1464971257
         },
         {
             "factoryId": 5,
@@ -6268,7 +6268,7 @@ db.saleTransaction.insertMany (
             "customerId": 1804,
             "totalPrice": 25.817034,
             "quantity": 2,
-            "time": NumberLong(1464321850)
+            "time": 1464321850
         },
         {
             "factoryId": 4,
@@ -6278,7 +6278,7 @@ db.saleTransaction.insertMany (
             "customerId": 1496,
             "totalPrice": 156.57959,
             "quantity": 3,
-            "time": NumberLong(1475670489)
+            "time": 1475670489
         },
         {
             "factoryId": 4,
@@ -6288,7 +6288,7 @@ db.saleTransaction.insertMany (
             "customerId": 1054,
             "totalPrice": 157.96292,
             "quantity": 3,
-            "time": NumberLong(1487845520)
+            "time": 1487845520
         },
         {
             "factoryId": 1,
@@ -6298,7 +6298,7 @@ db.saleTransaction.insertMany (
             "customerId": 640,
             "totalPrice": 34.22529,
             "quantity": 7,
-            "time": NumberLong(1467229647)
+            "time": 1467229647
         },
         {
             "factoryId": 2,
@@ -6308,7 +6308,7 @@ db.saleTransaction.insertMany (
             "customerId": 729,
             "totalPrice": 183.50505,
             "quantity": 4,
-            "time": NumberLong(1483385472)
+            "time": 1483385472
         },
         {
             "factoryId": 5,
@@ -6318,7 +6318,7 @@ db.saleTransaction.insertMany (
             "customerId": 1669,
             "totalPrice": 160.74219,
             "quantity": 11,
-            "time": NumberLong(1489922073)
+            "time": 1489922073
         },
         {
             "factoryId": 5,
@@ -6328,7 +6328,7 @@ db.saleTransaction.insertMany (
             "customerId": 67,
             "totalPrice": 61.901367,
             "quantity": 2,
-            "time": NumberLong(1469051959)
+            "time": 1469051959
         },
         {
             "factoryId": 1,
@@ -6338,7 +6338,7 @@ db.saleTransaction.insertMany (
             "customerId": 221,
             "totalPrice": 162.60426,
             "quantity": 6,
-            "time": NumberLong(1493426629)
+            "time": 1493426629
         },
         {
             "factoryId": 6,
@@ -6348,7 +6348,7 @@ db.saleTransaction.insertMany (
             "customerId": 1780,
             "totalPrice": 55.137535,
             "quantity": 11,
-            "time": NumberLong(1466633732)
+            "time": 1466633732
         },
         {
             "factoryId": 1,
@@ -6358,7 +6358,7 @@ db.saleTransaction.insertMany (
             "customerId": 1572,
             "totalPrice": 181.0094,
             "quantity": 3,
-            "time": NumberLong(1480445218)
+            "time": 1480445218
         },
         {
             "factoryId": 5,
@@ -6368,7 +6368,7 @@ db.saleTransaction.insertMany (
             "customerId": 773,
             "totalPrice": 125.06144,
             "quantity": 9,
-            "time": NumberLong(1467732721)
+            "time": 1467732721
         },
         {
             "factoryId": 3,
@@ -6378,7 +6378,7 @@ db.saleTransaction.insertMany (
             "customerId": 1736,
             "totalPrice": 157.00407,
             "quantity": 7,
-            "time": NumberLong(1470559711)
+            "time": 1470559711
         },
         {
             "factoryId": 3,
@@ -6388,7 +6388,7 @@ db.saleTransaction.insertMany (
             "customerId": 1355,
             "totalPrice": 184.84836,
             "quantity": 4,
-            "time": NumberLong(1476223425)
+            "time": 1476223425
         },
         {
             "factoryId": 1,
@@ -6398,7 +6398,7 @@ db.saleTransaction.insertMany (
             "customerId": 6,
             "totalPrice": 96.40261,
             "quantity": 1,
-            "time": NumberLong(1476783186)
+            "time": 1476783186
         },
         {
             "factoryId": 3,
@@ -6408,7 +6408,7 @@ db.saleTransaction.insertMany (
             "customerId": 661,
             "totalPrice": 100.017624,
             "quantity": 4,
-            "time": NumberLong(1489844966)
+            "time": 1489844966
         },
         {
             "factoryId": 6,
@@ -6418,7 +6418,7 @@ db.saleTransaction.insertMany (
             "customerId": 1526,
             "totalPrice": 37.886757,
             "quantity": 8,
-            "time": NumberLong(1466158147)
+            "time": 1466158147
         },
         {
             "factoryId": 3,
@@ -6428,7 +6428,7 @@ db.saleTransaction.insertMany (
             "customerId": 765,
             "totalPrice": 195.05815,
             "quantity": 2,
-            "time": NumberLong(1487979084)
+            "time": 1487979084
         },
         {
             "factoryId": 6,
@@ -6438,7 +6438,7 @@ db.saleTransaction.insertMany (
             "customerId": 865,
             "totalPrice": 58.75388,
             "quantity": 11,
-            "time": NumberLong(1467467819)
+            "time": 1467467819
         },
         {
             "factoryId": 5,
@@ -6448,7 +6448,7 @@ db.saleTransaction.insertMany (
             "customerId": 1403,
             "totalPrice": 87.25679,
             "quantity": 7,
-            "time": NumberLong(1467128623)
+            "time": 1467128623
         },
         {
             "factoryId": 3,
@@ -6458,7 +6458,7 @@ db.saleTransaction.insertMany (
             "customerId": 601,
             "totalPrice": 88.66905,
             "quantity": 3,
-            "time": NumberLong(1470669239)
+            "time": 1470669239
         },
         {
             "factoryId": 1,
@@ -6468,7 +6468,7 @@ db.saleTransaction.insertMany (
             "customerId": 1463,
             "totalPrice": 171.69281,
             "quantity": 3,
-            "time": NumberLong(1489781659)
+            "time": 1489781659
         },
         {
             "factoryId": 5,
@@ -6478,7 +6478,7 @@ db.saleTransaction.insertMany (
             "customerId": 555,
             "totalPrice": 166.18849,
             "quantity": 4,
-            "time": NumberLong(1471873863)
+            "time": 1471873863
         },
         {
             "factoryId": 3,
@@ -6488,7 +6488,7 @@ db.saleTransaction.insertMany (
             "customerId": 1925,
             "totalPrice": 72.703,
             "quantity": 6,
-            "time": NumberLong(1482784027)
+            "time": 1482784027
         },
         {
             "factoryId": 2,
@@ -6498,7 +6498,7 @@ db.saleTransaction.insertMany (
             "customerId": 1839,
             "totalPrice": 100.258575,
             "quantity": 4,
-            "time": NumberLong(1490146705)
+            "time": 1490146705
         },
         {
             "factoryId": 3,
@@ -6508,7 +6508,7 @@ db.saleTransaction.insertMany (
             "customerId": 500,
             "totalPrice": 99.836174,
             "quantity": 11,
-            "time": NumberLong(1483013812)
+            "time": 1483013812
         },
         {
             "factoryId": 5,
@@ -6518,7 +6518,7 @@ db.saleTransaction.insertMany (
             "customerId": 467,
             "totalPrice": 164.11536,
             "quantity": 11,
-            "time": NumberLong(1484339212)
+            "time": 1484339212
         },
         {
             "factoryId": 3,
@@ -6528,7 +6528,7 @@ db.saleTransaction.insertMany (
             "customerId": 899,
             "totalPrice": 143.99707,
             "quantity": 11,
-            "time": NumberLong(1473453913)
+            "time": 1473453913
         },
         {
             "factoryId": 6,
@@ -6538,7 +6538,7 @@ db.saleTransaction.insertMany (
             "customerId": 1970,
             "totalPrice": 135.40189,
             "quantity": 5,
-            "time": NumberLong(1466645291)
+            "time": 1466645291
         },
         {
             "factoryId": 1,
@@ -6548,7 +6548,7 @@ db.saleTransaction.insertMany (
             "customerId": 1323,
             "totalPrice": 5.765012,
             "quantity": 1,
-            "time": NumberLong(1489350684)
+            "time": 1489350684
         },
         {
             "factoryId": 5,
@@ -6558,7 +6558,7 @@ db.saleTransaction.insertMany (
             "customerId": 483,
             "totalPrice": 152.43497,
             "quantity": 10,
-            "time": NumberLong(1470417207)
+            "time": 1470417207
         },
         {
             "factoryId": 2,
@@ -6568,7 +6568,7 @@ db.saleTransaction.insertMany (
             "customerId": 975,
             "totalPrice": 193.13264,
             "quantity": 3,
-            "time": NumberLong(1473971522)
+            "time": 1473971522
         },
         {
             "factoryId": 2,
@@ -6578,7 +6578,7 @@ db.saleTransaction.insertMany (
             "customerId": 10,
             "totalPrice": 183.32199,
             "quantity": 7,
-            "time": NumberLong(1475887810)
+            "time": 1475887810
         },
         {
             "factoryId": 6,
@@ -6588,7 +6588,7 @@ db.saleTransaction.insertMany (
             "customerId": 1373,
             "totalPrice": 81.01615,
             "quantity": 1,
-            "time": NumberLong(1476280658)
+            "time": 1476280658
         },
         {
             "factoryId": 1,
@@ -6598,7 +6598,7 @@ db.saleTransaction.insertMany (
             "customerId": 65,
             "totalPrice": 20.829187,
             "quantity": 10,
-            "time": NumberLong(1490904983)
+            "time": 1490904983
         },
         {
             "factoryId": 1,
@@ -6608,7 +6608,7 @@ db.saleTransaction.insertMany (
             "customerId": 709,
             "totalPrice": 1.8556331,
             "quantity": 11,
-            "time": NumberLong(1482575021)
+            "time": 1482575021
         },
         {
             "factoryId": 6,
@@ -6618,7 +6618,7 @@ db.saleTransaction.insertMany (
             "customerId": 1482,
             "totalPrice": 120.79615,
             "quantity": 4,
-            "time": NumberLong(1480176481)
+            "time": 1480176481
         },
         {
             "factoryId": 4,
@@ -6628,7 +6628,7 @@ db.saleTransaction.insertMany (
             "customerId": 610,
             "totalPrice": 140.38976,
             "quantity": 8,
-            "time": NumberLong(1471784390)
+            "time": 1471784390
         },
         {
             "factoryId": 3,
@@ -6638,7 +6638,7 @@ db.saleTransaction.insertMany (
             "customerId": 969,
             "totalPrice": 18.271955,
             "quantity": 2,
-            "time": NumberLong(1471130052)
+            "time": 1471130052
         },
         {
             "factoryId": 2,
@@ -6648,7 +6648,7 @@ db.saleTransaction.insertMany (
             "customerId": 815,
             "totalPrice": 68.88245,
             "quantity": 5,
-            "time": NumberLong(1492959572)
+            "time": 1492959572
         },
         {
             "factoryId": 5,
@@ -6658,7 +6658,7 @@ db.saleTransaction.insertMany (
             "customerId": 34,
             "totalPrice": 70.57186,
             "quantity": 5,
-            "time": NumberLong(1491539140)
+            "time": 1491539140
         },
         {
             "factoryId": 1,
@@ -6668,7 +6668,7 @@ db.saleTransaction.insertMany (
             "customerId": 1210,
             "totalPrice": 183.6217,
             "quantity": 4,
-            "time": NumberLong(1490204268)
+            "time": 1490204268
         },
         {
             "factoryId": 6,
@@ -6678,7 +6678,7 @@ db.saleTransaction.insertMany (
             "customerId": 3,
             "totalPrice": 17.985786,
             "quantity": 12,
-            "time": NumberLong(1489450651)
+            "time": 1489450651
         },
         {
             "factoryId": 2,
@@ -6688,7 +6688,7 @@ db.saleTransaction.insertMany (
             "customerId": 1144,
             "totalPrice": 113.971596,
             "quantity": 12,
-            "time": NumberLong(1477864845)
+            "time": 1477864845
         },
         {
             "factoryId": 3,
@@ -6698,7 +6698,7 @@ db.saleTransaction.insertMany (
             "customerId": 225,
             "totalPrice": 168.7259,
             "quantity": 6,
-            "time": NumberLong(1478068861)
+            "time": 1478068861
         },
         {
             "factoryId": 1,
@@ -6708,7 +6708,7 @@ db.saleTransaction.insertMany (
             "customerId": 67,
             "totalPrice": 86.67431,
             "quantity": 11,
-            "time": NumberLong(1463557573)
+            "time": 1463557573
         },
         {
             "factoryId": 4,
@@ -6718,7 +6718,7 @@ db.saleTransaction.insertMany (
             "customerId": 328,
             "totalPrice": 90.310135,
             "quantity": 2,
-            "time": NumberLong(1494262519)
+            "time": 1494262519
         },
         {
             "factoryId": 6,
@@ -6728,7 +6728,7 @@ db.saleTransaction.insertMany (
             "customerId": 164,
             "totalPrice": 42.822968,
             "quantity": 11,
-            "time": NumberLong(1492645549)
+            "time": 1492645549
         },
         {
             "factoryId": 5,
@@ -6738,7 +6738,7 @@ db.saleTransaction.insertMany (
             "customerId": 879,
             "totalPrice": 82.85154,
             "quantity": 8,
-            "time": NumberLong(1483369848)
+            "time": 1483369848
         },
         {
             "factoryId": 3,
@@ -6748,7 +6748,7 @@ db.saleTransaction.insertMany (
             "customerId": 992,
             "totalPrice": 146.46503,
             "quantity": 8,
-            "time": NumberLong(1481940352)
+            "time": 1481940352
         },
         {
             "factoryId": 1,
@@ -6758,7 +6758,7 @@ db.saleTransaction.insertMany (
             "customerId": 543,
             "totalPrice": 16.1653,
             "quantity": 7,
-            "time": NumberLong(1477825361)
+            "time": 1477825361
         },
         {
             "factoryId": 2,
@@ -6768,7 +6768,7 @@ db.saleTransaction.insertMany (
             "customerId": 1517,
             "totalPrice": 148.4833,
             "quantity": 2,
-            "time": NumberLong(1477809843)
+            "time": 1477809843
         },
         {
             "factoryId": 3,
@@ -6778,7 +6778,7 @@ db.saleTransaction.insertMany (
             "customerId": 1388,
             "totalPrice": 179.54805,
             "quantity": 11,
-            "time": NumberLong(1462966706)
+            "time": 1462966706
         },
         {
             "factoryId": 4,
@@ -6788,7 +6788,7 @@ db.saleTransaction.insertMany (
             "customerId": 681,
             "totalPrice": 129.39732,
             "quantity": 6,
-            "time": NumberLong(1477330539)
+            "time": 1477330539
         },
         {
             "factoryId": 5,
@@ -6798,7 +6798,7 @@ db.saleTransaction.insertMany (
             "customerId": 1119,
             "totalPrice": 179.95317,
             "quantity": 1,
-            "time": NumberLong(1470737023)
+            "time": 1470737023
         },
         {
             "factoryId": 3,
@@ -6808,7 +6808,7 @@ db.saleTransaction.insertMany (
             "customerId": 159,
             "totalPrice": 162.642,
             "quantity": 1,
-            "time": NumberLong(1474477719)
+            "time": 1474477719
         },
         {
             "factoryId": 4,
@@ -6818,7 +6818,7 @@ db.saleTransaction.insertMany (
             "customerId": 1303,
             "totalPrice": 166.8579,
             "quantity": 7,
-            "time": NumberLong(1491642520)
+            "time": 1491642520
         },
         {
             "factoryId": 6,
@@ -6828,7 +6828,7 @@ db.saleTransaction.insertMany (
             "customerId": 440,
             "totalPrice": 194.54965,
             "quantity": 10,
-            "time": NumberLong(1494189176)
+            "time": 1494189176
         },
         {
             "factoryId": 1,
@@ -6838,7 +6838,7 @@ db.saleTransaction.insertMany (
             "customerId": 439,
             "totalPrice": 124.97736,
             "quantity": 7,
-            "time": NumberLong(1479046415)
+            "time": 1479046415
         },
         {
             "factoryId": 3,
@@ -6848,7 +6848,7 @@ db.saleTransaction.insertMany (
             "customerId": 1460,
             "totalPrice": 121.09494,
             "quantity": 12,
-            "time": NumberLong(1488461666)
+            "time": 1488461666
         },
         {
             "factoryId": 4,
@@ -6858,7 +6858,7 @@ db.saleTransaction.insertMany (
             "customerId": 576,
             "totalPrice": 184.43039,
             "quantity": 1,
-            "time": NumberLong(1465865965)
+            "time": 1465865965
         },
         {
             "factoryId": 6,
@@ -6868,7 +6868,7 @@ db.saleTransaction.insertMany (
             "customerId": 277,
             "totalPrice": 120.846344,
             "quantity": 8,
-            "time": NumberLong(1467141616)
+            "time": 1467141616
         },
         {
             "factoryId": 3,
@@ -6878,7 +6878,7 @@ db.saleTransaction.insertMany (
             "customerId": 392,
             "totalPrice": 38.001007,
             "quantity": 12,
-            "time": NumberLong(1480438649)
+            "time": 1480438649
         },
         {
             "factoryId": 4,
@@ -6888,7 +6888,7 @@ db.saleTransaction.insertMany (
             "customerId": 644,
             "totalPrice": 199.49669,
             "quantity": 2,
-            "time": NumberLong(1469470248)
+            "time": 1469470248
         },
         {
             "factoryId": 1,
@@ -6898,7 +6898,7 @@ db.saleTransaction.insertMany (
             "customerId": 841,
             "totalPrice": 194.82697,
             "quantity": 3,
-            "time": NumberLong(1482177915)
+            "time": 1482177915
         },
         {
             "factoryId": 6,
@@ -6908,7 +6908,7 @@ db.saleTransaction.insertMany (
             "customerId": 1682,
             "totalPrice": 186.36171,
             "quantity": 12,
-            "time": NumberLong(1471125545)
+            "time": 1471125545
         },
         {
             "factoryId": 1,
@@ -6918,7 +6918,7 @@ db.saleTransaction.insertMany (
             "customerId": 1988,
             "totalPrice": 81.26503,
             "quantity": 3,
-            "time": NumberLong(1471247521)
+            "time": 1471247521
         },
         {
             "factoryId": 2,
@@ -6928,7 +6928,7 @@ db.saleTransaction.insertMany (
             "customerId": 1249,
             "totalPrice": 156.31984,
             "quantity": 9,
-            "time": NumberLong(1480741272)
+            "time": 1480741272
         },
         {
             "factoryId": 2,
@@ -6938,7 +6938,7 @@ db.saleTransaction.insertMany (
             "customerId": 577,
             "totalPrice": 174.33875,
             "quantity": 5,
-            "time": NumberLong(1476610320)
+            "time": 1476610320
         },
         {
             "factoryId": 6,
@@ -6948,7 +6948,7 @@ db.saleTransaction.insertMany (
             "customerId": 901,
             "totalPrice": 103.13019,
             "quantity": 10,
-            "time": NumberLong(1487854841)
+            "time": 1487854841
         },
         {
             "factoryId": 5,
@@ -6958,7 +6958,7 @@ db.saleTransaction.insertMany (
             "customerId": 1993,
             "totalPrice": 124.40646,
             "quantity": 11,
-            "time": NumberLong(1470137208)
+            "time": 1470137208
         },
         {
             "factoryId": 1,
@@ -6968,7 +6968,7 @@ db.saleTransaction.insertMany (
             "customerId": 995,
             "totalPrice": 48.34573,
             "quantity": 5,
-            "time": NumberLong(1491477979)
+            "time": 1491477979
         },
         {
             "factoryId": 1,
@@ -6978,7 +6978,7 @@ db.saleTransaction.insertMany (
             "customerId": 1238,
             "totalPrice": 139.97131,
             "quantity": 12,
-            "time": NumberLong(1484936112)
+            "time": 1484936112
         },
         {
             "factoryId": 3,
@@ -6988,7 +6988,7 @@ db.saleTransaction.insertMany (
             "customerId": 1880,
             "totalPrice": 44.074215,
             "quantity": 10,
-            "time": NumberLong(1487776049)
+            "time": 1487776049
         },
         {
             "factoryId": 6,
@@ -6998,7 +6998,7 @@ db.saleTransaction.insertMany (
             "customerId": 1621,
             "totalPrice": 95.35148,
             "quantity": 1,
-            "time": NumberLong(1484551458)
+            "time": 1484551458
         },
         {
             "factoryId": 3,
@@ -7008,7 +7008,7 @@ db.saleTransaction.insertMany (
             "customerId": 1237,
             "totalPrice": 138.42723,
             "quantity": 3,
-            "time": NumberLong(1477029144)
+            "time": 1477029144
         },
         {
             "factoryId": 2,
@@ -7018,7 +7018,7 @@ db.saleTransaction.insertMany (
             "customerId": 1766,
             "totalPrice": 177.04338,
             "quantity": 9,
-            "time": NumberLong(1480360340)
+            "time": 1480360340
         },
         {
             "factoryId": 2,
@@ -7028,7 +7028,7 @@ db.saleTransaction.insertMany (
             "customerId": 547,
             "totalPrice": 40.291306,
             "quantity": 2,
-            "time": NumberLong(1468819890)
+            "time": 1468819890
         },
         {
             "factoryId": 6,
@@ -7038,7 +7038,7 @@ db.saleTransaction.insertMany (
             "customerId": 1565,
             "totalPrice": 140.50346,
             "quantity": 7,
-            "time": NumberLong(1467594020)
+            "time": 1467594020
         },
         {
             "factoryId": 5,
@@ -7048,7 +7048,7 @@ db.saleTransaction.insertMany (
             "customerId": 338,
             "totalPrice": 6.7264996,
             "quantity": 3,
-            "time": NumberLong(1487866112)
+            "time": 1487866112
         },
         {
             "factoryId": 5,
@@ -7058,7 +7058,7 @@ db.saleTransaction.insertMany (
             "customerId": 1954,
             "totalPrice": 38.60347,
             "quantity": 10,
-            "time": NumberLong(1490506532)
+            "time": 1490506532
         },
         {
             "factoryId": 1,
@@ -7068,7 +7068,7 @@ db.saleTransaction.insertMany (
             "customerId": 545,
             "totalPrice": 199.81686,
             "quantity": 9,
-            "time": NumberLong(1470994906)
+            "time": 1470994906
         },
         {
             "factoryId": 3,
@@ -7078,7 +7078,7 @@ db.saleTransaction.insertMany (
             "customerId": 1238,
             "totalPrice": 144.40137,
             "quantity": 9,
-            "time": NumberLong(1482257967)
+            "time": 1482257967
         },
         {
             "factoryId": 6,
@@ -7088,7 +7088,7 @@ db.saleTransaction.insertMany (
             "customerId": 1600,
             "totalPrice": 115.68971,
             "quantity": 3,
-            "time": NumberLong(1489490799)
+            "time": 1489490799
         },
         {
             "factoryId": 5,
@@ -7098,7 +7098,7 @@ db.saleTransaction.insertMany (
             "customerId": 1360,
             "totalPrice": 36.672707,
             "quantity": 12,
-            "time": NumberLong(1487684758)
+            "time": 1487684758
         },
         {
             "factoryId": 6,
@@ -7108,7 +7108,7 @@ db.saleTransaction.insertMany (
             "customerId": 133,
             "totalPrice": 140.7536,
             "quantity": 10,
-            "time": NumberLong(1492083848)
+            "time": 1492083848
         },
         {
             "factoryId": 5,
@@ -7118,7 +7118,7 @@ db.saleTransaction.insertMany (
             "customerId": 296,
             "totalPrice": 106.4869,
             "quantity": 11,
-            "time": NumberLong(1480030912)
+            "time": 1480030912
         },
         {
             "factoryId": 4,
@@ -7128,7 +7128,7 @@ db.saleTransaction.insertMany (
             "customerId": 510,
             "totalPrice": 182.27545,
             "quantity": 6,
-            "time": NumberLong(1486642664)
+            "time": 1486642664
         },
         {
             "factoryId": 2,
@@ -7138,7 +7138,7 @@ db.saleTransaction.insertMany (
             "customerId": 133,
             "totalPrice": 34.392902,
             "quantity": 2,
-            "time": NumberLong(1483946052)
+            "time": 1483946052
         },
         {
             "factoryId": 2,
@@ -7148,7 +7148,7 @@ db.saleTransaction.insertMany (
             "customerId": 830,
             "totalPrice": 14.939967,
             "quantity": 11,
-            "time": NumberLong(1482203527)
+            "time": 1482203527
         },
         {
             "factoryId": 1,
@@ -7158,7 +7158,7 @@ db.saleTransaction.insertMany (
             "customerId": 991,
             "totalPrice": 146.54092,
             "quantity": 12,
-            "time": NumberLong(1470048830)
+            "time": 1470048830
         },
         {
             "factoryId": 4,
@@ -7168,7 +7168,7 @@ db.saleTransaction.insertMany (
             "customerId": 1984,
             "totalPrice": 41.337673,
             "quantity": 11,
-            "time": NumberLong(1480500840)
+            "time": 1480500840
         },
         {
             "factoryId": 4,
@@ -7178,7 +7178,7 @@ db.saleTransaction.insertMany (
             "customerId": 438,
             "totalPrice": 152.9568,
             "quantity": 8,
-            "time": NumberLong(1469264616)
+            "time": 1469264616
         },
         {
             "factoryId": 3,
@@ -7188,7 +7188,7 @@ db.saleTransaction.insertMany (
             "customerId": 1817,
             "totalPrice": 146.1355,
             "quantity": 4,
-            "time": NumberLong(1479031216)
+            "time": 1479031216
         },
         {
             "factoryId": 2,
@@ -7198,7 +7198,7 @@ db.saleTransaction.insertMany (
             "customerId": 1739,
             "totalPrice": 172.53445,
             "quantity": 4,
-            "time": NumberLong(1489212551)
+            "time": 1489212551
         },
         {
             "factoryId": 2,
@@ -7208,7 +7208,7 @@ db.saleTransaction.insertMany (
             "customerId": 577,
             "totalPrice": 163.71509,
             "quantity": 2,
-            "time": NumberLong(1463645672)
+            "time": 1463645672
         },
         {
             "factoryId": 5,
@@ -7218,7 +7218,7 @@ db.saleTransaction.insertMany (
             "customerId": 689,
             "totalPrice": 15.158368,
             "quantity": 12,
-            "time": NumberLong(1481870193)
+            "time": 1481870193
         },
         {
             "factoryId": 5,
@@ -7228,7 +7228,7 @@ db.saleTransaction.insertMany (
             "customerId": 764,
             "totalPrice": 73.750435,
             "quantity": 11,
-            "time": NumberLong(1463841885)
+            "time": 1463841885
         },
         {
             "factoryId": 6,
@@ -7238,7 +7238,7 @@ db.saleTransaction.insertMany (
             "customerId": 114,
             "totalPrice": 28.544462,
             "quantity": 11,
-            "time": NumberLong(1468496908)
+            "time": 1468496908
         },
         {
             "factoryId": 6,
@@ -7248,7 +7248,7 @@ db.saleTransaction.insertMany (
             "customerId": 305,
             "totalPrice": 180.90935,
             "quantity": 5,
-            "time": NumberLong(1493118940)
+            "time": 1493118940
         },
         {
             "factoryId": 4,
@@ -7258,7 +7258,7 @@ db.saleTransaction.insertMany (
             "customerId": 1183,
             "totalPrice": 5.87593,
             "quantity": 8,
-            "time": NumberLong(1492784733)
+            "time": 1492784733
         },
         {
             "factoryId": 3,
@@ -7268,7 +7268,7 @@ db.saleTransaction.insertMany (
             "customerId": 717,
             "totalPrice": 62.211437,
             "quantity": 9,
-            "time": NumberLong(1469913411)
+            "time": 1469913411
         },
         {
             "factoryId": 2,
@@ -7278,7 +7278,7 @@ db.saleTransaction.insertMany (
             "customerId": 859,
             "totalPrice": 57.107857,
             "quantity": 3,
-            "time": NumberLong(1474408945)
+            "time": 1474408945
         },
         {
             "factoryId": 5,
@@ -7288,7 +7288,7 @@ db.saleTransaction.insertMany (
             "customerId": 248,
             "totalPrice": 124.14372,
             "quantity": 7,
-            "time": NumberLong(1483679840)
+            "time": 1483679840
         },
         {
             "factoryId": 2,
@@ -7298,7 +7298,7 @@ db.saleTransaction.insertMany (
             "customerId": 869,
             "totalPrice": 137.79282,
             "quantity": 12,
-            "time": NumberLong(1476319535)
+            "time": 1476319535
         },
         {
             "factoryId": 6,
@@ -7308,7 +7308,7 @@ db.saleTransaction.insertMany (
             "customerId": 104,
             "totalPrice": 25.06934,
             "quantity": 4,
-            "time": NumberLong(1488461146)
+            "time": 1488461146
         },
         {
             "factoryId": 4,
@@ -7318,7 +7318,7 @@ db.saleTransaction.insertMany (
             "customerId": 313,
             "totalPrice": 14.202677,
             "quantity": 7,
-            "time": NumberLong(1474731965)
+            "time": 1474731965
         },
         {
             "factoryId": 4,
@@ -7328,7 +7328,7 @@ db.saleTransaction.insertMany (
             "customerId": 342,
             "totalPrice": 57.869957,
             "quantity": 3,
-            "time": NumberLong(1468235381)
+            "time": 1468235381
         },
         {
             "factoryId": 4,
@@ -7338,7 +7338,7 @@ db.saleTransaction.insertMany (
             "customerId": 1006,
             "totalPrice": 73.53248,
             "quantity": 3,
-            "time": NumberLong(1469741672)
+            "time": 1469741672
         },
         {
             "factoryId": 5,
@@ -7348,7 +7348,7 @@ db.saleTransaction.insertMany (
             "customerId": 1197,
             "totalPrice": 95.79514,
             "quantity": 10,
-            "time": NumberLong(1474552783)
+            "time": 1474552783
         },
         {
             "factoryId": 4,
@@ -7358,7 +7358,7 @@ db.saleTransaction.insertMany (
             "customerId": 1036,
             "totalPrice": 101.57996,
             "quantity": 3,
-            "time": NumberLong(1478117194)
+            "time": 1478117194
         },
         {
             "factoryId": 3,
@@ -7368,7 +7368,7 @@ db.saleTransaction.insertMany (
             "customerId": 1029,
             "totalPrice": 125.261925,
             "quantity": 8,
-            "time": NumberLong(1488867877)
+            "time": 1488867877
         },
         {
             "factoryId": 2,
@@ -7378,7 +7378,7 @@ db.saleTransaction.insertMany (
             "customerId": 434,
             "totalPrice": 34.507748,
             "quantity": 6,
-            "time": NumberLong(1487027325)
+            "time": 1487027325
         },
         {
             "factoryId": 5,
@@ -7388,7 +7388,7 @@ db.saleTransaction.insertMany (
             "customerId": 1404,
             "totalPrice": 181.31094,
             "quantity": 5,
-            "time": NumberLong(1485506541)
+            "time": 1485506541
         },
         {
             "factoryId": 3,
@@ -7398,7 +7398,7 @@ db.saleTransaction.insertMany (
             "customerId": 1765,
             "totalPrice": 180.96837,
             "quantity": 2,
-            "time": NumberLong(1466622888)
+            "time": 1466622888
         },
         {
             "factoryId": 3,
@@ -7408,7 +7408,7 @@ db.saleTransaction.insertMany (
             "customerId": 727,
             "totalPrice": 175.7508,
             "quantity": 4,
-            "time": NumberLong(1488729830)
+            "time": 1488729830
         },
         {
             "factoryId": 1,
@@ -7418,7 +7418,7 @@ db.saleTransaction.insertMany (
             "customerId": 58,
             "totalPrice": 184.90204,
             "quantity": 12,
-            "time": NumberLong(1472236786)
+            "time": 1472236786
         },
         {
             "factoryId": 1,
@@ -7428,7 +7428,7 @@ db.saleTransaction.insertMany (
             "customerId": 1112,
             "totalPrice": 70.358894,
             "quantity": 5,
-            "time": NumberLong(1472614412)
+            "time": 1472614412
         },
         {
             "factoryId": 3,
@@ -7438,7 +7438,7 @@ db.saleTransaction.insertMany (
             "customerId": 1294,
             "totalPrice": 130.99254,
             "quantity": 4,
-            "time": NumberLong(1491656273)
+            "time": 1491656273
         },
         {
             "factoryId": 5,
@@ -7448,7 +7448,7 @@ db.saleTransaction.insertMany (
             "customerId": 183,
             "totalPrice": 142.26517,
             "quantity": 1,
-            "time": NumberLong(1462787225)
+            "time": 1462787225
         },
         {
             "factoryId": 2,
@@ -7458,7 +7458,7 @@ db.saleTransaction.insertMany (
             "customerId": 1592,
             "totalPrice": 118.33561,
             "quantity": 3,
-            "time": NumberLong(1493074324)
+            "time": 1493074324
         },
         {
             "factoryId": 6,
@@ -7468,7 +7468,7 @@ db.saleTransaction.insertMany (
             "customerId": 681,
             "totalPrice": 160.41486,
             "quantity": 8,
-            "time": NumberLong(1480102053)
+            "time": 1480102053
         },
         {
             "factoryId": 1,
@@ -7478,7 +7478,7 @@ db.saleTransaction.insertMany (
             "customerId": 459,
             "totalPrice": 103.02921,
             "quantity": 8,
-            "time": NumberLong(1469705498)
+            "time": 1469705498
         },
         {
             "factoryId": 6,
@@ -7488,7 +7488,7 @@ db.saleTransaction.insertMany (
             "customerId": 390,
             "totalPrice": 11.194698,
             "quantity": 5,
-            "time": NumberLong(1466129528)
+            "time": 1466129528
         },
         {
             "factoryId": 6,
@@ -7498,7 +7498,7 @@ db.saleTransaction.insertMany (
             "customerId": 645,
             "totalPrice": 111.1988,
             "quantity": 2,
-            "time": NumberLong(1482710163)
+            "time": 1482710163
         },
         {
             "factoryId": 4,
@@ -7508,7 +7508,7 @@ db.saleTransaction.insertMany (
             "customerId": 1702,
             "totalPrice": 2.1604753,
             "quantity": 6,
-            "time": NumberLong(1466979345)
+            "time": 1466979345
         },
         {
             "factoryId": 2,
@@ -7518,7 +7518,7 @@ db.saleTransaction.insertMany (
             "customerId": 411,
             "totalPrice": 23.684626,
             "quantity": 6,
-            "time": NumberLong(1488932046)
+            "time": 1488932046
         },
         {
             "factoryId": 6,
@@ -7528,7 +7528,7 @@ db.saleTransaction.insertMany (
             "customerId": 463,
             "totalPrice": 159.14323,
             "quantity": 12,
-            "time": NumberLong(1463083433)
+            "time": 1463083433
         },
         {
             "factoryId": 6,
@@ -7538,7 +7538,7 @@ db.saleTransaction.insertMany (
             "customerId": 656,
             "totalPrice": 15.225324,
             "quantity": 10,
-            "time": NumberLong(1485630840)
+            "time": 1485630840
         },
         {
             "factoryId": 5,
@@ -7548,7 +7548,7 @@ db.saleTransaction.insertMany (
             "customerId": 858,
             "totalPrice": 76.08438,
             "quantity": 4,
-            "time": NumberLong(1484127452)
+            "time": 1484127452
         },
         {
             "factoryId": 2,
@@ -7558,7 +7558,7 @@ db.saleTransaction.insertMany (
             "customerId": 628,
             "totalPrice": 63.841007,
             "quantity": 10,
-            "time": NumberLong(1482671474)
+            "time": 1482671474
         },
         {
             "factoryId": 4,
@@ -7568,7 +7568,7 @@ db.saleTransaction.insertMany (
             "customerId": 1850,
             "totalPrice": 193.2493,
             "quantity": 9,
-            "time": NumberLong(1475514234)
+            "time": 1475514234
         },
         {
             "factoryId": 4,
@@ -7578,7 +7578,7 @@ db.saleTransaction.insertMany (
             "customerId": 67,
             "totalPrice": 136.74902,
             "quantity": 10,
-            "time": NumberLong(1466313731)
+            "time": 1466313731
         },
         {
             "factoryId": 2,
@@ -7588,7 +7588,7 @@ db.saleTransaction.insertMany (
             "customerId": 1711,
             "totalPrice": 16.295658,
             "quantity": 8,
-            "time": NumberLong(1486682257)
+            "time": 1486682257
         },
         {
             "factoryId": 2,
@@ -7598,7 +7598,7 @@ db.saleTransaction.insertMany (
             "customerId": 1493,
             "totalPrice": 71.90264,
             "quantity": 11,
-            "time": NumberLong(1484120987)
+            "time": 1484120987
         },
         {
             "factoryId": 1,
@@ -7608,7 +7608,7 @@ db.saleTransaction.insertMany (
             "customerId": 985,
             "totalPrice": 178.5181,
             "quantity": 11,
-            "time": NumberLong(1492815106)
+            "time": 1492815106
         },
         {
             "factoryId": 2,
@@ -7618,7 +7618,7 @@ db.saleTransaction.insertMany (
             "customerId": 1339,
             "totalPrice": 133.96849,
             "quantity": 6,
-            "time": NumberLong(1473387853)
+            "time": 1473387853
         },
         {
             "factoryId": 5,
@@ -7628,7 +7628,7 @@ db.saleTransaction.insertMany (
             "customerId": 930,
             "totalPrice": 122.70347,
             "quantity": 3,
-            "time": NumberLong(1485954843)
+            "time": 1485954843
         },
         {
             "factoryId": 3,
@@ -7638,7 +7638,7 @@ db.saleTransaction.insertMany (
             "customerId": 1294,
             "totalPrice": 150.12308,
             "quantity": 12,
-            "time": NumberLong(1465629759)
+            "time": 1465629759
         },
         {
             "factoryId": 5,
@@ -7648,7 +7648,7 @@ db.saleTransaction.insertMany (
             "customerId": 247,
             "totalPrice": 41.567417,
             "quantity": 2,
-            "time": NumberLong(1467908693)
+            "time": 1467908693
         },
         {
             "factoryId": 1,
@@ -7658,7 +7658,7 @@ db.saleTransaction.insertMany (
             "customerId": 1525,
             "totalPrice": 38.90412,
             "quantity": 3,
-            "time": NumberLong(1488900237)
+            "time": 1488900237
         },
         {
             "factoryId": 4,
@@ -7668,7 +7668,7 @@ db.saleTransaction.insertMany (
             "customerId": 212,
             "totalPrice": 161.28157,
             "quantity": 5,
-            "time": NumberLong(1470458689)
+            "time": 1470458689
         },
         {
             "factoryId": 3,
@@ -7678,7 +7678,7 @@ db.saleTransaction.insertMany (
             "customerId": 1292,
             "totalPrice": 191.0246,
             "quantity": 7,
-            "time": NumberLong(1477675147)
+            "time": 1477675147
         },
         {
             "factoryId": 3,
@@ -7688,7 +7688,7 @@ db.saleTransaction.insertMany (
             "customerId": 1013,
             "totalPrice": 31.47095,
             "quantity": 12,
-            "time": NumberLong(1468876864)
+            "time": 1468876864
         },
         {
             "factoryId": 2,
@@ -7698,7 +7698,7 @@ db.saleTransaction.insertMany (
             "customerId": 1127,
             "totalPrice": 21.826706,
             "quantity": 12,
-            "time": NumberLong(1478665605)
+            "time": 1478665605
         },
         {
             "factoryId": 2,
@@ -7708,7 +7708,7 @@ db.saleTransaction.insertMany (
             "customerId": 1153,
             "totalPrice": 110.480675,
             "quantity": 12,
-            "time": NumberLong(1463169520)
+            "time": 1463169520
         },
         {
             "factoryId": 5,
@@ -7718,7 +7718,7 @@ db.saleTransaction.insertMany (
             "customerId": 904,
             "totalPrice": 163.2063,
             "quantity": 12,
-            "time": NumberLong(1493538495)
+            "time": 1493538495
         },
         {
             "factoryId": 5,
@@ -7728,7 +7728,7 @@ db.saleTransaction.insertMany (
             "customerId": 791,
             "totalPrice": 194.54352,
             "quantity": 3,
-            "time": NumberLong(1471173139)
+            "time": 1471173139
         },
         {
             "factoryId": 2,
@@ -7738,7 +7738,7 @@ db.saleTransaction.insertMany (
             "customerId": 1479,
             "totalPrice": 168.46928,
             "quantity": 3,
-            "time": NumberLong(1467574857)
+            "time": 1467574857
         },
         {
             "factoryId": 3,
@@ -7748,7 +7748,7 @@ db.saleTransaction.insertMany (
             "customerId": 1942,
             "totalPrice": 35.10985,
             "quantity": 11,
-            "time": NumberLong(1491187636)
+            "time": 1491187636
         },
         {
             "factoryId": 4,
@@ -7758,7 +7758,7 @@ db.saleTransaction.insertMany (
             "customerId": 320,
             "totalPrice": 3.9287603,
             "quantity": 8,
-            "time": NumberLong(1478070369)
+            "time": 1478070369
         },
         {
             "factoryId": 5,
@@ -7768,7 +7768,7 @@ db.saleTransaction.insertMany (
             "customerId": 105,
             "totalPrice": 177.09908,
             "quantity": 8,
-            "time": NumberLong(1477642250)
+            "time": 1477642250
         },
         {
             "factoryId": 4,
@@ -7778,7 +7778,7 @@ db.saleTransaction.insertMany (
             "customerId": 213,
             "totalPrice": 2.8419647,
             "quantity": 1,
-            "time": NumberLong(1463110284)
+            "time": 1463110284
         },
         {
             "factoryId": 4,
@@ -7788,7 +7788,7 @@ db.saleTransaction.insertMany (
             "customerId": 517,
             "totalPrice": 22.843824,
             "quantity": 10,
-            "time": NumberLong(1464609795)
+            "time": 1464609795
         },
         {
             "factoryId": 3,
@@ -7798,7 +7798,7 @@ db.saleTransaction.insertMany (
             "customerId": 1766,
             "totalPrice": 90.4586,
             "quantity": 5,
-            "time": NumberLong(1469657484)
+            "time": 1469657484
         },
         {
             "factoryId": 3,
@@ -7808,7 +7808,7 @@ db.saleTransaction.insertMany (
             "customerId": 747,
             "totalPrice": 47.575073,
             "quantity": 4,
-            "time": NumberLong(1487206970)
+            "time": 1487206970
         },
         {
             "factoryId": 2,
@@ -7818,7 +7818,7 @@ db.saleTransaction.insertMany (
             "customerId": 1176,
             "totalPrice": 93.19404,
             "quantity": 8,
-            "time": NumberLong(1482435611)
+            "time": 1482435611
         },
         {
             "factoryId": 2,
@@ -7828,7 +7828,7 @@ db.saleTransaction.insertMany (
             "customerId": 365,
             "totalPrice": 51.821693,
             "quantity": 3,
-            "time": NumberLong(1467441445)
+            "time": 1467441445
         },
         {
             "factoryId": 4,
@@ -7838,7 +7838,7 @@ db.saleTransaction.insertMany (
             "customerId": 167,
             "totalPrice": 85.86869,
             "quantity": 5,
-            "time": NumberLong(1469141239)
+            "time": 1469141239
         },
         {
             "factoryId": 6,
@@ -7848,7 +7848,7 @@ db.saleTransaction.insertMany (
             "customerId": 510,
             "totalPrice": 31.39308,
             "quantity": 2,
-            "time": NumberLong(1466952883)
+            "time": 1466952883
         },
         {
             "factoryId": 4,
@@ -7858,7 +7858,7 @@ db.saleTransaction.insertMany (
             "customerId": 1970,
             "totalPrice": 143.28603,
             "quantity": 2,
-            "time": NumberLong(1471194644)
+            "time": 1471194644
         },
         {
             "factoryId": 1,
@@ -7868,7 +7868,7 @@ db.saleTransaction.insertMany (
             "customerId": 1048,
             "totalPrice": 83.79929,
             "quantity": 11,
-            "time": NumberLong(1492455950)
+            "time": 1492455950
         },
         {
             "factoryId": 4,
@@ -7878,7 +7878,7 @@ db.saleTransaction.insertMany (
             "customerId": 1209,
             "totalPrice": 94.07145,
             "quantity": 2,
-            "time": NumberLong(1475680505)
+            "time": 1475680505
         },
         {
             "factoryId": 5,
@@ -7888,7 +7888,7 @@ db.saleTransaction.insertMany (
             "customerId": 933,
             "totalPrice": 63.890125,
             "quantity": 12,
-            "time": NumberLong(1471942442)
+            "time": 1471942442
         },
         {
             "factoryId": 4,
@@ -7898,7 +7898,7 @@ db.saleTransaction.insertMany (
             "customerId": 667,
             "totalPrice": 182.21895,
             "quantity": 2,
-            "time": NumberLong(1489206170)
+            "time": 1489206170
         },
         {
             "factoryId": 2,
@@ -7908,7 +7908,7 @@ db.saleTransaction.insertMany (
             "customerId": 1879,
             "totalPrice": 125.56373,
             "quantity": 3,
-            "time": NumberLong(1487583285)
+            "time": 1487583285
         },
         {
             "factoryId": 3,
@@ -7918,7 +7918,7 @@ db.saleTransaction.insertMany (
             "customerId": 716,
             "totalPrice": 88.20164,
             "quantity": 9,
-            "time": NumberLong(1480855603)
+            "time": 1480855603
         },
         {
             "factoryId": 3,
@@ -7928,7 +7928,7 @@ db.saleTransaction.insertMany (
             "customerId": 1496,
             "totalPrice": 65.6061,
             "quantity": 11,
-            "time": NumberLong(1470138377)
+            "time": 1470138377
         },
         {
             "factoryId": 5,
@@ -7938,7 +7938,7 @@ db.saleTransaction.insertMany (
             "customerId": 71,
             "totalPrice": 146.33092,
             "quantity": 4,
-            "time": NumberLong(1486094167)
+            "time": 1486094167
         },
         {
             "factoryId": 5,
@@ -7948,7 +7948,7 @@ db.saleTransaction.insertMany (
             "customerId": 194,
             "totalPrice": 136.62001,
             "quantity": 4,
-            "time": NumberLong(1484040675)
+            "time": 1484040675
         },
         {
             "factoryId": 5,
@@ -7958,7 +7958,7 @@ db.saleTransaction.insertMany (
             "customerId": 921,
             "totalPrice": 38.971752,
             "quantity": 9,
-            "time": NumberLong(1464467228)
+            "time": 1464467228
         },
         {
             "factoryId": 3,
@@ -7968,7 +7968,7 @@ db.saleTransaction.insertMany (
             "customerId": 952,
             "totalPrice": 40.759438,
             "quantity": 10,
-            "time": NumberLong(1476577897)
+            "time": 1476577897
         },
         {
             "factoryId": 5,
@@ -7978,7 +7978,7 @@ db.saleTransaction.insertMany (
             "customerId": 1111,
             "totalPrice": 181.45842,
             "quantity": 9,
-            "time": NumberLong(1471783495)
+            "time": 1471783495
         },
         {
             "factoryId": 4,
@@ -7988,7 +7988,7 @@ db.saleTransaction.insertMany (
             "customerId": 1608,
             "totalPrice": 159.12648,
             "quantity": 6,
-            "time": NumberLong(1463671301)
+            "time": 1463671301
         },
         {
             "factoryId": 1,
@@ -7998,7 +7998,7 @@ db.saleTransaction.insertMany (
             "customerId": 1478,
             "totalPrice": 74.45522,
             "quantity": 7,
-            "time": NumberLong(1491095743)
+            "time": 1491095743
         },
         {
             "factoryId": 2,
@@ -8008,7 +8008,7 @@ db.saleTransaction.insertMany (
             "customerId": 1577,
             "totalPrice": 6.3092427,
             "quantity": 3,
-            "time": NumberLong(1486170440)
+            "time": 1486170440
         },
         {
             "factoryId": 1,
@@ -8018,7 +8018,7 @@ db.saleTransaction.insertMany (
             "customerId": 454,
             "totalPrice": 166.85858,
             "quantity": 3,
-            "time": NumberLong(1467636261)
+            "time": 1467636261
         },
         {
             "factoryId": 5,
@@ -8028,7 +8028,7 @@ db.saleTransaction.insertMany (
             "customerId": 700,
             "totalPrice": 32.79843,
             "quantity": 3,
-            "time": NumberLong(1479223291)
+            "time": 1479223291
         },
         {
             "factoryId": 4,
@@ -8038,7 +8038,7 @@ db.saleTransaction.insertMany (
             "customerId": 1901,
             "totalPrice": 127.05967,
             "quantity": 2,
-            "time": NumberLong(1466895113)
+            "time": 1466895113
         },
         {
             "factoryId": 3,
@@ -8048,7 +8048,7 @@ db.saleTransaction.insertMany (
             "customerId": 633,
             "totalPrice": 92.58999,
             "quantity": 9,
-            "time": NumberLong(1476851547)
+            "time": 1476851547
         },
         {
             "factoryId": 4,
@@ -8058,7 +8058,7 @@ db.saleTransaction.insertMany (
             "customerId": 562,
             "totalPrice": 135.09491,
             "quantity": 9,
-            "time": NumberLong(1478346590)
+            "time": 1478346590
         },
         {
             "factoryId": 3,
@@ -8068,7 +8068,7 @@ db.saleTransaction.insertMany (
             "customerId": 1107,
             "totalPrice": 7.3431273,
             "quantity": 1,
-            "time": NumberLong(1475139676)
+            "time": 1475139676
         },
         {
             "factoryId": 2,
@@ -8078,7 +8078,7 @@ db.saleTransaction.insertMany (
             "customerId": 470,
             "totalPrice": 137.492,
             "quantity": 3,
-            "time": NumberLong(1479316440)
+            "time": 1479316440
         },
         {
             "factoryId": 2,
@@ -8088,7 +8088,7 @@ db.saleTransaction.insertMany (
             "customerId": 1906,
             "totalPrice": 1.6499866,
             "quantity": 5,
-            "time": NumberLong(1491587013)
+            "time": 1491587013
         },
         {
             "factoryId": 3,
@@ -8098,7 +8098,7 @@ db.saleTransaction.insertMany (
             "customerId": 187,
             "totalPrice": 34.199543,
             "quantity": 8,
-            "time": NumberLong(1482606582)
+            "time": 1482606582
         },
         {
             "factoryId": 6,
@@ -8108,7 +8108,7 @@ db.saleTransaction.insertMany (
             "customerId": 1209,
             "totalPrice": 167.46158,
             "quantity": 8,
-            "time": NumberLong(1484014316)
+            "time": 1484014316
         },
         {
             "factoryId": 6,
@@ -8118,7 +8118,7 @@ db.saleTransaction.insertMany (
             "customerId": 314,
             "totalPrice": 195.03226,
             "quantity": 4,
-            "time": NumberLong(1480338036)
+            "time": 1480338036
         },
         {
             "factoryId": 3,
@@ -8128,7 +8128,7 @@ db.saleTransaction.insertMany (
             "customerId": 1432,
             "totalPrice": 134.14227,
             "quantity": 1,
-            "time": NumberLong(1478795356)
+            "time": 1478795356
         },
         {
             "factoryId": 5,
@@ -8138,7 +8138,7 @@ db.saleTransaction.insertMany (
             "customerId": 1033,
             "totalPrice": 180.33386,
             "quantity": 8,
-            "time": NumberLong(1469409534)
+            "time": 1469409534
         },
         {
             "factoryId": 6,
@@ -8148,7 +8148,7 @@ db.saleTransaction.insertMany (
             "customerId": 360,
             "totalPrice": 31.33777,
             "quantity": 6,
-            "time": NumberLong(1473212831)
+            "time": 1473212831
         },
         {
             "factoryId": 6,
@@ -8158,7 +8158,7 @@ db.saleTransaction.insertMany (
             "customerId": 786,
             "totalPrice": 26.114347,
             "quantity": 1,
-            "time": NumberLong(1492701866)
+            "time": 1492701866
         },
         {
             "factoryId": 4,
@@ -8168,7 +8168,7 @@ db.saleTransaction.insertMany (
             "customerId": 21,
             "totalPrice": 161.5588,
             "quantity": 11,
-            "time": NumberLong(1487754228)
+            "time": 1487754228
         },
         {
             "factoryId": 1,
@@ -8178,7 +8178,7 @@ db.saleTransaction.insertMany (
             "customerId": 532,
             "totalPrice": 197.0532,
             "quantity": 8,
-            "time": NumberLong(1493886797)
+            "time": 1493886797
         },
         {
             "factoryId": 1,
@@ -8188,7 +8188,7 @@ db.saleTransaction.insertMany (
             "customerId": 1980,
             "totalPrice": 165.41158,
             "quantity": 9,
-            "time": NumberLong(1465444810)
+            "time": 1465444810
         },
         {
             "factoryId": 1,
@@ -8198,7 +8198,7 @@ db.saleTransaction.insertMany (
             "customerId": 1262,
             "totalPrice": 165.32567,
             "quantity": 9,
-            "time": NumberLong(1478190514)
+            "time": 1478190514
         },
         {
             "factoryId": 4,
@@ -8208,7 +8208,7 @@ db.saleTransaction.insertMany (
             "customerId": 86,
             "totalPrice": 133.93665,
             "quantity": 9,
-            "time": NumberLong(1487547376)
+            "time": 1487547376
         },
         {
             "factoryId": 6,
@@ -8218,7 +8218,7 @@ db.saleTransaction.insertMany (
             "customerId": 1227,
             "totalPrice": 145.2828,
             "quantity": 9,
-            "time": NumberLong(1462954096)
+            "time": 1462954096
         },
         {
             "factoryId": 6,
@@ -8228,7 +8228,7 @@ db.saleTransaction.insertMany (
             "customerId": 1480,
             "totalPrice": 161.46542,
             "quantity": 6,
-            "time": NumberLong(1491705554)
+            "time": 1491705554
         },
         {
             "factoryId": 3,
@@ -8238,7 +8238,7 @@ db.saleTransaction.insertMany (
             "customerId": 1926,
             "totalPrice": 19.36493,
             "quantity": 5,
-            "time": NumberLong(1470604873)
+            "time": 1470604873
         },
         {
             "factoryId": 1,
@@ -8248,7 +8248,7 @@ db.saleTransaction.insertMany (
             "customerId": 744,
             "totalPrice": 66.823616,
             "quantity": 8,
-            "time": NumberLong(1475124257)
+            "time": 1475124257
         },
         {
             "factoryId": 2,
@@ -8258,7 +8258,7 @@ db.saleTransaction.insertMany (
             "customerId": 166,
             "totalPrice": 144.20459,
             "quantity": 9,
-            "time": NumberLong(1486178351)
+            "time": 1486178351
         },
         {
             "factoryId": 5,
@@ -8268,7 +8268,7 @@ db.saleTransaction.insertMany (
             "customerId": 708,
             "totalPrice": 91.51501,
             "quantity": 5,
-            "time": NumberLong(1492612287)
+            "time": 1492612287
         },
         {
             "factoryId": 4,
@@ -8278,7 +8278,7 @@ db.saleTransaction.insertMany (
             "customerId": 315,
             "totalPrice": 187.14592,
             "quantity": 11,
-            "time": NumberLong(1481814677)
+            "time": 1481814677
         },
         {
             "factoryId": 4,
@@ -8288,7 +8288,7 @@ db.saleTransaction.insertMany (
             "customerId": 28,
             "totalPrice": 46.628216,
             "quantity": 4,
-            "time": NumberLong(1486645675)
+            "time": 1486645675
         },
         {
             "factoryId": 5,
@@ -8298,7 +8298,7 @@ db.saleTransaction.insertMany (
             "customerId": 270,
             "totalPrice": 169.65189,
             "quantity": 11,
-            "time": NumberLong(1486466944)
+            "time": 1486466944
         },
         {
             "factoryId": 2,
@@ -8308,7 +8308,7 @@ db.saleTransaction.insertMany (
             "customerId": 1021,
             "totalPrice": 74.97108,
             "quantity": 4,
-            "time": NumberLong(1484448793)
+            "time": 1484448793
         },
         {
             "factoryId": 5,
@@ -8318,7 +8318,7 @@ db.saleTransaction.insertMany (
             "customerId": 501,
             "totalPrice": 60.8298,
             "quantity": 6,
-            "time": NumberLong(1483197948)
+            "time": 1483197948
         },
         {
             "factoryId": 5,
@@ -8328,7 +8328,7 @@ db.saleTransaction.insertMany (
             "customerId": 1256,
             "totalPrice": 43.359425,
             "quantity": 1,
-            "time": NumberLong(1463171863)
+            "time": 1463171863
         },
         {
             "factoryId": 5,
@@ -8338,7 +8338,7 @@ db.saleTransaction.insertMany (
             "customerId": 1033,
             "totalPrice": 143.75818,
             "quantity": 6,
-            "time": NumberLong(1464244884)
+            "time": 1464244884
         },
         {
             "factoryId": 6,
@@ -8348,7 +8348,7 @@ db.saleTransaction.insertMany (
             "customerId": 846,
             "totalPrice": 17.554176,
             "quantity": 3,
-            "time": NumberLong(1465622155)
+            "time": 1465622155
         },
         {
             "factoryId": 1,
@@ -8358,7 +8358,7 @@ db.saleTransaction.insertMany (
             "customerId": 952,
             "totalPrice": 74.0942,
             "quantity": 7,
-            "time": NumberLong(1484021326)
+            "time": 1484021326
         },
         {
             "factoryId": 2,
@@ -8368,7 +8368,7 @@ db.saleTransaction.insertMany (
             "customerId": 1789,
             "totalPrice": 160.20908,
             "quantity": 3,
-            "time": NumberLong(1493191971)
+            "time": 1493191971
         },
         {
             "factoryId": 3,
@@ -8378,7 +8378,7 @@ db.saleTransaction.insertMany (
             "customerId": 1349,
             "totalPrice": 7.6507196,
             "quantity": 4,
-            "time": NumberLong(1483356440)
+            "time": 1483356440
         },
         {
             "factoryId": 5,
@@ -8388,7 +8388,7 @@ db.saleTransaction.insertMany (
             "customerId": 881,
             "totalPrice": 87.473404,
             "quantity": 3,
-            "time": NumberLong(1472492969)
+            "time": 1472492969
         },
         {
             "factoryId": 1,
@@ -8398,7 +8398,7 @@ db.saleTransaction.insertMany (
             "customerId": 289,
             "totalPrice": 199.25842,
             "quantity": 6,
-            "time": NumberLong(1464118105)
+            "time": 1464118105
         },
         {
             "factoryId": 1,
@@ -8408,7 +8408,7 @@ db.saleTransaction.insertMany (
             "customerId": 1579,
             "totalPrice": 88.89458,
             "quantity": 4,
-            "time": NumberLong(1473490908)
+            "time": 1473490908
         },
         {
             "factoryId": 3,
@@ -8418,7 +8418,7 @@ db.saleTransaction.insertMany (
             "customerId": 351,
             "totalPrice": 161.1409,
             "quantity": 8,
-            "time": NumberLong(1463675459)
+            "time": 1463675459
         },
         {
             "factoryId": 4,
@@ -8428,7 +8428,7 @@ db.saleTransaction.insertMany (
             "customerId": 1360,
             "totalPrice": 177.97656,
             "quantity": 9,
-            "time": NumberLong(1471651807)
+            "time": 1471651807
         },
         {
             "factoryId": 6,
@@ -8438,7 +8438,7 @@ db.saleTransaction.insertMany (
             "customerId": 1348,
             "totalPrice": 126.540596,
             "quantity": 11,
-            "time": NumberLong(1471306893)
+            "time": 1471306893
         },
         {
             "factoryId": 6,
@@ -8448,7 +8448,7 @@ db.saleTransaction.insertMany (
             "customerId": 797,
             "totalPrice": 98.559784,
             "quantity": 4,
-            "time": NumberLong(1482203854)
+            "time": 1482203854
         },
         {
             "factoryId": 6,
@@ -8458,7 +8458,7 @@ db.saleTransaction.insertMany (
             "customerId": 1182,
             "totalPrice": 176.56827,
             "quantity": 4,
-            "time": NumberLong(1480433716)
+            "time": 1480433716
         },
         {
             "factoryId": 5,
@@ -8468,7 +8468,7 @@ db.saleTransaction.insertMany (
             "customerId": 1426,
             "totalPrice": 149.85431,
             "quantity": 1,
-            "time": NumberLong(1474773582)
+            "time": 1474773582
         },
         {
             "factoryId": 5,
@@ -8478,7 +8478,7 @@ db.saleTransaction.insertMany (
             "customerId": 105,
             "totalPrice": 73.12274,
             "quantity": 12,
-            "time": NumberLong(1473314827)
+            "time": 1473314827
         },
         {
             "factoryId": 2,
@@ -8488,7 +8488,7 @@ db.saleTransaction.insertMany (
             "customerId": 391,
             "totalPrice": 23.363514,
             "quantity": 2,
-            "time": NumberLong(1486257410)
+            "time": 1486257410
         },
         {
             "factoryId": 2,
@@ -8498,7 +8498,7 @@ db.saleTransaction.insertMany (
             "customerId": 578,
             "totalPrice": 165.85571,
             "quantity": 3,
-            "time": NumberLong(1487388161)
+            "time": 1487388161
         },
         {
             "factoryId": 1,
@@ -8508,7 +8508,7 @@ db.saleTransaction.insertMany (
             "customerId": 464,
             "totalPrice": 34.274307,
             "quantity": 11,
-            "time": NumberLong(1476850654)
+            "time": 1476850654
         },
         {
             "factoryId": 2,
@@ -8518,7 +8518,7 @@ db.saleTransaction.insertMany (
             "customerId": 1242,
             "totalPrice": 20.383411,
             "quantity": 7,
-            "time": NumberLong(1492358163)
+            "time": 1492358163
         },
         {
             "factoryId": 2,
@@ -8528,7 +8528,7 @@ db.saleTransaction.insertMany (
             "customerId": 614,
             "totalPrice": 151.85333,
             "quantity": 8,
-            "time": NumberLong(1468765398)
+            "time": 1468765398
         },
         {
             "factoryId": 4,
@@ -8538,7 +8538,7 @@ db.saleTransaction.insertMany (
             "customerId": 555,
             "totalPrice": 178.00827,
             "quantity": 12,
-            "time": NumberLong(1492910959)
+            "time": 1492910959
         },
         {
             "factoryId": 3,
@@ -8548,7 +8548,7 @@ db.saleTransaction.insertMany (
             "customerId": 190,
             "totalPrice": 26.146614,
             "quantity": 4,
-            "time": NumberLong(1478018955)
+            "time": 1478018955
         },
         {
             "factoryId": 4,
@@ -8558,7 +8558,7 @@ db.saleTransaction.insertMany (
             "customerId": 1424,
             "totalPrice": 78.82212,
             "quantity": 4,
-            "time": NumberLong(1472060593)
+            "time": 1472060593
         },
         {
             "factoryId": 4,
@@ -8568,7 +8568,7 @@ db.saleTransaction.insertMany (
             "customerId": 1944,
             "totalPrice": 152.07732,
             "quantity": 7,
-            "time": NumberLong(1466807402)
+            "time": 1466807402
         },
         {
             "factoryId": 6,
@@ -8578,7 +8578,7 @@ db.saleTransaction.insertMany (
             "customerId": 1655,
             "totalPrice": 25.68257,
             "quantity": 9,
-            "time": NumberLong(1489271152)
+            "time": 1489271152
         },
         {
             "factoryId": 6,
@@ -8588,7 +8588,7 @@ db.saleTransaction.insertMany (
             "customerId": 477,
             "totalPrice": 71.78747,
             "quantity": 4,
-            "time": NumberLong(1476424946)
+            "time": 1476424946
         },
         {
             "factoryId": 2,
@@ -8598,7 +8598,7 @@ db.saleTransaction.insertMany (
             "customerId": 1693,
             "totalPrice": 93.747284,
             "quantity": 4,
-            "time": NumberLong(1470715424)
+            "time": 1470715424
         },
         {
             "factoryId": 6,
@@ -8608,7 +8608,7 @@ db.saleTransaction.insertMany (
             "customerId": 1807,
             "totalPrice": 163.78647,
             "quantity": 5,
-            "time": NumberLong(1468155079)
+            "time": 1468155079
         },
         {
             "factoryId": 4,
@@ -8618,7 +8618,7 @@ db.saleTransaction.insertMany (
             "customerId": 902,
             "totalPrice": 178.15024,
             "quantity": 3,
-            "time": NumberLong(1484649019)
+            "time": 1484649019
         },
         {
             "factoryId": 4,
@@ -8628,7 +8628,7 @@ db.saleTransaction.insertMany (
             "customerId": 342,
             "totalPrice": 172.01659,
             "quantity": 3,
-            "time": NumberLong(1492342447)
+            "time": 1492342447
         },
         {
             "factoryId": 6,
@@ -8638,7 +8638,7 @@ db.saleTransaction.insertMany (
             "customerId": 467,
             "totalPrice": 132.0972,
             "quantity": 8,
-            "time": NumberLong(1487412293)
+            "time": 1487412293
         },
         {
             "factoryId": 6,
@@ -8648,7 +8648,7 @@ db.saleTransaction.insertMany (
             "customerId": 1198,
             "totalPrice": 122.34273,
             "quantity": 1,
-            "time": NumberLong(1479004497)
+            "time": 1479004497
         },
         {
             "factoryId": 5,
@@ -8658,7 +8658,7 @@ db.saleTransaction.insertMany (
             "customerId": 1905,
             "totalPrice": 87.82347,
             "quantity": 9,
-            "time": NumberLong(1463218363)
+            "time": 1463218363
         },
         {
             "factoryId": 1,
@@ -8668,7 +8668,7 @@ db.saleTransaction.insertMany (
             "customerId": 280,
             "totalPrice": 10.97968,
             "quantity": 3,
-            "time": NumberLong(1467729284)
+            "time": 1467729284
         },
         {
             "factoryId": 4,
@@ -8678,7 +8678,7 @@ db.saleTransaction.insertMany (
             "customerId": 1683,
             "totalPrice": 137.98102,
             "quantity": 11,
-            "time": NumberLong(1464506995)
+            "time": 1464506995
         },
         {
             "factoryId": 3,
@@ -8688,7 +8688,7 @@ db.saleTransaction.insertMany (
             "customerId": 1970,
             "totalPrice": 75.56153,
             "quantity": 1,
-            "time": NumberLong(1478942373)
+            "time": 1478942373
         },
         {
             "factoryId": 1,
@@ -8698,7 +8698,7 @@ db.saleTransaction.insertMany (
             "customerId": 1413,
             "totalPrice": 23.955608,
             "quantity": 7,
-            "time": NumberLong(1486921684)
+            "time": 1486921684
         },
         {
             "factoryId": 4,
@@ -8708,7 +8708,7 @@ db.saleTransaction.insertMany (
             "customerId": 203,
             "totalPrice": 125.35084,
             "quantity": 3,
-            "time": NumberLong(1469364290)
+            "time": 1469364290
         },
         {
             "factoryId": 2,
@@ -8718,7 +8718,7 @@ db.saleTransaction.insertMany (
             "customerId": 515,
             "totalPrice": 177.06216,
             "quantity": 12,
-            "time": NumberLong(1483477073)
+            "time": 1483477073
         },
         {
             "factoryId": 2,
@@ -8728,7 +8728,7 @@ db.saleTransaction.insertMany (
             "customerId": 1448,
             "totalPrice": 133.49028,
             "quantity": 11,
-            "time": NumberLong(1490859748)
+            "time": 1490859748
         },
         {
             "factoryId": 1,
@@ -8738,7 +8738,7 @@ db.saleTransaction.insertMany (
             "customerId": 1399,
             "totalPrice": 92.20479,
             "quantity": 3,
-            "time": NumberLong(1466140450)
+            "time": 1466140450
         },
         {
             "factoryId": 4,
@@ -8748,7 +8748,7 @@ db.saleTransaction.insertMany (
             "customerId": 161,
             "totalPrice": 173.64566,
             "quantity": 7,
-            "time": NumberLong(1470371325)
+            "time": 1470371325
         },
         {
             "factoryId": 1,
@@ -8758,7 +8758,7 @@ db.saleTransaction.insertMany (
             "customerId": 1592,
             "totalPrice": 7.534654,
             "quantity": 2,
-            "time": NumberLong(1483883788)
+            "time": 1483883788
         },
         {
             "factoryId": 4,
@@ -8768,7 +8768,7 @@ db.saleTransaction.insertMany (
             "customerId": 1236,
             "totalPrice": 121.68836,
             "quantity": 2,
-            "time": NumberLong(1491173000)
+            "time": 1491173000
         },
         {
             "factoryId": 3,
@@ -8778,7 +8778,7 @@ db.saleTransaction.insertMany (
             "customerId": 768,
             "totalPrice": 146.41348,
             "quantity": 11,
-            "time": NumberLong(1463777666)
+            "time": 1463777666
         },
         {
             "factoryId": 1,
@@ -8788,7 +8788,7 @@ db.saleTransaction.insertMany (
             "customerId": 250,
             "totalPrice": 70.312675,
             "quantity": 11,
-            "time": NumberLong(1483038946)
+            "time": 1483038946
         },
         {
             "factoryId": 1,
@@ -8798,7 +8798,7 @@ db.saleTransaction.insertMany (
             "customerId": 1673,
             "totalPrice": 122.353264,
             "quantity": 1,
-            "time": NumberLong(1486362454)
+            "time": 1486362454
         },
         {
             "factoryId": 3,
@@ -8808,7 +8808,7 @@ db.saleTransaction.insertMany (
             "customerId": 139,
             "totalPrice": 180.01215,
             "quantity": 2,
-            "time": NumberLong(1486476553)
+            "time": 1486476553
         },
         {
             "factoryId": 6,
@@ -8818,7 +8818,7 @@ db.saleTransaction.insertMany (
             "customerId": 768,
             "totalPrice": 3.0599418,
             "quantity": 3,
-            "time": NumberLong(1486624702)
+            "time": 1486624702
         },
         {
             "factoryId": 1,
@@ -8828,7 +8828,7 @@ db.saleTransaction.insertMany (
             "customerId": 199,
             "totalPrice": 21.4847,
             "quantity": 3,
-            "time": NumberLong(1468485758)
+            "time": 1468485758
         },
         {
             "factoryId": 5,
@@ -8838,7 +8838,7 @@ db.saleTransaction.insertMany (
             "customerId": 616,
             "totalPrice": 120.133896,
             "quantity": 3,
-            "time": NumberLong(1483853478)
+            "time": 1483853478
         },
         {
             "factoryId": 2,
@@ -8848,7 +8848,7 @@ db.saleTransaction.insertMany (
             "customerId": 1093,
             "totalPrice": 96.3983,
             "quantity": 2,
-            "time": NumberLong(1487245756)
+            "time": 1487245756
         },
         {
             "factoryId": 2,
@@ -8858,7 +8858,7 @@ db.saleTransaction.insertMany (
             "customerId": 341,
             "totalPrice": 11.133337,
             "quantity": 1,
-            "time": NumberLong(1466494000)
+            "time": 1466494000
         },
         {
             "factoryId": 2,
@@ -8868,7 +8868,7 @@ db.saleTransaction.insertMany (
             "customerId": 941,
             "totalPrice": 134.62909,
             "quantity": 9,
-            "time": NumberLong(1489038195)
+            "time": 1489038195
         },
         {
             "factoryId": 4,
@@ -8878,7 +8878,7 @@ db.saleTransaction.insertMany (
             "customerId": 1836,
             "totalPrice": 90.19103,
             "quantity": 10,
-            "time": NumberLong(1464653458)
+            "time": 1464653458
         },
         {
             "factoryId": 3,
@@ -8888,7 +8888,7 @@ db.saleTransaction.insertMany (
             "customerId": 1747,
             "totalPrice": 75.68399,
             "quantity": 3,
-            "time": NumberLong(1468849102)
+            "time": 1468849102
         },
         {
             "factoryId": 5,
@@ -8898,7 +8898,7 @@ db.saleTransaction.insertMany (
             "customerId": 1907,
             "totalPrice": 79.148094,
             "quantity": 1,
-            "time": NumberLong(1481159107)
+            "time": 1481159107
         },
         {
             "factoryId": 1,
@@ -8908,7 +8908,7 @@ db.saleTransaction.insertMany (
             "customerId": 1399,
             "totalPrice": 37.083046,
             "quantity": 5,
-            "time": NumberLong(1472234420)
+            "time": 1472234420
         },
         {
             "factoryId": 5,
@@ -8918,7 +8918,7 @@ db.saleTransaction.insertMany (
             "customerId": 1479,
             "totalPrice": 130.76892,
             "quantity": 10,
-            "time": NumberLong(1465679141)
+            "time": 1465679141
         },
         {
             "factoryId": 1,
@@ -8928,7 +8928,7 @@ db.saleTransaction.insertMany (
             "customerId": 1133,
             "totalPrice": 111.10006,
             "quantity": 9,
-            "time": NumberLong(1469877900)
+            "time": 1469877900
         },
         {
             "factoryId": 1,
@@ -8938,7 +8938,7 @@ db.saleTransaction.insertMany (
             "customerId": 1884,
             "totalPrice": 58.7668,
             "quantity": 9,
-            "time": NumberLong(1464782620)
+            "time": 1464782620
         },
         {
             "factoryId": 1,
@@ -8948,7 +8948,7 @@ db.saleTransaction.insertMany (
             "customerId": 212,
             "totalPrice": 183.72256,
             "quantity": 1,
-            "time": NumberLong(1465243957)
+            "time": 1465243957
         },
         {
             "factoryId": 4,
@@ -8958,7 +8958,7 @@ db.saleTransaction.insertMany (
             "customerId": 1528,
             "totalPrice": 176.33717,
             "quantity": 10,
-            "time": NumberLong(1490257719)
+            "time": 1490257719
         },
         {
             "factoryId": 3,
@@ -8968,7 +8968,7 @@ db.saleTransaction.insertMany (
             "customerId": 1169,
             "totalPrice": 37.70791,
             "quantity": 6,
-            "time": NumberLong(1473483213)
+            "time": 1473483213
         },
         {
             "factoryId": 2,
@@ -8978,7 +8978,7 @@ db.saleTransaction.insertMany (
             "customerId": 42,
             "totalPrice": 52.26312,
             "quantity": 8,
-            "time": NumberLong(1484723118)
+            "time": 1484723118
         },
         {
             "factoryId": 4,
@@ -8988,7 +8988,7 @@ db.saleTransaction.insertMany (
             "customerId": 1239,
             "totalPrice": 175.86133,
             "quantity": 10,
-            "time": NumberLong(1486087671)
+            "time": 1486087671
         },
         {
             "factoryId": 1,
@@ -8998,7 +8998,7 @@ db.saleTransaction.insertMany (
             "customerId": 1578,
             "totalPrice": 132.78758,
             "quantity": 12,
-            "time": NumberLong(1493301682)
+            "time": 1493301682
         },
         {
             "factoryId": 3,
@@ -9008,7 +9008,7 @@ db.saleTransaction.insertMany (
             "customerId": 1704,
             "totalPrice": 129.95493,
             "quantity": 11,
-            "time": NumberLong(1480735085)
+            "time": 1480735085
         },
         {
             "factoryId": 1,
@@ -9018,7 +9018,7 @@ db.saleTransaction.insertMany (
             "customerId": 955,
             "totalPrice": 125.57163,
             "quantity": 8,
-            "time": NumberLong(1476623999)
+            "time": 1476623999
         },
         {
             "factoryId": 1,
@@ -9028,7 +9028,7 @@ db.saleTransaction.insertMany (
             "customerId": 1502,
             "totalPrice": 142.60626,
             "quantity": 4,
-            "time": NumberLong(1486306021)
+            "time": 1486306021
         },
         {
             "factoryId": 4,
@@ -9038,7 +9038,7 @@ db.saleTransaction.insertMany (
             "customerId": 1604,
             "totalPrice": 172.2884,
             "quantity": 3,
-            "time": NumberLong(1482455393)
+            "time": 1482455393
         },
         {
             "factoryId": 1,
@@ -9048,7 +9048,7 @@ db.saleTransaction.insertMany (
             "customerId": 1946,
             "totalPrice": 70.321655,
             "quantity": 1,
-            "time": NumberLong(1488938379)
+            "time": 1488938379
         },
         {
             "factoryId": 2,
@@ -9058,7 +9058,7 @@ db.saleTransaction.insertMany (
             "customerId": 1099,
             "totalPrice": 72.84702,
             "quantity": 1,
-            "time": NumberLong(1468105531)
+            "time": 1468105531
         },
         {
             "factoryId": 1,
@@ -9068,7 +9068,7 @@ db.saleTransaction.insertMany (
             "customerId": 396,
             "totalPrice": 142.04518,
             "quantity": 11,
-            "time": NumberLong(1473715968)
+            "time": 1473715968
         },
         {
             "factoryId": 1,
@@ -9078,7 +9078,7 @@ db.saleTransaction.insertMany (
             "customerId": 1913,
             "totalPrice": 177.4571,
             "quantity": 9,
-            "time": NumberLong(1490377657)
+            "time": 1490377657
         },
         {
             "factoryId": 1,
@@ -9088,7 +9088,7 @@ db.saleTransaction.insertMany (
             "customerId": 1981,
             "totalPrice": 80.45431,
             "quantity": 9,
-            "time": NumberLong(1466693932)
+            "time": 1466693932
         },
         {
             "factoryId": 4,
@@ -9098,7 +9098,7 @@ db.saleTransaction.insertMany (
             "customerId": 335,
             "totalPrice": 27.007889,
             "quantity": 2,
-            "time": NumberLong(1483255977)
+            "time": 1483255977
         },
         {
             "factoryId": 3,
@@ -9108,7 +9108,7 @@ db.saleTransaction.insertMany (
             "customerId": 1269,
             "totalPrice": 131.89116,
             "quantity": 3,
-            "time": NumberLong(1477607361)
+            "time": 1477607361
         },
         {
             "factoryId": 4,
@@ -9118,7 +9118,7 @@ db.saleTransaction.insertMany (
             "customerId": 1029,
             "totalPrice": 76.86923,
             "quantity": 6,
-            "time": NumberLong(1467077732)
+            "time": 1467077732
         },
         {
             "factoryId": 5,
@@ -9128,7 +9128,7 @@ db.saleTransaction.insertMany (
             "customerId": 1743,
             "totalPrice": 157.76505,
             "quantity": 5,
-            "time": NumberLong(1488966155)
+            "time": 1488966155
         },
         {
             "factoryId": 4,
@@ -9138,7 +9138,7 @@ db.saleTransaction.insertMany (
             "customerId": 899,
             "totalPrice": 37.72933,
             "quantity": 5,
-            "time": NumberLong(1463463047)
+            "time": 1463463047
         },
         {
             "factoryId": 1,
@@ -9148,7 +9148,7 @@ db.saleTransaction.insertMany (
             "customerId": 1590,
             "totalPrice": 86.7631,
             "quantity": 7,
-            "time": NumberLong(1481076436)
+            "time": 1481076436
         },
         {
             "factoryId": 4,
@@ -9158,7 +9158,7 @@ db.saleTransaction.insertMany (
             "customerId": 1937,
             "totalPrice": 133.00703,
             "quantity": 2,
-            "time": NumberLong(1478186992)
+            "time": 1478186992
         },
         {
             "factoryId": 6,
@@ -9168,7 +9168,7 @@ db.saleTransaction.insertMany (
             "customerId": 277,
             "totalPrice": 107.11814,
             "quantity": 12,
-            "time": NumberLong(1491090551)
+            "time": 1491090551
         },
         {
             "factoryId": 6,
@@ -9178,7 +9178,7 @@ db.saleTransaction.insertMany (
             "customerId": 703,
             "totalPrice": 2.757277,
             "quantity": 12,
-            "time": NumberLong(1484028323)
+            "time": 1484028323
         },
         {
             "factoryId": 5,
@@ -9188,7 +9188,7 @@ db.saleTransaction.insertMany (
             "customerId": 389,
             "totalPrice": 22.659147,
             "quantity": 10,
-            "time": NumberLong(1482781784)
+            "time": 1482781784
         },
         {
             "factoryId": 5,
@@ -9198,7 +9198,7 @@ db.saleTransaction.insertMany (
             "customerId": 1962,
             "totalPrice": 91.95615,
             "quantity": 1,
-            "time": NumberLong(1468436641)
+            "time": 1468436641
         },
         {
             "factoryId": 3,
@@ -9208,7 +9208,7 @@ db.saleTransaction.insertMany (
             "customerId": 1569,
             "totalPrice": 88.92892,
             "quantity": 1,
-            "time": NumberLong(1467229820)
+            "time": 1467229820
         },
         {
             "factoryId": 5,
@@ -9218,7 +9218,7 @@ db.saleTransaction.insertMany (
             "customerId": 575,
             "totalPrice": 184.63425,
             "quantity": 6,
-            "time": NumberLong(1487112076)
+            "time": 1487112076
         },
         {
             "factoryId": 4,
@@ -9228,7 +9228,7 @@ db.saleTransaction.insertMany (
             "customerId": 803,
             "totalPrice": 23.309507,
             "quantity": 7,
-            "time": NumberLong(1472117132)
+            "time": 1472117132
         },
         {
             "factoryId": 4,
@@ -9238,7 +9238,7 @@ db.saleTransaction.insertMany (
             "customerId": 593,
             "totalPrice": 43.48916,
             "quantity": 5,
-            "time": NumberLong(1464755281)
+            "time": 1464755281
         },
         {
             "factoryId": 4,
@@ -9248,7 +9248,7 @@ db.saleTransaction.insertMany (
             "customerId": 619,
             "totalPrice": 162.30804,
             "quantity": 12,
-            "time": NumberLong(1474629982)
+            "time": 1474629982
         },
         {
             "factoryId": 6,
@@ -9258,7 +9258,7 @@ db.saleTransaction.insertMany (
             "customerId": 852,
             "totalPrice": 20.441898,
             "quantity": 10,
-            "time": NumberLong(1491616528)
+            "time": 1491616528
         },
         {
             "factoryId": 4,
@@ -9268,7 +9268,7 @@ db.saleTransaction.insertMany (
             "customerId": 14,
             "totalPrice": 198.91856,
             "quantity": 10,
-            "time": NumberLong(1487853122)
+            "time": 1487853122
         },
         {
             "factoryId": 2,
@@ -9278,7 +9278,7 @@ db.saleTransaction.insertMany (
             "customerId": 1287,
             "totalPrice": 127.35048,
             "quantity": 3,
-            "time": NumberLong(1469793405)
+            "time": 1469793405
         },
         {
             "factoryId": 4,
@@ -9288,7 +9288,7 @@ db.saleTransaction.insertMany (
             "customerId": 882,
             "totalPrice": 36.0104,
             "quantity": 12,
-            "time": NumberLong(1492736236)
+            "time": 1492736236
         },
         {
             "factoryId": 1,
@@ -9298,7 +9298,7 @@ db.saleTransaction.insertMany (
             "customerId": 1,
             "totalPrice": 169.92186,
             "quantity": 10,
-            "time": NumberLong(1491216343)
+            "time": 1491216343
         },
         {
             "factoryId": 2,
@@ -9308,7 +9308,7 @@ db.saleTransaction.insertMany (
             "customerId": 1287,
             "totalPrice": 69.274796,
             "quantity": 10,
-            "time": NumberLong(1463336936)
+            "time": 1463336936
         },
         {
             "factoryId": 6,
@@ -9318,7 +9318,7 @@ db.saleTransaction.insertMany (
             "customerId": 1894,
             "totalPrice": 93.603485,
             "quantity": 6,
-            "time": NumberLong(1484107664)
+            "time": 1484107664
         },
         {
             "factoryId": 1,
@@ -9328,7 +9328,7 @@ db.saleTransaction.insertMany (
             "customerId": 220,
             "totalPrice": 20.632969,
             "quantity": 12,
-            "time": NumberLong(1483355392)
+            "time": 1483355392
         },
         {
             "factoryId": 2,
@@ -9338,7 +9338,7 @@ db.saleTransaction.insertMany (
             "customerId": 402,
             "totalPrice": 2.2023158,
             "quantity": 4,
-            "time": NumberLong(1483803430)
+            "time": 1483803430
         },
         {
             "factoryId": 1,
@@ -9348,7 +9348,7 @@ db.saleTransaction.insertMany (
             "customerId": 181,
             "totalPrice": 78.487915,
             "quantity": 7,
-            "time": NumberLong(1491670688)
+            "time": 1491670688
         },
         {
             "factoryId": 5,
@@ -9358,7 +9358,7 @@ db.saleTransaction.insertMany (
             "customerId": 570,
             "totalPrice": 53.983273,
             "quantity": 9,
-            "time": NumberLong(1487079845)
+            "time": 1487079845
         },
         {
             "factoryId": 4,
@@ -9368,7 +9368,7 @@ db.saleTransaction.insertMany (
             "customerId": 1209,
             "totalPrice": 186.57207,
             "quantity": 7,
-            "time": NumberLong(1482513843)
+            "time": 1482513843
         },
         {
             "factoryId": 5,
@@ -9378,7 +9378,7 @@ db.saleTransaction.insertMany (
             "customerId": 62,
             "totalPrice": 30.683498,
             "quantity": 2,
-            "time": NumberLong(1475875700)
+            "time": 1475875700
         },
         {
             "factoryId": 5,
@@ -9388,7 +9388,7 @@ db.saleTransaction.insertMany (
             "customerId": 1009,
             "totalPrice": 13.073732,
             "quantity": 1,
-            "time": NumberLong(1485477120)
+            "time": 1485477120
         },
         {
             "factoryId": 1,
@@ -9398,7 +9398,7 @@ db.saleTransaction.insertMany (
             "customerId": 1066,
             "totalPrice": 162.76956,
             "quantity": 8,
-            "time": NumberLong(1464368646)
+            "time": 1464368646
         },
         {
             "factoryId": 2,
@@ -9408,7 +9408,7 @@ db.saleTransaction.insertMany (
             "customerId": 759,
             "totalPrice": 70.370384,
             "quantity": 8,
-            "time": NumberLong(1465418465)
+            "time": 1465418465
         },
         {
             "factoryId": 1,
@@ -9418,7 +9418,7 @@ db.saleTransaction.insertMany (
             "customerId": 810,
             "totalPrice": 151.81023,
             "quantity": 8,
-            "time": NumberLong(1488729689)
+            "time": 1488729689
         },
         {
             "factoryId": 4,
@@ -9428,7 +9428,7 @@ db.saleTransaction.insertMany (
             "customerId": 1231,
             "totalPrice": 141.8149,
             "quantity": 10,
-            "time": NumberLong(1474576544)
+            "time": 1474576544
         },
         {
             "factoryId": 5,
@@ -9438,7 +9438,7 @@ db.saleTransaction.insertMany (
             "customerId": 1396,
             "totalPrice": 23.350067,
             "quantity": 6,
-            "time": NumberLong(1484805088)
+            "time": 1484805088
         },
         {
             "factoryId": 6,
@@ -9448,7 +9448,7 @@ db.saleTransaction.insertMany (
             "customerId": 261,
             "totalPrice": 24.979671,
             "quantity": 8,
-            "time": NumberLong(1468279777)
+            "time": 1468279777
         },
         {
             "factoryId": 2,
@@ -9458,7 +9458,7 @@ db.saleTransaction.insertMany (
             "customerId": 1497,
             "totalPrice": 161.32747,
             "quantity": 12,
-            "time": NumberLong(1481512916)
+            "time": 1481512916
         },
         {
             "factoryId": 4,
@@ -9468,7 +9468,7 @@ db.saleTransaction.insertMany (
             "customerId": 1007,
             "totalPrice": 25.409132,
             "quantity": 10,
-            "time": NumberLong(1464075569)
+            "time": 1464075569
         },
         {
             "factoryId": 6,
@@ -9478,7 +9478,7 @@ db.saleTransaction.insertMany (
             "customerId": 804,
             "totalPrice": 178.50826,
             "quantity": 3,
-            "time": NumberLong(1472760211)
+            "time": 1472760211
         },
         {
             "factoryId": 2,
@@ -9488,7 +9488,7 @@ db.saleTransaction.insertMany (
             "customerId": 1076,
             "totalPrice": 53.28417,
             "quantity": 9,
-            "time": NumberLong(1476345021)
+            "time": 1476345021
         },
         {
             "factoryId": 3,
@@ -9498,7 +9498,7 @@ db.saleTransaction.insertMany (
             "customerId": 845,
             "totalPrice": 85.712944,
             "quantity": 12,
-            "time": NumberLong(1467454896)
+            "time": 1467454896
         },
         {
             "factoryId": 2,
@@ -9508,7 +9508,7 @@ db.saleTransaction.insertMany (
             "customerId": 1243,
             "totalPrice": 49.512054,
             "quantity": 7,
-            "time": NumberLong(1476126204)
+            "time": 1476126204
         },
         {
             "factoryId": 6,
@@ -9518,7 +9518,7 @@ db.saleTransaction.insertMany (
             "customerId": 102,
             "totalPrice": 161.53018,
             "quantity": 10,
-            "time": NumberLong(1468047435)
+            "time": 1468047435
         },
         {
             "factoryId": 2,
@@ -9528,7 +9528,7 @@ db.saleTransaction.insertMany (
             "customerId": 835,
             "totalPrice": 130.39803,
             "quantity": 4,
-            "time": NumberLong(1487099277)
+            "time": 1487099277
         },
         {
             "factoryId": 6,
@@ -9538,7 +9538,7 @@ db.saleTransaction.insertMany (
             "customerId": 896,
             "totalPrice": 152.1222,
             "quantity": 2,
-            "time": NumberLong(1482567145)
+            "time": 1482567145
         },
         {
             "factoryId": 1,
@@ -9548,7 +9548,7 @@ db.saleTransaction.insertMany (
             "customerId": 1434,
             "totalPrice": 176.50185,
             "quantity": 11,
-            "time": NumberLong(1487284140)
+            "time": 1487284140
         },
         {
             "factoryId": 5,
@@ -9558,7 +9558,7 @@ db.saleTransaction.insertMany (
             "customerId": 228,
             "totalPrice": 195.38264,
             "quantity": 7,
-            "time": NumberLong(1468845847)
+            "time": 1468845847
         },
         {
             "factoryId": 6,
@@ -9568,7 +9568,7 @@ db.saleTransaction.insertMany (
             "customerId": 1580,
             "totalPrice": 158.58109,
             "quantity": 12,
-            "time": NumberLong(1473538928)
+            "time": 1473538928
         },
         {
             "factoryId": 4,
@@ -9578,7 +9578,7 @@ db.saleTransaction.insertMany (
             "customerId": 234,
             "totalPrice": 90.61117,
             "quantity": 12,
-            "time": NumberLong(1491729325)
+            "time": 1491729325
         },
         {
             "factoryId": 3,
@@ -9588,7 +9588,7 @@ db.saleTransaction.insertMany (
             "customerId": 16,
             "totalPrice": 38.06281,
             "quantity": 6,
-            "time": NumberLong(1489588082)
+            "time": 1489588082
         },
         {
             "factoryId": 5,
@@ -9598,7 +9598,7 @@ db.saleTransaction.insertMany (
             "customerId": 1828,
             "totalPrice": 57.017803,
             "quantity": 1,
-            "time": NumberLong(1490412902)
+            "time": 1490412902
         },
         {
             "factoryId": 1,
@@ -9608,7 +9608,7 @@ db.saleTransaction.insertMany (
             "customerId": 1737,
             "totalPrice": 37.61024,
             "quantity": 10,
-            "time": NumberLong(1483127739)
+            "time": 1483127739
         },
         {
             "factoryId": 5,
@@ -9618,7 +9618,7 @@ db.saleTransaction.insertMany (
             "customerId": 46,
             "totalPrice": 9.455234,
             "quantity": 3,
-            "time": NumberLong(1476328159)
+            "time": 1476328159
         },
         {
             "factoryId": 2,
@@ -9628,7 +9628,7 @@ db.saleTransaction.insertMany (
             "customerId": 233,
             "totalPrice": 168.05362,
             "quantity": 10,
-            "time": NumberLong(1469468138)
+            "time": 1469468138
         },
         {
             "factoryId": 6,
@@ -9638,7 +9638,7 @@ db.saleTransaction.insertMany (
             "customerId": 972,
             "totalPrice": 30.398062,
             "quantity": 11,
-            "time": NumberLong(1485754462)
+            "time": 1485754462
         },
         {
             "factoryId": 3,
@@ -9648,7 +9648,7 @@ db.saleTransaction.insertMany (
             "customerId": 1500,
             "totalPrice": 89.27848,
             "quantity": 12,
-            "time": NumberLong(1464160699)
+            "time": 1464160699
         },
         {
             "factoryId": 5,
@@ -9658,7 +9658,7 @@ db.saleTransaction.insertMany (
             "customerId": 374,
             "totalPrice": 185.3061,
             "quantity": 9,
-            "time": NumberLong(1490127829)
+            "time": 1490127829
         },
         {
             "factoryId": 2,
@@ -9668,7 +9668,7 @@ db.saleTransaction.insertMany (
             "customerId": 43,
             "totalPrice": 179.42374,
             "quantity": 8,
-            "time": NumberLong(1482584291)
+            "time": 1482584291
         },
         {
             "factoryId": 1,
@@ -9678,7 +9678,7 @@ db.saleTransaction.insertMany (
             "customerId": 1597,
             "totalPrice": 57.466133,
             "quantity": 7,
-            "time": NumberLong(1484794620)
+            "time": 1484794620
         },
         {
             "factoryId": 4,
@@ -9688,7 +9688,7 @@ db.saleTransaction.insertMany (
             "customerId": 565,
             "totalPrice": 101.72103,
             "quantity": 2,
-            "time": NumberLong(1479578657)
+            "time": 1479578657
         },
         {
             "factoryId": 3,
@@ -9698,7 +9698,7 @@ db.saleTransaction.insertMany (
             "customerId": 103,
             "totalPrice": 25.958963,
             "quantity": 7,
-            "time": NumberLong(1479993320)
+            "time": 1479993320
         },
         {
             "factoryId": 3,
@@ -9708,7 +9708,7 @@ db.saleTransaction.insertMany (
             "customerId": 1142,
             "totalPrice": 8.724294,
             "quantity": 12,
-            "time": NumberLong(1488803366)
+            "time": 1488803366
         },
         {
             "factoryId": 2,
@@ -9718,7 +9718,7 @@ db.saleTransaction.insertMany (
             "customerId": 696,
             "totalPrice": 66.58601,
             "quantity": 7,
-            "time": NumberLong(1488696799)
+            "time": 1488696799
         },
         {
             "factoryId": 3,
@@ -9728,7 +9728,7 @@ db.saleTransaction.insertMany (
             "customerId": 1536,
             "totalPrice": 112.689285,
             "quantity": 3,
-            "time": NumberLong(1478526463)
+            "time": 1478526463
         },
         {
             "factoryId": 1,
@@ -9738,7 +9738,7 @@ db.saleTransaction.insertMany (
             "customerId": 1433,
             "totalPrice": 138.39174,
             "quantity": 11,
-            "time": NumberLong(1470640440)
+            "time": 1470640440
         },
         {
             "factoryId": 5,
@@ -9748,7 +9748,7 @@ db.saleTransaction.insertMany (
             "customerId": 594,
             "totalPrice": 61.87348,
             "quantity": 12,
-            "time": NumberLong(1466791394)
+            "time": 1466791394
         },
         {
             "factoryId": 3,
@@ -9758,7 +9758,7 @@ db.saleTransaction.insertMany (
             "customerId": 836,
             "totalPrice": 119.44449,
             "quantity": 6,
-            "time": NumberLong(1487447071)
+            "time": 1487447071
         },
         {
             "factoryId": 6,
@@ -9768,7 +9768,7 @@ db.saleTransaction.insertMany (
             "customerId": 1102,
             "totalPrice": 41.65233,
             "quantity": 4,
-            "time": NumberLong(1477076306)
+            "time": 1477076306
         },
         {
             "factoryId": 1,
@@ -9778,7 +9778,7 @@ db.saleTransaction.insertMany (
             "customerId": 541,
             "totalPrice": 46.839504,
             "quantity": 11,
-            "time": NumberLong(1477532430)
+            "time": 1477532430
         },
         {
             "factoryId": 3,
@@ -9788,7 +9788,7 @@ db.saleTransaction.insertMany (
             "customerId": 1205,
             "totalPrice": 105.06864,
             "quantity": 2,
-            "time": NumberLong(1472779588)
+            "time": 1472779588
         },
         {
             "factoryId": 6,
@@ -9798,7 +9798,7 @@ db.saleTransaction.insertMany (
             "customerId": 1742,
             "totalPrice": 53.506573,
             "quantity": 6,
-            "time": NumberLong(1489915428)
+            "time": 1489915428
         },
         {
             "factoryId": 5,
@@ -9808,7 +9808,7 @@ db.saleTransaction.insertMany (
             "customerId": 1415,
             "totalPrice": 115.60944,
             "quantity": 4,
-            "time": NumberLong(1489975258)
+            "time": 1489975258
         },
         {
             "factoryId": 3,
@@ -9818,7 +9818,7 @@ db.saleTransaction.insertMany (
             "customerId": 1941,
             "totalPrice": 169.85695,
             "quantity": 6,
-            "time": NumberLong(1485503629)
+            "time": 1485503629
         },
         {
             "factoryId": 4,
@@ -9828,7 +9828,7 @@ db.saleTransaction.insertMany (
             "customerId": 789,
             "totalPrice": 39.081577,
             "quantity": 4,
-            "time": NumberLong(1486491570)
+            "time": 1486491570
         },
         {
             "factoryId": 2,
@@ -9838,7 +9838,7 @@ db.saleTransaction.insertMany (
             "customerId": 537,
             "totalPrice": 5.4791136,
             "quantity": 12,
-            "time": NumberLong(1464884444)
+            "time": 1464884444
         },
         {
             "factoryId": 5,
@@ -9848,7 +9848,7 @@ db.saleTransaction.insertMany (
             "customerId": 1335,
             "totalPrice": 50.114162,
             "quantity": 5,
-            "time": NumberLong(1464632033)
+            "time": 1464632033
         },
         {
             "factoryId": 2,
@@ -9858,7 +9858,7 @@ db.saleTransaction.insertMany (
             "customerId": 59,
             "totalPrice": 13.097777,
             "quantity": 11,
-            "time": NumberLong(1476512648)
+            "time": 1476512648
         },
         {
             "factoryId": 3,
@@ -9868,7 +9868,7 @@ db.saleTransaction.insertMany (
             "customerId": 186,
             "totalPrice": 194.11118,
             "quantity": 8,
-            "time": NumberLong(1463497735)
+            "time": 1463497735
         },
         {
             "factoryId": 5,
@@ -9878,7 +9878,7 @@ db.saleTransaction.insertMany (
             "customerId": 299,
             "totalPrice": 172.08456,
             "quantity": 11,
-            "time": NumberLong(1477817906)
+            "time": 1477817906
         },
         {
             "factoryId": 2,
@@ -9888,7 +9888,7 @@ db.saleTransaction.insertMany (
             "customerId": 995,
             "totalPrice": 7.3092604,
             "quantity": 12,
-            "time": NumberLong(1470413240)
+            "time": 1470413240
         },
         {
             "factoryId": 6,
@@ -9898,7 +9898,7 @@ db.saleTransaction.insertMany (
             "customerId": 369,
             "totalPrice": 22.401054,
             "quantity": 3,
-            "time": NumberLong(1479438739)
+            "time": 1479438739
         },
         {
             "factoryId": 5,
@@ -9908,7 +9908,7 @@ db.saleTransaction.insertMany (
             "customerId": 535,
             "totalPrice": 59.007416,
             "quantity": 10,
-            "time": NumberLong(1463508820)
+            "time": 1463508820
         },
         {
             "factoryId": 2,
@@ -9918,7 +9918,7 @@ db.saleTransaction.insertMany (
             "customerId": 1578,
             "totalPrice": 77.416824,
             "quantity": 11,
-            "time": NumberLong(1479712546)
+            "time": 1479712546
         },
         {
             "factoryId": 3,
@@ -9928,7 +9928,7 @@ db.saleTransaction.insertMany (
             "customerId": 1953,
             "totalPrice": 71.8215,
             "quantity": 6,
-            "time": NumberLong(1480808151)
+            "time": 1480808151
         },
         {
             "factoryId": 3,
@@ -9938,7 +9938,7 @@ db.saleTransaction.insertMany (
             "customerId": 1749,
             "totalPrice": 193.18465,
             "quantity": 2,
-            "time": NumberLong(1486321604)
+            "time": 1486321604
         },
         {
             "factoryId": 5,
@@ -9948,7 +9948,7 @@ db.saleTransaction.insertMany (
             "customerId": 1242,
             "totalPrice": 112.09094,
             "quantity": 11,
-            "time": NumberLong(1483971999)
+            "time": 1483971999
         },
         {
             "factoryId": 5,
@@ -9958,7 +9958,7 @@ db.saleTransaction.insertMany (
             "customerId": 1811,
             "totalPrice": 125.554535,
             "quantity": 6,
-            "time": NumberLong(1478046686)
+            "time": 1478046686
         },
         {
             "factoryId": 1,
@@ -9968,7 +9968,7 @@ db.saleTransaction.insertMany (
             "customerId": 1911,
             "totalPrice": 136.38501,
             "quantity": 7,
-            "time": NumberLong(1483531187)
+            "time": 1483531187
         },
         {
             "factoryId": 6,
@@ -9978,7 +9978,7 @@ db.saleTransaction.insertMany (
             "customerId": 371,
             "totalPrice": 11.517986,
             "quantity": 6,
-            "time": NumberLong(1465768798)
+            "time": 1465768798
         },
         {
             "factoryId": 1,
@@ -9988,7 +9988,7 @@ db.saleTransaction.insertMany (
             "customerId": 1865,
             "totalPrice": 154.93336,
             "quantity": 9,
-            "time": NumberLong(1475755759)
+            "time": 1475755759
         },
         {
             "factoryId": 4,
@@ -9998,7 +9998,7 @@ db.saleTransaction.insertMany (
             "customerId": 3,
             "totalPrice": 85.464874,
             "quantity": 10,
-            "time": NumberLong(1484872861)
+            "time": 1484872861
         },
         {
             "factoryId": 1,
@@ -10008,7 +10008,7 @@ db.saleTransaction.insertMany (
             "customerId": 3,
             "totalPrice": 85.464874,
             "quantity": 10,
-            "time": NumberLong(1494295200)
+            "time": 1494295200
         },
         {
             "factoryId": 2,
@@ -10018,7 +10018,7 @@ db.saleTransaction.insertMany (
             "customerId": 3,
             "totalPrice": 85.464874,
             "quantity": 10,
-            "time": NumberLong(1494295200)
+            "time": 1494295200
         },
         {
             "factoryId": 3,
@@ -10028,7 +10028,7 @@ db.saleTransaction.insertMany (
             "customerId": 3,
             "totalPrice": 85.464874,
             "quantity": 10,
-            "time": NumberLong(1494295200)
+            "time": 1494295200
         },
         {
             "factoryId": 4,
@@ -10038,7 +10038,7 @@ db.saleTransaction.insertMany (
             "customerId": 3,
             "totalPrice": 85.464874,
             "quantity": 10,
-            "time": NumberLong(1494295200)
+            "time": 1494295200
         },
         {
             "factoryId": 5,
@@ -10048,7 +10048,7 @@ db.saleTransaction.insertMany (
             "customerId": 3,
             "totalPrice": 85.464874,
             "quantity": 10,
-            "time": NumberLong(1494295200)
+            "time": 1494295200
         },
         {
             "factoryId": 6,
@@ -10058,7 +10058,7 @@ db.saleTransaction.insertMany (
             "customerId": 3,
             "totalPrice": 85.464874,
             "quantity": 10,
-            "time": NumberLong(1494295200)
+            "time": 1494295200
         }
     ]
-);
+;
