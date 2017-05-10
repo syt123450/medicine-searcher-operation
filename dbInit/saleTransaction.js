@@ -9999,6 +9999,71 @@ db.saleTransaction.insertMany (
             "totalPrice": 85.464874,
             "quantity": 10,
             "time": NumberLong(1484872861)
-        }
+        },
+
+
+
+
+
+        {
+            "factoryId": 1,
+            "brandId": 78,
+            "medicineId": 7,
+            "storeId": 48,
+            "customerId": 3,
+            "totalPrice": 85.464874,
+            "quantity": 10,
+            "time": NumberLong(1494295200)
+        },
+        {
+            "factoryId": 2,
+            "brandId": 100,
+            "medicineId": 453,
+            "storeId": 48,
+            "customerId": 3,
+            "totalPrice": 85.464874,
+            "quantity": 10,
+            "time": NumberLong(1494295200)
+        },
+        {
+            "factoryId": 3,
+            "brandId": 39,
+            "medicineId": 420,
+            "storeId": 48,
+            "customerId": 3,
+            "totalPrice": 85.464874,
+            "quantity": 10,
+            "time": NumberLong(1494295200)
+        },
+        {
+            "factoryId": 4,
+            "brandId": 141,
+            "medicineId": 21,
+            "storeId": 48,
+            "customerId": 3,
+            "totalPrice": 85.464874,
+            "quantity": 10,
+            "time": NumberLong(1494295200)
+        },
+        {
+            "factoryId": 5,
+            "brandId": 70,
+            "medicineId": 850,
+            "storeId": 48,
+            "customerId": 3,
+            "totalPrice": 85.464874,
+            "quantity": 10,
+            "time": NumberLong(1494295200)
+        },
+        {
+            "factoryId": 6,
+            "brandId": 12,
+            "medicineId": 430,
+            "storeId": 48,
+            "customerId": 3,
+            "totalPrice": 85.464874,
+            "quantity": 10,
+            "time": NumberLong(1494295200)
+        },
     ]
 );
