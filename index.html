@@ -27,7 +27,7 @@
         </div>
     </nav>
 
-    <div href="#" class="list-group-item">
+    <div href="#" class="list-group-item" style="border-radius: 5px;">
         <div class="row">
             <div class="col-sm-3"><h4>Search Medicine :</h4></div>
             <div class="col-sm-2">
@@ -41,6 +41,8 @@
             </div>
         </div>
     </div>
+
+    <img id="decoratedImg" style="width: 100%; margin-top: 20px;border-radius: 40px;" src="img/operation1.jpg">
 
     <table class="table table-hover">
         <caption>Available Medicine</caption>
@@ -142,6 +144,9 @@
         });
 
         $("#search").click(function () {
+
+            $("#decoratedImg").hide();
+
             var medicineKeyword = $("#medicineName").val();
             var customerName = $("#customerName").val();
 

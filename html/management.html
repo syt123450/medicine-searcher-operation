@@ -27,7 +27,7 @@
         </div>
     </nav>
 
-    <div href="#" class="list-group-item">
+    <div href="#" class="list-group-item" style="border-radius: 5px;">
 
         <div class="row">
             <div class="col-sm-3"><h4>See Transaction :</h4></div>
@@ -45,6 +45,7 @@
 
     </div>
 
+    <img id="decoratedImg" style="width: 100%; border-radius: 40px;" src="../img/operation2.jpg">
 
     <table class="table table-striped">
         <caption>Customer Sale Transaction</caption>
@@ -99,8 +100,11 @@
 <script>
 
 
-    $(function() {
-        $("#check").click(function() {
+    $(function () {
+        $("#check").click(function () {
+
+            $("#decoratedImg").hide();
+
             var customerName = $("#customerName");
 
             var postBody = {
@@ -114,12 +118,12 @@
                 async: true,
                 data: JSON.stringify(postBody),
                 dataType: 'json',
-                success: function(transactionData) {
+                success: function (transactionData) {
                     console.log(transactionData);
                     $("table").show();
                     renderTransactionResult(transactionData);
                 },
-                error: function(data) {
+                error: function (data) {
                     console.log(data);
                 }
             });
