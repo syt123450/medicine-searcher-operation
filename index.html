@@ -144,7 +144,7 @@
             }
         });
 
-        $("table button").click(function () {
+        $("table td>button").click(function () {
             var line = $(this).parent().parent();
             var factoryId = $(line).find("td:eq(0)").attr("data-factoryId");
             var brandId = $(line).find("td:eq(1)").attr("data-brandId");
