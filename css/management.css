@@ -19,7 +19,7 @@ body > div {
 
 table {
     margin-top: 50px;
-    display: none;
+    /*display: none;*/
 }
 
 table caption {

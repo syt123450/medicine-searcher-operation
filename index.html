@@ -94,6 +94,42 @@
 <script>
 
     $(function () {
+
+        $("#search").click(function () {
+
+            $("#decoratedImg").hide();
+
+            var medicineKeyword = $("#medicineName").val();
+            var customerName = $("#customerName").val();
+
+            var postBody = {
+                "medicineKeyword": medicineKeyword,
+                "customerName": customerName
+            };
+
+            console.log(postBody);
+
+            $.ajax({
+                url: 'api/getMedicine.php',
+                type: 'POST',
+                contentType: "application/json; charset=utf-8",
+                async: true,
+                data: JSON.stringify(postBody),
+                dataType: 'json',
+                success: function (data) {
+                    console.log(data);
+                    $("table").show();
+                    renderSearchResult(data);
+                    bindEvent();
+                },
+                error: function (data) {
+                    console.log(data);
+                }
+            });
+        });
+    });
+
+    function bindEvent() {
         $(".input-group button").click(function () {
             if ($(this).text() === "-") {
 
@@ -142,39 +178,7 @@
                 }
             });
         });
-
-        $("#search").click(function () {
-
-            $("#decoratedImg").hide();
-
-            var medicineKeyword = $("#medicineName").val();
-            var customerName = $("#customerName").val();
-
-            var postBody = {
-                "medicineKeyword": medicineKeyword,
-                "customerName": customerName
-            };
-
-            console.log(postBody);
-
-            $.ajax({
-                url: 'api/getMedicine.php',
-                type: 'POST',
-                contentType: "application/json; charset=utf-8",
-                async: true,
-                data: JSON.stringify(postBody),
-                dataType: 'json',
-                success: function (data) {
-                    console.log(data);
-                    $("table").show();
-                    renderSearchResult(data);
-                },
-                error: function (data) {
-                    console.log(data);
-                }
-            });
-        });
-    });
+    }
 
     function renderSearchResult(searchResult) {
         var resultArea = $("tbody");
