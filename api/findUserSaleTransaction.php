@@ -12,8 +12,7 @@ $rawPostBody = @file_get_contents('php://input');
 $decodePostBody = urldecode($rawPostBody);
 $postJson = json_decode($decodePostBody);
 
-//echo json_encode(getSaleTransactionForCustomer($postJson->customerName));
-echo json_encode(getSaleTransactionForCustomer("Valentin Marling"));
+echo json_encode(getSaleTransactionForCustomer($postJson->customerName));
 
 function getSaleTransactionForCustomer($customerName){
     $ret = array();
@@ -28,7 +27,6 @@ function getSaleTransactionForCustomer($customerName){
             $item = [
                 "factory" => $result["factoryId"],
                 "brand" => $result["brandId"],
-//                "brand" => 233333,
                 "medicine" => $result["medicineId"],
                 "store" => $result["storeId"],
                 "quantity" => $result["quantity"],
@@ -45,25 +43,4 @@ function getSaleTransactionForCustomer($customerName){
     return $ret;
 }
 
-//"_id" : ObjectId("590d41b5913dbd245be94ee0"),
-//	"transactionId" : 20,
-//	"quantity" : 3,
-//	"time" : 1522686988,
-//	"medicineId" : 564,
-//	"storeId" : 6,
-//	"customerId" : 1580,
-//	"factoryId" : 5,
-//	"totalPrice" : 7873.5863883192
-
-
-//return
-//{
-//"factory": "",
-//"brand": "",
-//"medicine": "",
-//"store": "",
-//"quantity": "",
-//"totalPrice": "",
-//"time": ""
-//}
 

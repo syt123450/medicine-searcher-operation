@@ -25,7 +25,7 @@ require_once('../PhpLib/mySqlConn.php');
 function addSaleTransaction($dataAry){
     $customerInfo =findUserInfo($dataAry["customerName"]);
     $customerInfo = $customerInfo[0];
-    $customerID = $customerInfo["customerId"];
+    $customerID = (int)$customerInfo["customerId"];
 
     // Decide current timestamp
     $date = new DateTime();
