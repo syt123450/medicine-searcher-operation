@@ -46,4 +46,18 @@ function addMultipleData($collectionName, $docAry){
     return $result;
 }
 
+function testLong(){
+    $manager = new MongoDB\Driver\Manager("mongodb://localhost:27017");
+
+    $query = new MongoDB\Driver\Query([], []);
+    $readPreference = new MongoDB\Driver\ReadPreference(MongoDB\Driver\ReadPreference::RP_PRIMARY);
+    $rows = $manager->executeQuery("226operation.test", "", $readPreference)->toArray();
+
+    return $rows;
+}
+
+
+
+//$ary = getData("226operation.test", [], []);
+//var_dump($ary);
 

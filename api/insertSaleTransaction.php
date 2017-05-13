@@ -12,12 +12,12 @@ $decodePostBody = urldecode($rawPostBody);
 $postJson = json_decode($decodePostBody);
 
 $dataAry = array(
-    "factoryId" => $postJson->factoryId,
-    "brandId" => $postJson->brandId,
-    "medicineId" => $postJson->medicineId,
-    "storeId" => $postJson->storeId,
-    "price" => $postJson->price,
-    "quantity" => $postJson->quantity,
+    "factoryId" => (int)$postJson->factoryId,
+    "brandId" => (int)$postJson->brandId,
+    "medicineId" => (int)$postJson->medicineId,
+    "storeId" => (int)$postJson->storeId,
+    "price" => (double)$postJson->price,
+    "quantity" => (int)$postJson->quantity,
     "customerName" => $postJson->customerName
 );
 

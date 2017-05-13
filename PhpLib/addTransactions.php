@@ -33,7 +33,9 @@ function addSaleTransaction($dataAry){
 
     // Calculate total price
     $dataAry["totalPrice"] = $dataAry["price"] * $dataAry["quantity"];
+
     $dataAry["time"] = $date->getTimestamp();
+
     $dataAry["customerId"] = $customerID;
     unset($dataAry["price"]);
     unset($dataAry["customerName"]);

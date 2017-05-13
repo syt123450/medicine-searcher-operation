@@ -9948,7 +9948,7 @@ db.saleTransaction.insertMany (
             "customerId": 1242,
             "totalPrice": 112.09094,
             "quantity": 11,
-            "time": 1483971999
+            "time": 1498971999
         },
         {
             "factoryId": 5,
@@ -9958,7 +9958,7 @@ db.saleTransaction.insertMany (
             "customerId": 1811,
             "totalPrice": 125.554535,
             "quantity": 6,
-            "time": 1478046686
+            "time": 1498046686
         },
         {
             "factoryId": 1,
@@ -9968,7 +9968,7 @@ db.saleTransaction.insertMany (
             "customerId": 1911,
             "totalPrice": 136.38501,
             "quantity": 7,
-            "time": 1483531187
+            "time": 1498531187
         },
         {
             "factoryId": 6,
@@ -9978,7 +9978,7 @@ db.saleTransaction.insertMany (
             "customerId": 371,
             "totalPrice": 11.517986,
             "quantity": 6,
-            "time": 1465768798
+            "time": 1498768798
         },
         {
             "factoryId": 1,
@@ -9988,7 +9988,7 @@ db.saleTransaction.insertMany (
             "customerId": 1865,
             "totalPrice": 154.93336,
             "quantity": 9,
-            "time": 1475755759
+            "time": 1498755759
         },
         {
             "factoryId": 4,
@@ -9998,7 +9998,7 @@ db.saleTransaction.insertMany (
             "customerId": 3,
             "totalPrice": 85.464874,
             "quantity": 10,
-            "time": 1484872861
+            "time": 1498872861
         },
         {
             "factoryId": 1,
@@ -10008,7 +10008,7 @@ db.saleTransaction.insertMany (
             "customerId": 3,
             "totalPrice": 85.464874,
             "quantity": 10,
-            "time": 1494295200
+            "time": 1498295200
         },
         {
             "factoryId": 2,
@@ -10018,7 +10018,7 @@ db.saleTransaction.insertMany (
             "customerId": 3,
             "totalPrice": 85.464874,
             "quantity": 10,
-            "time": 1494295200
+            "time": 1498295200
         },
         {
             "factoryId": 3,
@@ -10028,7 +10028,7 @@ db.saleTransaction.insertMany (
             "customerId": 3,
             "totalPrice": 85.464874,
             "quantity": 10,
-            "time": 1494295200
+            "time": 1498295200
         },
         {
             "factoryId": 4,
@@ -10038,7 +10038,7 @@ db.saleTransaction.insertMany (
             "customerId": 3,
             "totalPrice": 85.464874,
             "quantity": 10,
-            "time": 1494295200
+            "time": 1498295200
         },
         {
             "factoryId": 5,
@@ -10048,7 +10048,7 @@ db.saleTransaction.insertMany (
             "customerId": 3,
             "totalPrice": 85.464874,
             "quantity": 10,
-            "time": 1494295200
+            "time": 1498295200
         },
         {
             "factoryId": 6,
@@ -10058,7 +10058,7 @@ db.saleTransaction.insertMany (
             "customerId": 3,
             "totalPrice": 85.464874,
             "quantity": 10,
-            "time": 1494295200
+            "time": 1498295200
         }
     ]
-;
+);
