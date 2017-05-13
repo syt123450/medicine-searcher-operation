@@ -19,7 +19,8 @@ body > div {
 
 table {
     margin-top: 50px;
-    /*display: none;*/
+    display: none;
+    width: 100%;
 }
 
 table caption {
